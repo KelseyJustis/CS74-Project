@@ -1,0 +1,57 @@
+BIOL 63 ­ RNA: The Real Secret of Life Legend has it that after the discovery of the structure of DNA Francis Crick announced to the patrons of the Eagle Pub in Cambridge, England that they had discovered the secret of life. But what has been learned since this February day in 1953 is that although DNA is the bedrock of modern molecular biology, it is actually RNA that allowed for the emergence of life, and is the central molecule in life's Central Dogma. Indeed, with the application of new deep sequencing technologies we are discovering that much of the genome is transcribed into functional RNA that does not code for proteins, but instead is involved in gene regulation and genomic architecture, in addition to the maintenance of genome integrity and even possibly the evolution of morphological complexity. In fact, the very question of "what is a gene?" is even being reconsidered, as the fundamental unit of genomic organization appears not to be the classical DNA-based "gene" but instead is the RNA-based transcript. In this course we will explore these issues and more through lectures, literature discussions, student-led presentations, and student writing assignments.
+Instructor Peterson
+Prerequisites One from among BIOL 28, BIOL 36, BIOL 38, BIOL 40 or BIOL 45
+Distributive SCI
+Offered 13S: 12
+
+Biology 63 ­ RNA: The Real Secret of Life Spring 2013
+12 (MWF 12:30-1:35)
+
+Instructor: Office Location:
+Email: Office Phone:
+Office Hours:
+
+Prof. Kevin J Peterson 321 LFC
+kevin.j.peterson@dartmouth.edu 646-0215
+Tuesday 3:30-5:00
+
+Course Description See the ORC.
+
+Course Goals & Learning Objective
+With the explosion of information about the nature of animal genomes it is clear that RNA might actually be the central molecule in life's central dogma, and when coupled with the realization that RNA is not only an older molecule than DNA and can serve both as an informational storage (genotype) and informational execution (phenotype), the "real" secret to life is not DNA, but RNA. Students will be exposed to much of the new exciting research currently being done in RNA biology and evolution, as they will be expected to read research papers, write a paper summarizing an area of RNA biology that they find particularly interesting, and present these findings to the class.
+
+Pre-Requisites One from among BIOL 28, BIOL 36, BIOL 38, BIOL 39 or BIOL 45
+Text and Resources This course is on Dartmouth's Blackboard site (http://blackboard.dartmouth.edu). There you will find this syllabus, the PowerPoint presentations, and the readings. To access it go to the aforementioned website and use your blitz username and password.
+Grading The course will be generally organized such that on Mondays I will lecture on a specific topic of RNA biology (see below). On Wednesday of that week we will meet to discus a research paper on this topic that I will assign. Students will responsible for a one paragraph summary of the paper, identifying in writing one aspect of the paper that they did not understand, and raise one question that the paper poses (explicitly or implicitly), but does not address, a question that would thus constitute fodder for future research. On Fridays each student will be responsible for giving a one-half hour presentation subject chosen by the student in consultation with myself on an area of RNA biology/evolution that they find interesting. The student will not only assign a paper to the class for background (preferably a review article), but they also must submit a written 8-10 page paper summarizing the presentation, giving the background, current research efforts on the subject, and likely future directions. The student will meet with me during the term to discuss the presentation, and to check for adequate progress and to address questions that the student might have. Students will meet with me on the Tuesday X-hour following
+
+their presentation to go over the presentation and paper. Students will then be graded in each of these four capacities, their individual research presentation, their paper, their journal article questions, and class participation, with the presentation and paper each constituting 30% of the grade, and the journal article questions and class participation each constituting 20% of the final grade.
+I have intentionally left off the syllabus the ancient "RNA world" so that students can pick amongst the many amazing innovations that life has made involving RNA for their presentation/paper . These would include the origins of RNA, ribozymes and the RNA world, the origin of protein synthesis, the origin of eukaryotic gene structure (exons and introns), the origin of the genetic code, and the origins and evolution of the siRNA machinery. But there are many other topics to consider involving the "modern" rNA world including the influence alternative splicing might have had on the origins of animal complexity, small RNA transcriptional regulation, RNA-mediated genomic rearrangements etc etc.
+
+Course Schedule
+
+Meeting
+
+Topic
+
+3/25 Initial meeting about the course 3/27 Topic 1: ENCODE and the Modern RNA World 3/29 Topic 1 continued 4/1 NO CLASS 4/3 Topic 1 continued 4/5 Literature discussion led by Prof. Mike Dietrich ­ "What is a gene?"
+
+Week of April 8th ­ This week we will read the classic papers behind the discovery of siRNA and miRNAs. These papers do not require written summaries or inquiries. Instead
+we will "practice" discussing these classic papers.
+
+4/15 Student Presentations ­ Kirsten & Cathy 4/16 X-hr Critique
+4/17 Topic 2: microRNA function 4/19 Topic 2 continued.
+4/22 Student Presentations ­ Emily & Erin ("Origin of life") 4/23 X-hr Critique
+4/24 Topic 3: microRNAs and evolution 4/26 Paper Discussion 1 ­ Peterson et al. (2009) Bioessays 31:736
+4/29 Student Presentations ­ Julia & Paige ("Alternative splicing & evolution") 4/30 X-hr Critique
+5/01 Topic 4 ­ lncRNAs 5/03 Paper Discussion 2 ­ TBA
+5/06 Special lecture by Dr. Arti Gaur (Dartmouth Medical School) ­ "miRNAs and disease"
+
+5/07 X-hr Student Presentation Toan ("microRNA origins") 5/08 Paper Discussion 3 - Lu et al. (2005) Nature 435:834 5/10 Special presentation by Dr. Arti Gaur (Dartmouth Medical School) ­
+"miRNAs and disease" 5/13 Student Presentations ­ Tyler & Vaidehi ("Anti-viral stuff") 5/14 X-hr Critiques 5/15 Topic 5 ­ ceRNA Hypothesis 5/17 Topic 6 ­ circular RNAs 5/20 Student Presentations ­ John & Eugene ("siRNA therapeutics") 5/21 X-hr Critique 5/22 Student Presentations ­ Yohanna & Alex ("RNA viruses") 5/24 Student Presentations ­ Seth and Kali ("Introns and Exons") 5/27 Memorial Day ­ NO CLASS 5/28 X-hr Critiques 5/29 Paper Discussion 4 ­ Graur et al. (2013)
+Student Needs Students with disabilities enrolled in this course and who may need disability-related classroom accommodations are encouraged to make an appointment to see me before the end of the second week of the term. All discussions will remain confidential, although the Student Accessibility Services office may be consulted to discuss appropriate implementation of any accommodation requested. Student Accessibility Services (http://www.dartmouth.edu/~accessibility/facstaff/)
+Additional Support for your Learning Academic Skills Center (http://www.dartmouth.edu/~acskills/) The Academic Skills Center is open to the entire Dartmouth Community. Here are some common reasons why you might visit the ASC: You're getting B's but you want to get A's You don't feel comfortable talking in class You're attending class regularly but you feel like you're missing important points You feel like you're a slow reader You're having trouble completing tests in the allotted time You're spending hours studying for foreign language but still not "getting it" You feel like you don't have enough time to get everything done You're not sure how to take notes You want to sign up for a tutor or study group You're not sure if you should get tested for a learning disability
+The Research Center for Writing, and Information Technology (RWiT) (http://www.dartmouth.edu/~rwit/) The Student Center for Research, Writing, and Information Technology (RWiT) is a place where you can meet with an undergraduate tutor to discuss a paper, research project, or multi-media assignment. The RWit tutors are trained to help you at any phase of your process. Whether you are brainstorming or planning, drafting or structuring,
+
+tweaking or polishing, the RWiT tutors can provide feedback that will help you to create final products of which you can be proud.
+
+

@@ -1,0 +1,409 @@
+Economics 20: Econometrics Dartmouth College
+
+Professor Ethan Lewis Spring Quarter, 2014
+
+ECONOMICS 20: ECONOMETRICS SYLLABUS AND COURSE OUTLINE
+
+CONTACT Professor Ethan Lewis Phone: 646-2943 Email: ethan.g.lewis@dartmouth.edu
+
+Office Hours: 1-2:30 Mon, Tue (may change) 304 Rockefeller Hall
+
+FINAL EXAM: The final exam will take place on Monday, June 2nd at 8am
+
+OVERVIEW: This course intends to expose you to the statistical techniques that economists use for estimating, testing, and forecasting economic relationships. The emphasis is on understanding the techniques involved and also on what they mean in terms of the economic problem being studied. Successful completion of this course should allow you to (1) read much of the professional empirical literature in economics and (2) be prepared to start doing independent research using economic data, particularly in a 40 level class. A group project is part of the latter preparation.
+There will be significant emphasis on the use of the statistical software STATA. This software is free to students and can be downloaded from the site (please download):
+(PCs) http://www.dartmouth.edu/comp/soft-comp/software/downloads/windows/stata.html (Macs) http://www.dartmouth.edu/comp/soft-comp/software/downloads/mac/stata-osx.html
+Mac Users will also need the key access software (also available on that page, if you don't have it already), and PC users will need to input the license information in the text file bundled with the download. This software will be introduced in a special STATA tutorial class on Wednesday, April 2nd in class. Please have STATA installed on your laptop by then at the latest.
+Additional help in getting STATA installed is available at the computing center; and additional help with using STATA, particularly on your research projects, can be obtained from Dartmouth's social science statistical consultant, Jianjun Hua. His office hours are 1:30-3:30 on Thursdays, in BakerBerry Library 179B.
+
+PREREQUISITES This course assumes that you have a good grasp of the concepts covered in Economics 1, 10 and Math 3. For example, you should be familiar with the material in Appendices A, B, C (excluding "maximum likelihood") in the Wooldridge text. If you are not comfortable with this material, you should make time out of class to review this material. It is extremely unlikely that you will pass this course without knowledge of this material. The first problem set will largely be based on this material, without any supporting lectures.
+
+- Page 1 of 7 of Syllabus -
+
+Economics 20: Econometrics Dartmouth College
+
+Professor Ethan Lewis Spring Quarter, 2014
+
+COURSE MATERIALS You will need several things for this class:
+1. Textbook. We will mostly focus on online lecture notes ­ the material covered in lecture, including any handouts, is what you are responsible for. However, there will also be TWO textbooks for your reference and background. One textbook is NOT a substitute for the other. The main textbook, available at the bookstore and on-line for a cheaper price at www.cengagebrain.com is:
+
+Introductory Econometrics: A Modern Approach by Jeffrey Wooldridge, published by South-Western Publishing, fifth edition.
+
+This book also has practice problems for many of the topics we cover in this course. I do not recommend editions older than fourth, nor do I recommend skipping the purchase of this textbook just because we are also using a second textbook. Instead, if you are looking for a cheaper price, download the electronic version. There is also a "kindle" version.
+
+The second textbook is "experimental": it is not yet published (and therefore free!) but I think it might be good so I am considering using it. Its main disadvantage appears to be that it is not as in-depth as Wooldridge, but it is much easier to read and covers some topics that we will not be able to get from Wooldridge. Let me know if you have any comments, the authors would be grateful. It is:
+
+Mastering Metrics: The Path from Cause to Effect by Joshua Angrist and Jörn-Steffen Pischke.
+
+We will also use selected chapters from a graduate textbook by these same authors, called Mostly Harmless Econometrics, which I will post on Canvas. Do not confuse the two!!
+
+2. Other Readings/Lecture Notes. I will also post on Canvas various other readings for selected classes, as well as my lecture notes. See below. My lecture notes are the core of the material you are responsible for: this is what you should be looking at before class, rather than reading the textbook. In general, the textbooks are reference for further explanation, though I do recommend reading the Angrist and Pischke textbook.
+
+3. "Clicker." To do in-class practice multiple choice questions, we will use "clickers," hand held remotes that allow me to take an instant poll of the class. All students will need what is technically called a "Response Card RF" (produced by Turning Technologies) available at computing sales and service. I think you can sell them back at the end of the term.
+
+4. Calculator. You will need a calculator for all quizzes and tests. It need not be a very advanced calculator: it need only be able to handle arithmetic operations, square roots, and natural logs.
+
+COURSE REQUIREMENTS: 1. There will be two in-class midterm exams, and a comprehensive final exam. All exams will be closed book and closed notes. Exams will cover materials from lectures.
+
+- Page 2 of 7 of Syllabus -
+
+Economics 20: Econometrics Dartmouth College
+
+Professor Ethan Lewis Spring Quarter, 2014
+
+2. There will be two projects to be turned in. For the first, a group project, you will form groups of 3-5 people and each group will turn in one project. The second is an individual project, which may be more similar to a problem set, but is worth a little more. I will tell you more about the projects as we go along.
+3. As noted above, I will provide some readings, papers from economics journals which apply the techniques we learn in class to some questions of economic and/or social importance. These readings are primarily for you to see some applications of the techniques you are learning. You will not be tested on the content or details of these suggested readings, only the concepts. Exam questions are often based on interpreting similar types of research findings, so reading and thinking about economics papers is good preparation for exams.
+4. I will also hand out problem sets, which will serve as practice for the exams. For the problem sets, I encourage that you work in small groups, so you may learn from each other. Problem sets will be graded lightly: complete problem sets will usually be given full credit.
+5. Your "class participation" grade is my assessment of your effort and level of engagement in and out of class. Well done problem sets will count towards this, for example, as will regular attendance. For example, I will note participation with "clickers" on in-class multiple choice questions, like when we go over the problem sets.
+Exams and project may not be postponed except in the case of a documented emergency. Your total grade will be determined as follows:1
+
+Mid-terms (2) Final exam Problem Sets (5) Group Project Individual Project Class Participation Total
+
+30% 30% 10% 15% 5% 10% 100%
+
+FINAL GRADE DISTRIBUTION The final grade will be based on the departmental curve of a B median, broken down as roughly 30 percent "As" (A, A-), 40 percent "Bs" (B+, B, B-), and 30 percent "Cs" (C+, C, C-) or below. Grades below C- may or may not be given; a grade below C- indicates a performance significantly below others in the class and may indicate my serious concern about a student's readiness to apply econometrics to independent research in a 40-level class. After each midterm, you will receive an assessment of your performance so far in the class.
+
+1 Grades on individual items will be recorded in terms of "points," with 1000 total points in the course, each worth 0.1%.
+- Page 3 of 7 of Syllabus -
+
+Economics 20: Econometrics Dartmouth College
+
+Professor Ethan Lewis Spring Quarter, 2014
+
+EXCUSED ABSENCES AND SPECIAL NEEDS: If you have a learning, physical or psychiatric disability which may warrant disability-related classroom accommodations, please speak with me during the first week of classes. The Academic Skills Center in 301 Collis Center will be asked to verify that you are registered for these services. Do not wait until just before (or after) the exam.
+
+The latter statement also applies to students who will be away during an exam for a legitimate reason, for example for athletes who will be away for a competition. Please let me know right away if you cannot make one of the exams, you will not be accommodated at the last minute. I also only reschedule exams only before the assigned date, and never after.
+
+COURSE OUTLINE
+The schedule below indicates the topic to be covered in each lecture. Note that I will be away on 5/2, so classes will be cancelled on that date, although you may be able to reach me by email. Additionally, I have frontloaded the course with X-hours, to give you more time at the end of the course to work on your projects, as well as a contingency for unanticipated class cancellations.
+
+All the readings may not be covered in class if we run out of time but most of them will be. While we will cover the topics in the order shown, the exact dates may change as I may not be able to cover everything planned and/or postpone things to the following class. I have noted particular topics that may be skipped or postponed with a "*". Aside from Chapter 1 of the Wooldridge textbook, the readings are mostly for your reference rather than required. Instead, I would attend mainly to the lecture notes I will post on blackboard. Nevertheless, I strongly recommend reading the Angrist and Pishke (undergraduate) textbook.
+
+Date
+
+Topic
+
+Reading Assignments
+
+#1. 3/24
+
+Introduction
+
+Ch 1 W**
+
+Problem Set 1 (PS1) "Statistics
+
+MON
+
+What is causality? What is a Intro AP*** Review and Simple Regression" ­
+
+well-posed question?
+
+Ch1APGrad Out ­ due: 4/2
+
+DiNardo
+
+ **"W" is our main textbook by Jeff Wooldridge, Introductory Economics. Except for chapter 1,
+
+which you are responsible for, the chapters listed below are references not required reading.
+
+ ***"AP" is Joshua D. Angrist and Jörn-Steffen Pischke's not yet published undergraduate
+
+textbook, Mastering Metrics: The Path from Cause to Effect which is available on Canvas. I
+
+recommend reading it, but again you are not responsible for material I do not cover in class.
+
+ "APGrad" is Joshua D. Angrist and Jörn-Steffen Pischke's graduate textbook, which is
+
+different from their undergraduate textbook above. Mostly Harmless Econometrics: An Empiricists
+
+Companion. Princeton University Press, 2009. Available on Canvas.
+
+ DiNardo, John. "Interesting Questions in `Freakonomics.'" Journal of Economic Literature 45(4):
+
+December 2007, pp. 973-1000. Available on Canvas.
+
+- Page 4 of 7 of Syllabus -
+
+Economics 20: Econometrics Dartmouth College
+
+Professor Ethan Lewis Spring Quarter, 2014
+
+Part I: Linear Regression Estimation and Inference
+
+#2. 3/26 WED
+
+Rubin Causal Model Simple regression
+
+Ch 1 AP Ch 2 W
+
+Optional reading:
+
+ Ch 2 APGrad
+
+ Autor, David H. and Susan N. Houseman. "Do Temporary Help Jobs Improve Labor Market
+
+Outcomes for Low-Skilled Workers? Evidence from `Work First.'" American Economic Journal:
+
+Applied Economics 2(3): July 2010, pp. 96-128.
+
+#3. 3/27
+
+Simple regression
+
+Ch 2 W
+
+X-Hour
+
+#4. 3/28 FRI
+
+Multiple regression
+
+Ch 3 W
+
+#5. 3/31
+
+More Multiple Regression
+
+Ch 2 AP
+
+MON
+
+Ch 3 W
+
+#6. 4/2
+
+STATA Intro
+
+PS1 Due; PS2 "Multiple Regression I"
+
+WED
+
+­ Out ­ due: 4/9
+
+#7. 4/3
+
+Inference (t-tests)
+
+Ch 4 W
+
+X-hour
+
+#8. 4/4 FRI
+
+Inference (F-tests)*
+
+Ch 4 W
+
+Changing Units of X and Y* Ch 6 W
+
+#9. 4/7
+
+Dummy variables
+
+Ch 7 W
+
+MON
+
+#10. 4/9
+
+Generalized difference-in-
+
+Sec 13.2 PS 2 Due; PS3 "Multiple Regression
+
+WED
+
+differences
+
+W II" ­ Out ­ due 4/14
+
+Ch 5 AP
+
+ Optional background reading: Card, David "The Impact of the Mariel Boatlift on the Miami
+
+Labor Market" Industrial and Labor Relations Review, 1990. On Canvas.
+
+#11. 4/10 X-Hour
+
+More Diff-in-Diff: Examples Dynarski
+
+ Dynarski, Susan. "Does Aid Matter? Measuring the Effect of Student Aid on College
+
+Attendance and Completion." American Economic Review, 2003. On Canvas. This reading may be
+
+replaced with something else, stay tuned.
+
+ Optional: LaLonde, Robert J. "Evaluating the Econometric Evaluations of Training Programs
+
+with Experimental Data." American Economic Review 76(4): Sep 1986, pp. 604-620
+
+#14. 4/11 FRI
+
+Asymptotics Heteroskedasticity*
+
+Ch 5 W Ch 8 W
+
+#12. 4/14 Review
+
+PS 3 Due;
+
+MON
+
+#13. 4/16 EXAM: Midterm I
+
+WED
+
+closed book & notes
+
+- Page 5 of 7 of Syllabus -
+
+Economics 20: Econometrics Dartmouth College
+
+Professor Ethan Lewis Spring Quarter, 2014
+
+#15. 4/18 FRI
+
+Heteroskedasticity
+
+Ch 8 W
+
+Heterogeneous TE;* sample Ch 9 W
+
+selection; quantile regression*
+
+PS 4 "Specification Issues/Panel Data" ­ Out ­ due 4/28
+
+(very) optional reading
+
+ Hoynes, Hilary et al. "What Mean Impacts Miss: Distributional Effects of Welfare Reform
+
+Experiments." American Economic Review, 2006. On Canvas.
+
+ Neal, Derek. "The Measured Black-White Wage Gap Among Women is Too Small." Journal of
+
+Political Economy, 2004. On Canvas.
+
+#16. 4/21 Measurement Error
+
+Sec 6.5 AP
+
+MON
+
+Ch 9 W
+
+Part II: Panel Data and Instrumental Variables
+
+#17. 4/23 WED
+
+Introduction to Panel Data Ch 13, 14 W
+
+#18.4/25 FRI
+
+Panel Data Advanced Panel Data*
+
+Ch 13, 14 W; Sec 6.2, p 166-171 AP; Kaushal
+
+Group project Assignment-Out:  Find a group of 3-5 by 5/9  Proposal by 5/14
+
+ Kaushal, Neeraj, 2008. "In-State Tuition for the Undocumented: Education Effects on Mexican Young Adults." Journal of Policy Analysis and Management 27(4): pp. 771­792. On Canvas.
+
+#19. 4/28 IV and 2SLS
+
+Ch 3 AP
+
+PS 4 Due; PS5 "Panel Data and
+
+MON
+
+Ch 15 W
+
+IV" ­ Out, due 5/5
+
+Optional reading:
+
+ Card, David. "Using Geographic Variation in College Proximity to Estimate the Return to
+
+Schooling" National Bureau of Economic Research Working Paper #4483, October 1993.
+
+#20. 4/30 IV and 2SLS
+
+Ch 3 AP
+
+Project Group due
+
+WED
+
+Ch 15 W ** NO CLASS ** Professor Away Friday, May 2nd
+
+#21. 5/5 MON
+#22. 5/7 WED
+#23. 5/9 FRI
+#24. 5/12 MON
+5/13
+
+Review
+
+EXAM: Midterm II closed book & notes
+Project tips I ­ getting started Ch 19 W
+
+Advanced topics Instrumental Variables*
+
+in Ch 15 W
+
+PS5 Due;
+** FINAL DATE FOR COURSE WITHDRAWAL **
+
+Part III: Regression Discontinuity
+#25. 5/14 Regression Discontinuity WED
+
+#26. 5/15 X-hour
+
+Project Tips II.
+
+Ch 4 AP
+
+Individual Project: "Regression Discontinuity" ­ Out ­ due 5/23; Group project proposals due
+Possible class to cover more tips on using STATA for your projects.
+
+- Page 6 of 7 of Syllabus -
+
+Economics 20: Econometrics Dartmouth College
+
+#27. 5/16 FRI
+5/19 MON
+5/21 WED
+
+Regression Discontinuity No Class No Class
+
+Part IV: Review & Final
+
+5/23
+
+No Class/Make-Up Class
+
+FRI (if needed)
+
+5/26
+
+No Class ­ Memorial Day
+
+MON
+
+#28. 5/28 Review
+
+WED
+
+6/2 FINAL EXAM: 8am
+
+MON
+
+closed book & notes
+
+Ch 4 AP
+
+Professor Ethan Lewis Spring Quarter, 2014
+Individual Projects Due ­ My office (304 Rocky) Group Projects Due
+
+- Page 7 of 7 of Syllabus -
+
+

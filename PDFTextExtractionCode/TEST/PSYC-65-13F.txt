@@ -1,0 +1,227 @@
+Psychology 65 ­ Systems Neuroscience
+Course Syllabus - Fall, 2013
+Instructors Professor Jeffrey Taube Office: 265 Moore Office Hours: Thursday 9:30 - 11:00, or by appointment.
+Professor Robert Maue Office: 348 Moore Office Hours: Monday: 11:30-12:30
+
+Teaching Assistants:
+
+Will Butler
+
+Office: 143 Moore
+
+Office Hours:
+
+Tuesday: 10:30-11:30
+
+Heidi Meyer Office Hours:
+
+Office 149 Moore Monday: 2:00-3:00
+
+Lab TAs: Tuesday (8:30-12:00) Tuesday (1:30-5:00) Wednesday (1:30-5:00) Thursday (1:30-5:00)
+
+Heidi, Rich Rich, Will Will, Andrea Andrea, Heidi
+
+Rich Lopez Office Hours:
+Andrea Worsham Office Hours:
+
+Office: 222 Moore Friday: 9:00-10:00
+Office: 246 Moore Wed: 11:00-12:00
+
+General Information Our goal in this course is to understand behavior as a product of the brain's neural activity. As we progress through the course you will see that scientists know a great deal about simple processes such as reflexes, sensory sensations, and simple motor movements, but we know much less about higher cognitive processes such as learning, memory, and emotional feelings. But ultimately, even these "higher order processes" must be understood in terms of their underlying neural mechanisms. The course focuses on discussing three major systems within the brain ­ each of which is important for our underlying behavior. These systems are sensory, motor, and limbic. We'll begin by studying the different sensory systems and then look at motor systems. We'll finish by discussing the neural basis of complex behaviors that are controlled to a large degree by the limbic system. Some emphasis will be placed on how the brain is organized from an anatomical perspective and the connections between different brain structures. This emphasis will complement the first four laboratories where you will have a hands-on experience in examining a sheep's brain. In the second half of the course you will test animals in a spatial learning task and observe some of the techniques used by neuroscientists to study the brain.
+
+Class Time
+
+Lectures: M,W,F 10:00-11:05
+
+Room: Moore B03
+
+X-hour: Thurs. 12:00-12:50: This period will be used frequently throughout the term, so please
+
+do not schedule anything during this time.
+
+Laboratory: Room 114 Moore. One of the following sessions: Tuesday morning (8:30-12:00 am) Tuesday afternoon (1:30-5:00 pm) Wednesday afternoon (1:30-5:00 pm) Thursday (1:30-5:00 pm)
+
+-1-
+
+You will be assigned to one of these four times during the first week of class. Attached to this syllabus is a form that you are to fill out regarding your selection of lab times. YOU ARE TO SUBMIT THIS FORM BY THE END OF CLASS (11:15 am) ON WEDNESDAY, SEPT 18. Your assigned lab time will be posted on Blackboard sometime on Friday, Sept 20. We will do our best to give everyone their first choice. Students who submit forms after 11:15 am on Wednesday risk not receiving their top choices.
+Textbook Neuroscience, 5th Edition; by Dale Purves et al., Sinauer Publishers
+A sheep brain dissection manual will be used during the laboratory sessions. This manual will be placed on Blackboard during the first week of class. In addition, there will be some sheep brain atlases and guides available in the laboratory that you can consult for help. In order to be sure that everyone in class has access to them they are NOT to be removed from the laboratory at any time.
+There is also a good website where anatomical views of a sheep brain are provided: http://academic.uofs.edu/department/psych/sheep/ieframerow.html
+To help visualize the brain in three dimensions, you can download - for free - 3D Brain for iPhone, iPod touch, and iPad from the iTunes App Store. Although the images are of a human brain, the sheep brain is organized similarly.
+Figures/Slides Shown in Class Lectures will contain many figures shown via Powerpoint presentation. To aid you in learning the material and studying for exams, all figures can be viewed via Blackboard. They are organized by lecture. Note: The lectures will be posted on Blackboard prior to the class lecture. However, depending on the material presented in class, the powerpoint presentation will be updated after class, and you should use this copy as your final version. The material posted on Blackboard may contain some additional slides, but when studying for exams, you are only responsible for the material presented in class.
+Evaluations Your grade will be determined on the following basis: 25% : Mid-term exam 25% : Laboratory Practical (This practical will involve a small portion of lecture material) 30% : Final exam 10% : Laboratory drawings (first half of course) 10% : Laboratory report (last half of course)
+The mid-term and final exams will be composed of mostly short answer and essay questions. The final exam is not cumulative and will be based on material presented after the mid-term exam.
+Laboratories During the first half of the course, the laboratory will be devoted to the study of neuroanatomy (brain structure). Each student will be given a sheep's brain in order to study its anatomical organization. The basic organization of the sheep's brain is very similar to that of the human brain - the major difference between the two brains is size and the total volume of cortex. A laboratory manual will be used to guide you through a dissection of the brain over the course of 4 weeks. As you go through your manual, you will be asked to make drawings of various sections/parts of the brain. These drawings will be turned in and graded weekly. They are due at the time of your next week's lab. The drawings are intended to help you identify various brain structures and prepare you for the laboratory practical. You will find that completing the drawings in a diligent manner and reviewing them before the laboratory practical will aid you in preparing for the exam.
+-2-
+
+During the second half of the course, there will be one laboratory where you will get an opportunity to train some rats in the water maze escape task. Some rats will be given some drugs that affect their behavior and ability to learn the task. A `probe trial' will be run on the last trial and the class will analyze the results from this trial. For this laboratory, a short report will be written up based on the results you obtained during the lab. It will be due on the last day of class.
+Absences and Late Paper Policy Timely attendance at all laboratories is required. Absences without prior arrangements ahead of time will lead to a reduction in your final grade. Late submission of anatomical drawings or the laboratory report will be marked down 10% for each 24 hour period that the assignment is late. There are no make-up exams for unexcused absences. Accommodations will only be made for documented health reasons. Honor Principle I expect all members of the class to abide by the Dartmouth Honor Principle and that any violations should be reported to the instructor. Although laboratory assignments can be discussed with other members of the class, each student is expected to produce their own laboratory report. For examinations: once the exam has been passed out, no student will be allowed to leave the classroom until they turn in their exam. If you have concerns about this policy, please come see me to discuss it. Final Notes: Any student with a documented disability needing academic adjustments or accommodations is requested to speak to me by the end of the second week of the term. All discussions will remain confidential, although the Student Disabilities Coordinator may be consulted to verify the documentation of the disability. I realize that some students may wish to take part in religious observances that fall during this academic term. Should you have a religious observance that conflicts with your participation in the course, please come speak with me before the end of the second week of the term to discuss appropriate accommodations.
+-3-
+
+Lecture and Laboratory Schedule
+
+*** Denotes an X-hour time
+
+Readings in Textbook
+
+WEEK 1: No Lab
+
+Sept 16 JTRM Organization Sept 18 RM Intro to Neuron Morph and Anatom Techniques Chap. 1 (+Techniques Handout)
+
+Sept 20 JT Nervous System Overview I: Brain/BBB/CSF
+
+Appendix: Human Neuroanatomy
+
+WEEK 2: Laboratory ­ Sheep Brain Neuroanatomy 1
+
+Sept 23 JT Sept 25 JT
+
+Nervous system Overview II:
+
+Chap. 16;
+
+Spinal Cord; Brainstem/Cranial Nerves; Thalamus Appendix: Human Neuroanatomy
+
+Sensory Receptors
+
+Chap. 9
+
+Sept 27 JT Somatosensory/Ascending Systems I
+
+Chap. 9
+
+WEEK 3: Laboratory ­ Sheep Brain Neuroanatomy 2
+
+Sept 30 JT Somatosensory/Ascending Systems II Oct 2 RM Pain and Itch Oct 4 RM Visual System I
+
+Chap. 10 Chap. 10 Chap. 11
+
+WEEK 4: Laboratory ­ Sheep Brain Neuroanatomy 3 Oct 7 RM Visual System II
+
+Chap. 12
+
+Oct 9 RM Visual System III
+
+Chap. 12
+
+Oct 10 RM *** Chemical Senses I: Gustatory / Trigeminal System Chap. 15 (pp 341-350)
+
+Oct 11 RM Chemical Senses II: Olfactory / Pheromones
+
+Chap. 15 (pp 321-340)
+
+WEEK 5: Laboratory ­ Sheep Brain Neuroanatomy 4 Oct 14 RM Auditory System
+
+Chap. 13
+
+Oct 16 JT Oct 18 JT
+
+Vestibular System I Vestibular System II / Oculomotor System
+
+Chap. 14 Chap. 20
+
+WEEK 6: No Lab
+
+Oct 21 RM Motor Systems I: Muscles/synapses/motor units Chap. 16
+
+LAB PRACTICAL EXAM (7-9 pm)
+
+Oct 23 RM Motor Systems II: Muscle receptors/reflexes
+
+Chap. 16
+
+Oct 24 *** Optional: Question & Answer Session
+
+MID-TERM EXAM (7-9 pm) (***covers material through Oct 18***)
+
+Oct 25 RM Motor Systems III: CPGs / disorders / rehab
+
+WEEK 7: Laboratory - Drugs and Behavior ­ Water Maze
+
+Oct 28 RM Motor Systems IV:upper motorneuron
+
+Chap. 17
+
+Oct 30 RM Cerebellum
+
+Chap. 19
+
+Oct 31 JT *** Basal Ganglia
+
+Chap. 18
+
+Nov 1 JT Limbic System: Hippocampal Circuit,Phys,Plasticity Chap. 8
+
+WEEK 8: Laboratory ­ Video Tape Analyses; Electrophysiological Recording
+
+Nov 4 JT Learning & Memory I
+
+Chap. 31
+
+Nov 6 JT Learning & Memory II
+
+Nov 7 JT *** Spatial Cognition I
+
+Handout
+
+Nov 8 JT Spatial Cognition II
+
+WEEK 9: No Lab
+
+Nov 11 RM Limbic System: Emotions
+
+Chap. 29
+
+Nov 13 RM Association cortices - I: Parietal / Temporal Lobes Chap. 26 (pp 587-599)
+
+Nov 15 JT Association cortices - II: Frontal Lobe Function Chap. 26 (pp 599-606)
+
+WEEK 10: No lab Nov 18 JT TBA
+LAB REPORTS DUE (No later than 5:00 pm)
+
+Nov 22
+
+FINAL EXAM (8:00 ­ 11:00 am) -4-
+
+-5-
+
+LABORATORY SECTION ASSIGNMENT REQUEST
+
+PSYCHOLOGICAL BRAIN SCIENCES 65: SYSTEMS NEUROSCIENCE FALL 2013
+
+Everyone registered in Systems Neuroscience must complete this form. All registrants will be assigned to a lab section by the TAs and Instructors. Assignments avoiding conflicts with other courses is a first priority, so please indicate your course schedule and any other legitimate conflicts you have on the bottom this form. Please indicate your 1st, 2nd, and 3rd choices of lab section assignment. We will accommodate all reasonable requests whenever possible (and when there is available space). Forms should be turned in no later than the end of the second lecture, which is:
+11:05 AM, WEDNESDAY, SEPTEMBER 18th
+
+Late requests can be turned in to the Psychological Brain Sciences department office; requests for section assignments will NOT be accepted after 4PM, Wednesday, September 18th. Final section assignments will be E-mailed to the class by 5 PM, Friday, September 20th. The first lab sections start on Tuesday, September 24th.
+
+No arrangements exist for make-up labs. Attendance at ALL of your assigned lab dates is mandatory.
+
+Lab section times:
+
+Section 1: Section 2: Section 3: Section 4:
+
+Tuesday Tuesday Wednesday Thursday
+
+8:30AM-12:00 PM 1:30PM - 5:00 PM 1:30PM - 5:00 PM 1:30PM - 5:00 PM
+
+Name______________________________
+
+Class________
+
+Requested Section 1st choice ________ 2nd choice ________ 3rd choice ________
+
+Indicate below your Course Schedule and Other Conflicts you have during these lab times (you must fill this in):
+
+Tuesday 8:30 AM-12 PM
+
+Tuesday 1:30 PM-5 PM
+
+Wednesday 1:30 PM- 5 PM
+
+Thursday 1:30 PM-5 PM
+
+-6-
+
+-7-
+
+

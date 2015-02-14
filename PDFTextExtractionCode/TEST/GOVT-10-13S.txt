@@ -1,0 +1,198 @@
+Dartmouth College Department of Government
+Quantitative Political Analysis
+
+Course Number: Term, Year: Class Room: Class Time:
+Instructor: Office Location: Email Address: Office Phone: Office Hours:
+
+Government 10.01 Spring, 2013 TBA Mon, Wed, Fri 10:00-11:05 (x-Period: Thu 12:00-12:50)
+Associate Professor Yusaku Horiuchi Silsby 204 yusaku.horiuchi@dartmouth.edu (603) 646-2828 Mon, Wed 14:00-15:00, or by appointment
+
+COURSE OBJECTIVES
+Political scientists frequently address questions about the causes and effects of political institutions, major political events, political behavior, voters' political attitudes and opinion, policy outcomes, etc., and attempt to answer them empirically. This course teaches the fundamental logic of such empirical political research and strategies for causal inference. It also introduces essential tools for statistical analysis. The course is divided into the following five sections:
+1. Finding research topics and formulating research questions 2. Building blocks of empirical political research 3. Research designs for causal inference 4. Data sources and methods of data collection 5. Introduction to statistical analysis
+
+LEARNING OUTCOMES
+Upon successful completion of this course, you will be able to:
+1. Identify your own research questions and develop proper research plans to answer the questions;
+2. Undertake critical evaluations of methodological issues and problems in existing empirical political research;
+3. Demonstrate a basic knowledge of commonly used tools in empirical political research, including surveys, content analysis, case selection and comparison, and essential statistical methods;
+4. Conduct simple statistical analysis using STATA; and 5. Consider a variety of topics and approaches to empirical political research.
+
+Version: March 11, 2013
+
+1
+
+PRE-REQUISITES
+This course has no prerequisites.
+READINGS
+This course has the following two textbooks:
+· Shively, W. Phillips. 2013. The Craft of Political Research. Ninth Edition. Pearson Education.
+· Monroe, Alan D. 2000. Essentials of Political Research. Boulder, CO: Westview. Shively (2013) is available in stock at Wheelock Books and the Dartmouth Bookstore. As I decided to use Monroe (2000) as well, at the last minute, it is not available locally. Alternatively, you can purchase a new or used copy of each book from Amazon or other online retailers (e.g., Book Depository). Note: It is not required to purchase MySearchLab, a supplementary eLearning tool for Shively (2013).
+
+All other readings (see References at the end of this syllabus) will be posted on Blackboard.
+ASSIGNMENTS Your overall grade for this course is made up of the following elements: 20% three short notes [6% × 3 notes + presentation (2%)] 20% a midterm quiz 25% a small quantitative research project 35% a final exam
+Version: March 11, 2013
+
+2
+
+Three Short Notes (+ Presentation)
+You are required to write three short notes, which will be due the following sessions:
+1. April 3 (Wednesday) 2. April 15 (Monday) 3. April 24 (Wednesday)
+Please turn them in at the beginning of class. Each short note should have no more than two double-spaced pages (12 font-size) including references and footnotes. Importantly, each note should be clear, concise, and coherent ["3C"] piece. Do not write a lengthy and disorganized note.
+For each session, you should find an article in a political science journal, which you find interesting and important, using the Web of Science Database. Importantly, each article you choose should examines an empirical causal hypothesis. Read it carefully, and respond to some questions given in a later section of this syllabus. You should not choose a paper you already read for another course. How well (i.e., clearly, concisely, and coherently) you address these questions are the criteria for assessment.
+In each short note, it is important that you clearly distinguish the author's arguments and your arguments. Do not copy, paste and edit sentences in the article you choose! You should follow American Political Science Association's Style Manual, which is available at <http://www.apsanet.org/media/PDFs/Publications/APSAStyleManual2006.pdf>. Details on citing sources are also available at <http://www.dartmouth.edu/~writing/sources/>.
+Early in this quarter, you will be randomly assigned to one of these three sessions. For each session, those who are assigned should prepare a PDF version of your presentation material, which you make using Power Point, Keynote, Beamer, etc. (one page only, without any transition/animation effect), and send it to me not later than 14 hours before the beginning of class (i.e., by 8:00 PM, a day before the class). I will merge your PDF files into a single file, upload it to the course Blackboard site, and use it in each discussion session. Your presentation material should clearly summarize your responses to the questions for each assignment.
+Those of you making a presentation material should prepare to make a brief (2-3 minutes) presentation. Given the time constraint, not everyone perhaps can give a presentation. To be fair, I will randomize the order of presentation just before each session. Thus, everyone has the same probability of not being able to give a presentation, but the presentation order is not informed in advance. The assessment for presentation (i.e., 2%) is based on the quality of your presentation material, not on your oral presentation.
+A Midterm Quiz
+There will be an in-class, closed book, midterm quiz on April 26 (Friday). It will draw from assigned readings and class discussions up to that point. The exam will be a mixture
+
+Version: March 11, 2013
+
+3
+
+of short answer questions (e.g., multiple choice, fill-in-a-blank, and/or define-a-term questions) and/or a short essay or two. There is no question about statistics in the midterm quiz.
+A Small Quantitative Research Project
+Early in this quarter, you will be assigned to a team of five students. You will work with this team throughout the quarter on this small research project. I also encourage you to work with the team on other assignments. By working in teams, you will not only develop communication and collaboration skills but also assist each other in understanding and applying concepts and methods successfully.
+For this project, each team should one of the following two options:
+Option A: Original Research
+Specify an original research question, discuss why it matters, formulate an empirical causal hypothesis, develop and execute research plans (e.g., design a randomized experiment, identify a natural experiment situation, administer a survey, collect cross-national data, undertake content analysis, etc.), and analyze quantitative data based on simple statistical methods.
+Option B: Replication and Extension
+Find a political science journal article that tests an empirical causal hypothesis based on relatively simple statistical methods (e.g., Chi-square tests based on cross-tabulations, OLS regressions using cross-national data, simple randomized experiments, etc.), summarize the article (its question, its important, main hypotheses and findings, data and methods used, etc.) replicate the results, discuss some potential problems in the original analysis, and undertake extension (i.e., running regressions with additional variables, executing proper statistical tests not done in the original analysis, applying the same model using data from other countries, etc.).
+During a mid-term session on April 29 (Monday), each team should make a short presentation to report progress. Specifically, each team should prepare a presentation material (Power Point, etc.) and explain your research question and your research design (if you choose Option A), or the article you intend to replicate and how you intend to undertake extension (if you choose Option B). This team presentation is required but not assessed.
+During the final session on May 29 (Monday), in Hinman Forum (the common area on the first floor of the Rockefeller Center), each team should write up and present the findings as a scientific poster After making any necessary revision based on the comments you receive during this presentation session, each group should submit a PDF version of the presentation material, which you make using Power Point, Keynote, Beamer, etc., to a designated folder in the course Blackboard site by 8:00 PM on May 29.
+
+Version: March 11, 2013
+
+4
+
+The assessment is based on the quality of research design and statistical analysis, not on the substantive findings. In other words, you do not need to worry about whether your hypothesis is empirically supposed, whether you can replicate the results presented in an article you choose, whether you can produce interesting results by extension, etc.
+A Final Exam
+There will be a comprehensive final exam on June 1 (Friday) at 8:00 AM (location TBA). You will be provided with relevant statistical tables and are allowed to use a calculator with no information stored in memory.
+STATISTICAL SOFTWARE
+We will use Stata, a powerful and yet easy-to-use statistical package that runs on Windows, Macintosh and Unix platforms. It is freely available to students using KeyAccess (K2Client). Please install Stata 12 on your computer and verify that you can run it successfully as soon as possible. Instructions on how to do so are provided at:
+<http://www.dartmouth.edu/comp/soft-comp/software/statistics/stataintro.html>
+If you have trouble getting Stata installed, please visit the IT Service Desk at 172 Carson Hall or contact Mr. Jianjun Hua, who is a statistical consultant providing Stata support for students in this course. His office is 178F Kiewit (Berry Library) and he can provide assistance to you with Stata during his office hours, which are Monday and Wednesday 2-4pm. He can be reached at <statistical.consulting@dartmouth.edu> or (603) 646-6552.
+To facilitate your own learning, you should visit the following website, download the data files, try all the commands listed in "Class notes", and understand what each command does.
+<http://www.ats.ucla.edu/stat/stata/notes/default12.htm>
+The following site has movies that follow these class notes. I strongly suggest you to watch these movies, but please note that these movies are based on Stata 10, not Stata 12. Most commands, however, the same in both Stata 12 and earlier versions.
+< http://www.ats.ucla.edu/stat/stata/notes/default.htm>
+I strongly encourage everyone to complete working on these class notes (and watching the movies) before the second half of this course starts on May 1. The methods of data analysis will be taught in the second half, so I do not expect you to fully understand theories and logic behind each command. Still, it is important for you to make yourself familiar with Stata before working on the small quantitative research project.
+For those of you who want to learn Stata more and ask specific questions, we will have Stata tutorial sessions during the following x-periods.
+
+Version: March 11, 2013
+
+5
+
+· May 2, 2013 (Thursday) · May 9, 2013 (Thursday) · May 16, 2013 (Thursday) · May 23, 2013 (Thursday)
+The attendance is optional. You should bring your laptop. No lecture is given, but I will try to answer as many questions as possible in these sessions. You should re-work on the above online class notes, and/or work on your group project.
+In addition, you should also consult the following resources:
+1. Stata help -- Simply type "help <command>" for any Stata command in the command window and the help file for that command will appear. For more help, click on the linked title of the help file (e.g., "[R] summarize") to open a PDF of the relevant section of the Stata manual. The man- ual provides more extensive discussion and examples in the "Remarks" section, which appears below the text from the online help file.
+2. Consult the Dartmouth Stata FAQ at <http://www.dartmouth.edu/comp/soft- comp/software/statistics/statafaq.html>
+3. Google for answers: Extensive resources on Stata are now available online. Someone has probably asked a similar question in the past. UCLA's Stata resources site at <http://www.ats.ucla.edu/stat/stata/> is especially helpful.
+4. Consult Mr. Hua by email at <statistical.consulting@dartmouth.edu> or make an appointment to meet with him.
+5. Feel free to contact me!
+
+COURSE SCHEDULE, TOPICS AND READINGS
+The tentative schedule for the course is presented below. This course outline is subject to change.
+Introduction
+· March 25 (Monday)
+Topic: course outline, learning quantitative methods, research design vs. research methods, the International Year of Statistics
+Readings: Brooks (2013), Lohr (2012)
+Finding Research Topics and Formulating Research Questions
+· March 27 (Wednesday) · March 29 (Friday) · April 1 (Monday) · April 3 (Wednesday) ­ Discussion Session
+
+Version: March 11, 2013
+
+6
+
+Topics: types of political science research, types of research questions, what constitutes "good" empirical research questions, dependent and independent variables, how to find research topics, research ethics
+Readings: Shively (2013, Chapter 1, Chapter 2 [pp. 22-32]), Monroe (2000, Chapter 1), Johnson and Reynolds (2012, Chapter 3)
+Short Note (due April 3): Read the first article of your choice carefully and answer the following questions. (1) What question does the author address? (2) How does the author explain the importance of examining the question? (3) What are the dependent and (key) independent variables? (3) Do you think it is a "good" article?
+Building Blocks of Empirical Political Research
+· April 5 (Friday) · April 8 (Monday) · April 10 (Wednesday) · April 12 (Friday) ­ No session · April 15 (Monday) ­ Discussion Session
+Topics: theories, hypotheses, unit of analysis, operational definitions, problems of measurement
+Readings: Shively (2013, Chapter 2 [pp. 14-22], Chapters 3-5), Monroe (2000, Chapters2), Horiuchi, Nakaya, and Komatsu (2012)
+Short Note (due April 15): Read the second article of your choice carefully, focus on a particular concept that is central in the article, and answer the following questions. (1) What concept the author intends to measure and examine? (2) How does the author measure it? (4) How does the author address (potential) problems of measurement? (5) Do you think it is a "good" measure?
+Research Designs for Causal Inference
+· April 17 (Wednesday) · April 18 (Thursday) ­ Makeup session · April 19 (Friday) · April 22 (Monday) · April 24 (Wednesday) ­ Discussion Session
+Topics: causality, randomized experiments, natural experiments, correlational design, research design without a control group, the rule of selecting observations
+Readings: Shively (2013, Chapters 6), Monroe (2000, Chapter 3), Dunning (2012, Chapter 1)
+
+Version: March 11, 2013
+
+7
+
+Short Note (due April 24): This time, find a political science journal article, which examines an empirical causal hypothesis based on a randomized experiment or a natural experiment. Read it carefully and answer the following questions. (1) What question does the author address? (2) Explain the author's research design. (3) How does the author discuss its strengths and limitations? (4) Do you think it is a "good" design?
+Midterm
+· April 26 (Friday) ­ Midterm Quiz · April 29 (Monday) ­ Midterm Debrief, Progress Report
+Data Sources and Methods of Data Collection
+· May 1 (Wednesday) · May 3 (Friday) · May 6 (Monday)
+Topics: selection of observations for study, section bias, common data sources for political science research, survey research, content analysis
+Readings: Shively (2013, Chapter 7), Monroe (2000, Chapters 4-5), Geddes (1990)
+Introduction to Statistical Analysis
+· May 8 (Wednesday) · May 10 (Friday) · May 13 (Monday) · May 15 (Wednesday) · May 17 (Friday) · May 20 (Monday) · May 22 (Wednesday)
+Topics: statistics, interval statistics, regression vs. correlation, categorical data, multivariate analysis, statistical inference, hypothesis testing, logic of inference, multiple regression, interaction variables, how to read regression tables
+Readings: Shively (2013, Chapters 8-10), Monroe (2000, Chapters 6-10)
+Review and Presentation
+· May 24 (Friday) ­ Review Session · May 27 (Monday) ­ No session (Memorial Day) · May 29 (Wednesday) ­ Presentation Session
+
+Version: March 11, 2013
+
+8
+
+MATERIALS AND RESOURCES
+PowerPoint Lecture Slides
+PowerPoint lecture slides will be posted to the course Blackboard site after class. I do not post these before class because note taking is a valuable exercise, and I do not want my slides to substitute for your own notes.
+Additional Readings
+Suggested additional readings are listed at the end of this syllabus and are available at Baker-Berry Library Reserve Services. They are available for your exploration if you are interested in knowing more about research designs and methods in political science. You should try to read some of these, as well as other articles and books not listed in this syllabus, for your understandings and your assignments. You should familiarize yourself with the Web of Science Database, which will be introduced in class, to search for articles relevant to a topic of your interest.
+The Student Center for Writing, Research and Information Technology (RWIT)
+RWIT provides students with assistance in conceptualizing, researching, and proofreading written work. For more information, visit <http://www.dartmouth.edu/~rwit/>.
+The Academic Skills Center
+The Academic Skills Center provides a variety of services designed to help students excel academically (e.g., tutors, study groups, skills- building workshops, etc.). For more information, visit <http://www.dartmouth.edu/~acskills/>.
+Study Group
+For this course, a study group will be organized by Ms. Leslie Schnyder, the Assistant Director at the Academic Skills Center. A study group is a small group of students who meet together regularly once a week with the aid of a trained leader to discuss concepts, confusions, and insights into course material. The main role of the study group is to help students organize their thoughts, test their understanding by asking and answering questions, learn how to approach the material and understand the basic concepts involved. In addition, students have often commented that they enjoy the subject more, are relieved to find that other students also have problems with the material and study more when they participate in a group. More information about the study group is available at <http://www.dartmouth.edu/~acskills/tutors/studygroups/>.
+
+Version: March 11, 2013
+
+9
+
+POLICIES
+The Honor Principle
+All students are reminded of their obligation to conduct themselves in accordance with the Standards of Conduct in general and with the Academic Honor Principle in particular. The Academic Honor Principle is available at <http://www.dartmouth.edu/~uja/honor/>. Please review the section on plagiarism in particular and contact me if you have any questions.
+Late Submission
+Late submissions will be penalized one-third grade per day. If you anticipate that you will have a problem meeting a deadline due to an excusable issue (e.g., family emergency, grave illness, etc.), please contact me before the assignment is due to make appropriate arrangements.
+Technology in the Classroom
+Please be respectful of your instructor and peers by using your computers only for classrelated purposes. Please also make sure to put your phone away before class starts and not take it out during class.
+Disabilities
+Students with disabilities enrolled in this course and who may need disability-related academic adjustments and services are encouraged to see me privately as early as possible in the term. Students requiring disability-related academic adjustments and services must consult the Student Accessibility Services office (301 Collis Student Center, 646-9900, <Student.Accessibility.Services@Dartmouth.edu>). Once SAS has authorized services, students must show the originally signed SAS Services and Consent Form and/or a letter on SAS letterhead to their professor. As a first step, if students have questions about whether they qualify to receive academic adjustments and services, they should contact the SAS office. All inquiries and discussions will remain confidential.
+Religious Observance
+Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in the course, please meet with me before the end of the second week of the term to discuss appropriate accommodations.
+Office Hours
+I will be available during the times noted on the first page for meetings with students. If you are unable to meet during these times, please email me to set up an appointment at an alternative time.
+
+Version: March 11, 2013
+
+10
+
+REFERENCES
+Required Readings (in addition to the textbooks)
+Books, David. 2013. "The Philosophy of Data." The New York Times, February 4.
+Dunning, Thad. 2012. Natural Experiments in the Social Sciences: A Design-Based Approach. New York, NY: Cambridge University Press.
+Geddes, Barbara. 1990. "How the Cases You Choose Affect the Answers You Get: Selection Bias in Comparative Politics." In James. A Stimson, ed., Political Analysis, Volume 2. Ann Arbor, MI: The University of Michigan Press.
+Horiuchi, Yusaku, Tadashi Komatsu, and Fumio Nakaya. 2012. "Should Candidates Smile to Win Elections? An Application of Automated Face Recognition Technology" Political Psychology 33(6): 925­933.
+Johnson, Janet Buttolph, and H. T. Reynolds. 2012. Political Science Research Methods. Seventh Edition. Thousand Oaks, CA: CP Press
+Lohr, Steve. 2012. "The Age of Big Data." The New York Times, February 11.
+Additional Readings
+Lewis-Beck, Michael S. 1980. Applied Regression: An introduction. Thousand Oaks, Sage: Sage.
+Lewis-Beck, Michael S. 1995. Data Analysis: An introduction. Thousand Oaks, CA: Sage.
+Tufte, Edward R. 1974. Data Analysis for Politics and Policy. Upper Saddle River, NJ: Prentice-Hall.
+King, Gary, Robert O. Keohane, and Sidney Verba. 1994. Designing Social Inquiry: Scientific Inference in Qualitative Research. Princeton, NJ: Princeton University Press.
+Wheelan, Charles J. 2013. Naked Statistics: Stripping the Dread from the Data. New York, NY: Norton.
+Klass, Gary M. 2012. Just Plain Data Analysis: Finding, Presenting, and Interpreting Social Science Data. Second Edition. Lanham, MD: Rowman and Littlefield.
+Manheim, Jarol B., Richard C. Rich, Lars Willnat, Craig Leonard Brians, and James Babb. 2011. Empirical Political Analysis: An Introduction to Research Methods. Upper Saddle River, NJ: Person.
+
+Version: March 11, 2013
+
+11
+
+

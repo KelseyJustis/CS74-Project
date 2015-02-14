@@ -1,0 +1,213 @@
+Bio12: Cell Structure and Function Fall 2014
+
+M, W, F 8:45AM-9:50AM, X-hour: Th 8:45AM-9:50AM: Room 201, Life Sciences Center (LSC) Instructor: Professor Elizabeth Smith, Ph.D. Office Room 226 LSC Lab Instructors: Cori Anderson, Ph.D, and Lara Park, Ph.D.
+Graduate Teaching Assistants: Corey Allard, Sierra Cullati, Elora Demers, Jessica Desimone, Hannah Opalko, Giulia Orazi,
+
+LECTURE SCHEDULE
+
+How do we view cells?
+1. M 9/15 Introduction, course details, course goals 2. W 9/17 Microscopy 3. F 9/19 Microscopy and Cell Architecture
+
+Chapter 1
+Chapter 18 Chapter 18
+
+The Chemistry of Life
+4. M 9/22 Bioenergetics and Enzymes
+How do we analyze cells?
+5. W 9/24 Experimental Approaches Th 9/25 Optional Review / Practice Problems
+6. F 9/26 Experimental Approaches
+
+Chapter 3
+Chapter 18 Chapter 18
+
+How are cell compartments built?
+
+7. M 9/29 8. W 10/1 9. Th 10/2
+F 10/3
+
+Membrane Structure and Composition Transport Across Membranes Transport Across Membranes Optional Review / Practice Problems
+
+Chapter 4 Chapter 4 Chapter 4
+
+M 10/6 Exam 1, 8:00-9:50AM, Lectures #1-9: LSC 201
+
+How do cells generate energy?
+10. W 10/8 Bioenergetics: Glycolysis and aerobic respiration 11. Th 10/9 Bioenergetics: Photosynthesis
+
+Chapter 3, 5 Chapter 6
+
+How do proteins know where to go in the cell?
+
+12. F 10/10 Protein Sorting 13. M 10/13 Protein Sorting
+Tu 10/14 Please note that today is the annual Dartmouth Life Sciences Symposium. The topic is How Microbes Teach Us Cell Biology. It is not required that you attend, but if you have the time, you may find the talks interesting and relevant to Bio12
+14. W 10/15 Protein Sorting Th 10/16 Optional Review / Practice Problems (we'll begin at 8:15 am) F 10/17 No class today; enjoy Homecoming Weekend
+
+Chapter 8 Chapter 8
+Chapter 8
+
+How do cells integrate and process information?
+15. M 10/20 Cell Signaling 16. W 10/22 Cell Signaling 17 Th 10/23 Cell Signaling
+
+Chapter 15 Chapter 15 Chapter 15
+
+F 10/24 Optional Review / Practice Problems
+
+10/27 Exam 2, 8:00-9:50AM, Lectures #10-17: LSC 201
+
+How do cells move and change shape?
+
+18. W 10/29 19. Th 10/30 20. F 10/31 21. M 11/3 22. W 11/5
+Th 11/6 23. F 11/7
+
+Cell motility and shape: Intermediate Filaments Cell motility and shape: Actin Cell motility and shape: Actin Cell motility and shape: Microtubules Cell motility and shape: Microtubules Optional Review / Practice Problems The cytoskeleton in action during cell division
+
+Chapter 9 Chapter 9 Chapter 9 Chapter 9 Chapter 9
+Chapter 14
+
+How do cells form tissues? 24. M 11/10 Connections between cells
+
+Chapter 7
+
+How do cells duplicate?
+
+25. W 11/12 Th 11/13
+26. F 11/14 27. M 11/17
+
+The cell cycle Optional Review / Practice Problems The cell cycle Cancer
+
+Chapter 14
+Chapter 14 Chapter 16
+
+Final Exam Review session, TBA
+
+Final Exam (Lectures 18-27) Sunday November 23rd, 8:00AM-11:00AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Computers in Class Policy
+
+I am instituting a no computer use policy. Please do not use laptops or any other electronic devices in class. I will discuss the rationale for this policy in class.
+
+Professor Smith's OFFICE HOURS
+
+I will hold office hours on Wednesdays and Thursdays from 5-6PM in my office in room 226 in LSC. If office hours become crowded, we may move to a conference room in LSC. If this happens, I will put a note on my office door redirecting you. If a conflict arises where I am unable to hold office hours, I will reschedule that time. In addition, if my schedule permits, I will try to hold additional office hours on Sundays before exams.
+
+Note that I am generally available before and after lecture. The Thursday optional review sessions are also good times to have your questions answered.
+
+Resources for assistance with class material:
+
+1. Review the lectures: While technology may not be 100% reliable, it is my intention to make recordings of the lectures available on the Canvas site. Review the lecture material by listening to the recorded lecture.
+
+2. X-hour question answering sessions with Prof. Smith: challenge yourself to come to these sessions with a list of questions to ask so that you digest material
+
+3. Discussion Board on Canvas site: there will be a link to Piazza on the Canvas site to post any lecture material questions. You may post anonymously or not, your choice. These questions will be answered so that anyone can see the answers and also learn.
+
+2
+
+4. Course Teaching Assistants: Your class and lab TAs are Ph.D. students in the MCB graduate program and an excellent resource for information.
+5. Join a study group through the academic skills center or form your own.
+
+---------------------------------------------------------------------------------------------------------------------------------Textbook ­ Cell and Molecular Biology, by Gerald Karp, 7th edition
+
+Additional Textbooks on Reserve For those wishing to supplement the lectures and the assigned readings in Karp, I have listed below several textbooks which are highly recommended and suitable for other perspectives on the topics. All reading in these textbooks is optional. The following books are on reserve in the Dana Biomedical Library, 37 Dewy Field Road:
+
+Essential Cell Biology, 3rd edition (2012) by Alberts et al. This text has been the Bio12 textbook in past years but is in many ways too simplistic. If you need more background before diving into Karp, try this book.
+Molecular Cell Biology ­ Dartmouth Custom, 7th edition (2013) by Lodish et al. This textbook also contains more material than Karp. Some students, particularly those eager to learn more, have really enjoyed reading this textbook.
+
+Grade Distribution
+
+Exam 1 Exam 2 Final Exam Lab grade Participation
+
+24% 24% 25% 25% 2%
+
+Exams will include a mixture of testing your mastery of the information and applying your knowledge to problem solving.
+
+Barring documented illness, failure to take an exam or attend a lab section at the scheduled time will result in a grade of zero.
+
+Participation Grade
+
+At the end of each class you will be asked to write down what you perceived as the ~3 most important take away messages from the lecture. You will also be asked to write down at least two points you found to be the most confusing. There is obviously no right or wrong answer. Why are we doing this? First, I want to encourage and reward class attendance. Second, there is a benefit to immediate reflection on each lecture experience. And finally, by obtaining immediate feedback on what points were most confusing I can revisit these points in the following lecture and/ or review sessions.
+Class participation begins Friday September 19th for a total of 25 lectures. You may miss up to 4 lectures and still receive the full participation grade. If you fail to attend more than four lectures, you will receive zero credit for the participation grade.
+
+Grading Policy For Exams:
+
+The following points summarize the grading procedures with respect to exams:
+
+[1] After the exam has been graded and returned, a copy of the answer key will be posted on the Bio12 Canvas site. Review this answer key and be sure to understand the errors in your exam and why you made them.
+
+3
+
+[2] The number of points given for each answer is final. If, after reviewing your answers and comparing them to the posted answer key, you find an arithmetic error or detect an omission by the grader for one of the questions, you must observe the following procedures to correct the error :
+a) Do not write on the exam. Exams that have been written on will not be corrected. Any alteration of the answers between the time when the graded papers were returned to the student and the time when the paper was submitted for re-grading constitutes a breach of the Academic Honor Principle and will not be tolerated. To deter this practice, we scan exams before grading them.
+b) Prepare a typed cover page with your name and HB number.
+c) If you find an addition error, indicate on the cover page that an addition error has occurred. Specify the page and question number(s.)
+d) If you determine that your answer contains all of the information indicated in the key, but you did not receive full credit, simply indicate the number of the question on your cover page and state in one or two short, descriptive typed sentences the facts that make your answer correct. The citation of a text page, diagram, or reference to a lecture date/number would also be helpful.
+e) Attach the typed cover sheet to your complete exam and return it to the Bio12 drop box in the short corridor between Room 200 and 201 in LSC before the deadline noted below. The error correction process will take a few days. You will be notified of the place and time to pick up exams after the correction is completed.
+We will not accept questions regarding errors in grading after the deadlines noted below. Nor will we accept requests that are not typed. Sorry for these rules, but if we do not impose them, things get a bit out of hand toward the end of the term.
+These are the deadlines: First Exam: 12:00PM (Noon) on October 20th Second Exam: 12:00PM (Noon) on November 10th
+We will not accept questions regarding errors in grading after these deadlines. There will be no such process for the final exam, as the final exam is, well, final.
+A final word about grades and exams in Bio 12:
+You are not competing against each other for grades in Bio 12. Let me be very clear about that and reiterate this point: You are not competing for grades in this class with anyone but yourself. All grades, up until the final letter grades are decided, are recorded as numerical grades, from 0% to 100%. I do not assign letter grades to individual exams.
+Here are three important points to note about grades in Bio 12:
+[i] A grade of 90% or above will always be at least an A-. No one is ever penalized for learning what I try to teach them. Thus, it is entirely possible for everyone in the class to receive a grade of A- or better. However, my experience suggests to me that this will not happen (see page 7 of this syllabus).
+[ii] In order to receive a D, you have to achieve a final grade of at least 50%. In other words, a final grade less than 50% is an E.
+[iii] This next point is really important: The median grade [for both sections of Bio 12] will be a B. That means that if the median of an exam were 62%, then a grade of 62% for that exam would be equivalent to a B. If the median were 29%, then a grade of 29% for that exam is a B. Note, therefore, that this portion of rule [iii]
+4
+
+negates rule [ii] above. If the median grade is 94% then a grade of 94% for that exam is an A/A-. Note, therefore, that this portion of rule [iii] negates rule [i] above.
+Clickers
+We will be utilizing interactive technology in Bio 12 that will require you to have a hand-held device (a "clicker"). "Clickers" can be obtained at the computer store, where you will be charged a fee (~$30 on DA$H card) at the beginning of the term. When you return the "clicker" at the end of the term, you will receive a $20 credit. Please obtain the "clicker" today and bring it to class (including X hrs) for the rest of term. The purpose of using clickers is to learn more about your understanding of the material as it is being delivered so that we can be more effective as instructors. Additionally, they will help you think about the material actively during class which will help you synthesize and learn. Of course, you can think about the material without having a clicker. However, my responses to the class' clicker answers will depend on how the class as a whole responds to a given question. Thus, it is not as informative for me if you answer mentally without having your answer added to the group response. We will use the clickers in the anonymous mode (i. e. the computer will know which serial numbered clickers have answered, but not which student corresponds to a given serial number).
+Academic Honor Principle:
+The Dartmouth College Student Handbook states "Fundamental to the principle of independent learning are the requirements of honesty and integrity in the performance of academic assignments, both in the classroom and outside. Dartmouth operates on the principle of academic honor, without proctoring of examinations. Students who submit work which is not their own or who commit other acts of academic dishonesty forfeit the opportunity to continue at Dartmouth."
+There are a number of situations in which a student in Biology 12 might find themselves tempted to violate the Academic Honor Principle. These situations include (but are not limited to) the following:
+a) Examinations must be completed without reference to written materials other than those provided with the exam paper and must be completed without communication with anyone else (the only permissible exception is that students may request clarification of any exam question from the course instructor who is present expressly for that purpose). The answers that you provide must be entirely your own work.
+b) Our policy permits the re-submission of exams for correction of errors made during the grading process. Any alteration of the answers on an exam made between the time when the graded papers were returned to the student and the time when the paper was submitted for correction constitutes a clear, premeditated, and egregious breach of the Academic Honor Principle. To deter this practice, we scan exams before grading them.
+c) Laboratory experiments are performed in pairs or groups, and we encourage student collaboration. This includes data collection, analysis, and visual presentation of the data (graphs/tables). However, the writing of the text of the lab reports submitted for grading must represent the original words of the student submitting that report. While we encourage collaborative discussion of your data, all writing must be done independently and individually. Do not share computer files of work (excluding graphs and tables) to be submitted for grading! The student misrepresenting the work of another as his or her own is in violation of the Academic Honor Principle, as is likely the student who loaned that information. Thus, it is possible that the Committee on Standards will find the student providing the original file also to be in violation of the Honor Principle.
+Honesty is the foundation of the academic pursuit of knowledge. In recognition of this, the staff in Bio 12 will not overlook any violations of the Academic Honor Principle. Indeed, the Faculty Handbook of Dartmouth College states explicitly that College faculty are obligated to report potential violations of the Academic Honor Principle to the Dartmouth College Committee on Standards.
+Note to Students with Physical or Learning Disabilities:
+5
+
+I encourage students with disabilities, including invisible disabilities such as chronic illnesses and learning disabilities, to arrange for accommodations that might be helpful. Please meet with me soon, preferably during the first week of classes, to discuss possible accommodations. All discussions will be confidential, although the Academic Skills Center may be consulted to verify the documentation of the disability. Religious Observances: Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in this course, please speak with me as soon as possible to discuss appropriate accommodations.
+6
+
+HOW TO BE SUCCESSFUL IN BIO 12: 1) PREVIEW each reading assignment the night before class. Look at the figures, read the figure legends, and get a general feel for the vocabulary to be introduced and the topics to be covered in the upcoming lecture. Jot down any questions you have to focus your attention in lecture. 2) ATTEND LECTURES ON TIME (class will start promptly at 8:45 AM), take notes on the material presented in lecture, and ask questions about the things you do not understand. Make sure you have answers to the questions you wrote down the previous night. 3) RE-READ the reading assignment as well as your notes that very same afternoon or evening after the lecture, when it is still fresh in your mind. Correct or add points to your notes as you go along. 4) REVIEW the notes and reading assignments from the previous week's classes sometime during the weekend. 5) BE CURIOUS and ask questions in class, in office hours, in lab and with fellow students. Also ask YOURSELF questions and try to challenge yourself to decide if you really understand the material. 6) TEST YOUR OWN KNOWLEDGE by putting away your notes and drawing out structures and pathways from memory. Your goal is to be able to accurately re-create the details and mechanisms from scratch. Don't just try to do it in your head. Do it on paper, and then compare your attempt with your notes. 7) ATTEND ALL CLASSES AND REVIEW SESSIONS.
+7
+
+Laboratory Exercises:
+The Bio12 lab sections meet from 1:45PM - 5:45PM or 6:30PM - 10:30PM (Mon, Tues, or Wed) in room 202 Life Sciences Center.
+Barring documented illness, failure to attend a lab section at the scheduled time will result in a grade of zero on the lab quiz and a zero for any written assignment associated with lab. No arrangements exist for make-up labs. Attendance at ALL of your assigned lab dates is mandatory.
+Laboratory 1 ­ Introduction to Light Microscopy Week beginning September 22nd This exercise will include training each student in the proper use of the light microscope including proper Köhler illumination, bright-field, phase contrast, DIC, and fluorescence microscopy.
+Laboratory 2 ­ Isolating Chloroplasts - The Hill Reaction Week beginning September 29th Students will isolate chloroplasts from spinach using differential centrifugation and measure the normal rate of the Hill reaction compared to the rate in the presence of inhibitors. Rate is ultimately determined spectrophotometrically using the dye DCIP as an electron acceptor.
+NO LAB EXERCISE week beginning October 6th­Exam 1, Prepare Lab Report TAs will hold special office hours during lab times for help in preparation of your lab reports.
+Laboratory 3 and 4 ­ Protein Purification and Analysis Weeks beginning October 13th and 20th Students will perform ion exchange chromatography to purify proteins from a mixture of proteins. Students will determine the concentration of protein in eluted column fractions using the Bradford assay and characterize the elution profile of a specific protein using an enzymatic assay. Finally, students will assess the efficacy of column chromatography for purifying proteins in a mixture by gel electrophoresis using their eluted fractions. Experimental Design for Laboratory 5 ­ week beginning October 27th ­ Exam 2, Prepare Lab Report Students will meet for part of the lab time to discuss and design experiments for Laboratory 5. Students will have the opportunity to review fluorescence microscopy techniques that will be used in Laboratory 5. TAs will also be available during lab times for help in preparation of your lab reports.
+Laboratory 5 ­ Experimental Design Using Fluorescence Microscopy Week beginning November 3rd Students will design an experiment to test a cell biological hypothesis using live Ashbya gossypii cells and several fluorophores.
+Laboratory 6 ­ Signal Transduction ­ Motility in Chlamydomonas Week beginning November 10th Students will assess phototaxis of live Chlamydomonas reinhardtii cells using different conditions. Demembranated cell models of Chlamydomonas will also be created to assess the effect of varying concentrations of calcium on motility.
+8
+
+Laboratory Assignments and Point Breakdown: The laboratory portion of Bio12 counts for 25% of your total Bio12 grade. There are 100 possible points for the lab portion of the course.
+1. Quizzes: There will be quizzes (5 points each) that begin promptly at the start of labs 1,2,3,4,and 6. Each
+quiz will end ten minutes into the lab session. The quizzes will count for a total of 25 points of your lab
+grade
+2. Microscopy in-class assignment (5pts)
+3. Lab Reports: Three lab reports will be written during the term. You will have 1 - 2 weeks from the time you complete your lab to the time the report is due. Detailed instructions for each report will be given during the term. Please note the following dates. a. Hill Reaction Lab Report (15pts), due week of October 13th b. Protein Purification Lab Report (25pts), due week of November 3rd. This is the culminating lab
+report for labs 3 & 4. Note: in the event of an unexcused lab absence from either Lab 3 or Lab 4,
+you will still be required to write a lab report. However, your report grade will have a maximum
+of 15 points.) c. Experimental Design Lab Report (20pts), due week of November 10th
+4. Experimental Design Methods: Before lab 5, you will write out detailed methods of the experiment that you design. This assignment is in
+place of your lab 5 quiz and will be worth 5 points. Assignments will be due the week prior to lab.
+5. Lab Abstract: For Lab 6, you will write a short lab abstract. This assignment is worth 5 points and is due November 18th at 12:00PM.
+
+Grading Policy For Lab Reports: The following points summarize the grading procedures with respect to lab reports:
+
+1.After the report has been graded and returned, review your report comments and be sure to understand the deductions on your report and why you made them.
+2.If, after reviewing your report, you find an error, you must observe the following procedures for error correction: a. Prepare a typed cover page with your name and HB number. b.If you find an addition error, indicate on the cover page that an addition error has occurred. c. Next to each deduction will be a brief description of why the deduction was taken. If you determine that points were deducted but your report contains the information specified in the grader comment, indicate the page number to be re-evaluated and state in one or two short, descriptive sentences (typed) where you satisfied that comment. d.Attach the typed cover sheet to your graded report and return it before the following deadlines to the Bio12 drop box located outside the lab (LSC 202).
+
+Chloroplast Report: Protein Purification Report: Experimental Design Report:
+
+12:00PM (Noon) on October 27th 12:00PM (Noon) on November 17th 12:00PM (Noon) on November 24th
+
+We will not accept questions regarding errors in grading after these deadlines. The error correction process will take a few days. You will be notified of the place and time to pick up report after the re-evaluation is completed.
+
+9
+
+

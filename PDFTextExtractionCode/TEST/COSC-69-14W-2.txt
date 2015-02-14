@@ -1,0 +1,22 @@
+Home Schedule Readings Projects
+
+CS 69/169: Advanced Topics in
+Computer Networking
+Lecturer: Xia Zhou Time: TuTh, 2:00pm - 3:50pm
+Room: Sudikoff 213 Office Hour: 5pm - 6pm Friday, Sudikoff 208
+Email: xia@cs.dartmouth.edu
+Sign up on Piazza!
+
+Course Description
+CS 69/169 is a networking seminar, covering a broad range of advanced topics in computer networking and networked systems. For each topic, we will study both conventional perspectives and recent research trends, focusing on wireless networks and data center networks. Students will learn key principles in networking research, understand the state of the art in this area, and gain experiences of carrying out original research through class projects. The end goal is to generate publishable results by the end of the term. In addition, students will practice their skills in paper reading/writing and public presentation in the form of paper critics, class discussion, project report and presentation.
+As a research seminar, this course is based on research papers in top-tier conferences. No particular textbooks are required, but following textbooks
+
+are good references for you to refresh networking background and better understand papers.
+Pei Zheng, Larry L. Peterson, Bruce S. Davie, and Adrian Farrel. Wireless Networking Complete. James Kurose and Keith Ross. Computer Networking: A Top-Down Approach. Larry Peterson and Bruce Davie. Computer Networks: A Systems Approach. Andrew S. Tanenbaum. Computer Networks.
+Prerequisites
+Because it is a higher-level class, we assume that students already have a solid understanding on networking basics. There are multiple ways of demonstrating a networking background, including taking undergraduate networking class CS 60 or equivalent classes, and experiences of working on networking related projects. Course project is an important part of this class. Students must have good programming skills and project experiences.
+Grading Policy
+Project: 70% Class presentation: 15% Essay: 10% Class participation: 5%
+CS@Dartmouth
+
+

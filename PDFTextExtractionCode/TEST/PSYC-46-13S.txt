@@ -1,0 +1,369 @@
+PSYCH 46: CELLULAR AND MOLECULAR NEUROSCIENCE
+
+COURSE DESCRIPTION
+
+SPRING 2013
+
+This course focuses on cellular and molecular mechanisms that underlie the
+development and function of the nervous system. This includes aspects of gene expression (transcription, mRNA metabolism) and cell biology (cellular transport and
+cytoskeleton, cell cycle, signal transduction, and signaling pathways) as they pertain to neurons and glia. Lectures supplemented by in-class discussion of primary
+research articles will also serve as an introduction to microscopic, electrophysiological, molecular biological, and genetic techniques, as well as the animal models used to
+study the nervous system and neurological disorders.
+
+CLASS MEETING TIME AND LOCATION
+
+This class meets MWF from 11:15 am to 12:20 pm in the Moore building, Room 202, with lectures and/or optional review sessions held during some of the X hours (Tuesdays from 12:00 pm-12:50 pm). There is no class on Memorial Day (May 27th).
+
+INSTRUCTOR
+
+Robert A. Maue, Ph.D. Professor of Physiology and of Biochemistry, Geisel School of Medicine at Dartmouth
+Adjunct Professor of Psychology and Brain Sciences, Dartmouth College Adjunct Professor of Biological Sciences, Dartmouth College
+Office Hours: Tuesdays (12:00-1:00) and Wednesdays (12:30-1:30) in Moore 141B E-mail: Robert.Maue@Dartmouth.edu
+
+COURSE MATERIALS / RESOURCES
+
+Textbooks: There is no single textbook for this course. Instead, information is drawn
+from research articles, reviews and a number of well-regarded neuroscience textbooks (listed below). While some of these books may be on reserve, the corresponding
+reading from them will be on the Blackboard site. Letter(s) preceding the title of the textbook correspond to the abbreviations used in the syllabus.
+
+(SRH) Development of the Nervous System. 3rd Edition. (D.H. Sanes, T. A. Reh, W.A. Harris). Academic Press. New York. 2012.
+
+(B) Neuroscience- Exploring the Brain. 3rd Edition. (Eds. M. F. Bear, B. W. Connors, M. A. Paradiso). Lippincott, Williams, and Wilkins. New York. 2007.
+
+(P) Neuroscience. 3rd Edition. (Eds. D. Purves, G. J. Augustine, D. Fitzpatrick, W.
+C. Hall, A. LaMantia, J. O. McNamara, S. M. Williams). Sinauer. Sunderland, Massachusetts. 2004.
+
+(N) From Neuron to Brain. 4th Edition. (Eds. J.G. Nicholls, A. R. Martin, B.G. Wallace, and P.A. Fuchs). Sinauer. Sunderland, Massachusetts. 2001.
+
+(P/L) Principles of Neural Development. (Eds. D. Purves and J. W. Lichtman). Sinauer. Sunderland, Massachusetts. 1992.
+
+(S) Basic Neurochemistry. 6th Edition. (Eds. G. J. Siegel, B. W. Agranoff, R. W. Albers, S. K. Fischer, M. D. Uhler). Lippincott-Raven. New York. 1999.
+
+(LK) The Neuron ­ Cell and Molecular Biology. 2rd Edition. (Eds. I.B. Levitan and L. K. Kaczmarek). Oxford Univ Press. 1997.
+(K) Cellular and Molecular Biology. 3rd Edition. (Ed. G. Karp). Wiley and Sons. New York. 2002. (L) Molecular and Cellular Biology. 4th Edition. (Eds. H. Lodish, A. Berk, S. L. Zipusrsky, P. Matsudaira, D. Baltimore, J. Darnell). W. H. Freeman 2000.
+(C) What's Wrong With My Mouse? J. N. Crawley. Wiley-Liss. New York. 2000.
+Blackboard: The Blackboard site for this course will include Powerpoint slides, accompanying reading material, and research papers. PBS 46 Study Group: For those interested, the Academic Skills Center (Holly Potter) can help students develop a Study Group. Contact Holly for details.
+EVALUATION
+Three "in class", written exams will be given (the last exam is NOT cumulative). Grades will be determined by the percentage of the total points possible (300), and not on a curve (the entire class could receive an A, an E, or anything in between). While 90% or above will definitely be an "A" and more than 60% will be required to pass the course, the grades associated with the remainder of the scores may be adjusted slightly depending upon the overall difficulty of the exams. Typical (but not necessarily final) percentages and corresponding grades are: >90 (A); 86-89 (A/B+); 80-85 (B); 76-79 (B-/C+); 70-75 (C); 66-69 (C-); 61-65 (D); <60 (E).
+HONOR PRINCIPLE
+During this course it is expected that students will abide by the Honor Principle. The Dartmouth College Student Handbook (page iii) states "Fundamental to the principle of independent learning are the requirements of honesty and integrity in the performance of academic assignments, both in the classroom and outside. Dartmouth operates on the principle of academic honor, without proctoring of examinations. Students who submit work which is not their own or who commit other acts of academic dishonesty forfeit the opportunity to continue at Dartmouth." If you have any questions regarding this during the course, please contact Dr. Maue.
+STUDENTS WITH DISABILITIES
+Students with disabilities, including invisible disabilities such as chronic illnesses and learning disabilities, are encouraged to arrange for accommodations that might be helpful to them. Please meet with Dr. Maue as soon as possible, preferably during the first week of class, to discuss possible accommodations. All discussions will be confidential, although the Academic Skills Center may be consulted to verify the documentation of the disability.
+STUDENTS' RELIGIOUS OBSERVANCES
+Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in the course, please contact Dr. Maue as soon as possible, preferably before the end of the second week of the term, to discuss appropriate accommodations. All discussions will be confidential.
+
+COURSE SYLLABUS
+
+DATE
+
+TOPIC
+
+READING
+
+GENERAL SPECIFIC
+
+-------------------------------------------------------------------------------------------------------------------------
+
+I. NEURONAL DEVELOPMENT
+
+M 3/25
+
+Neural induction during embryogenesis
+
+Tu 3/26
+
+P/L 11-17 P 501-511
+SRH 1:1-16
+
+W 3/27
+
+Neuronal proliferation and migration
+
+L496-498 L524-525
+
+B 691-695
+P 517-518 SRH 3:49-55
+SRH 3:58-66 SRH 3:67-73
+
+F 3/29
+
+Differentiation and compartmentation:
+
+K 521-541 P/L 33-43
+
+More transcriptional programs and soluble factors
+
+P 512-515
+
+SRH 1:1-16
+
+SRH 2:23-28
+
+SRH 4:87-90
+
+------------------------------------------------------------------------------------------------------------------------------
+
+M 4/1
+
+Mechanisms governing axon outgrowth
+
+S 139-147 N 499-507
+
+SRH 5:105-
+
+Tu 4/2
+
+W 4/3
+
+Neuronal polarity and mechanisms of transport
+
+Craig (1994) P 548
+S 565-585
+
+F 4/5
+
+Establishing neural connections ­ synapse formation
+
+P/L 205-228
+
+Li and Sheng
+
+(2003)
+
+SRH 7: 214-
+
+SRH 8: 223-
+
+SRH 9:255-
+
+------------------------------------------------------------------------------------------------------------------------------
+
+II. NEURONAL SIGNALING MECHANISMS
+
+M 4/8
+
+Neurotrophins and other trophic factors
+
+L 872-875
+
+P 549-555 N 513
+SRH 7:171-
+
+Tu 4/9
+
+Dynamics of calcium signaling
+
+S 453-468
+
+W 4/10
+
+Discussion of research paper: Endogenous BDNF triggers fast Lang (2007) Ca transients in developing dendrites. J Neurosci 27(15):1097-1105
+
+F 4/12
+
+Review
+
+---------------------------------------------------------------------------------------------------------------------------
+
+M 4/15
+
+EXAM I
+
+Tu 4/16
+
+W 4/17
+
+G protein-mediated signaling pathways
+
+S 401-412
+
+F 4/19
+
+Molecular properties of ion channels
+
+Clapham
+
+(1997)
+
+Clapham
+
+(2002)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+M 4/22
+
+Action potentials revisited:
+
+P 69-85
+
+molecular aspects of voltage-gated channels
+
+Miller
+
+(2003)
+
+Tu 4/23
+
+Discussion of research paper: Restoration of inactivation in mutants of shaker K channels by a
+peptide derived from ShB Science 250: 568-571.
+
+Zagotta (1990)
+
+W 4/24
+
+Synaptic channels: ligand gated ion channels and gap junctions
+
+P 133-147
+
+F 4/26
+
+Synaptic function
+
+P 103-124
+
+-------------------------------------------------------------------------------------------------------------------------
+
+M 4/29 Synaptic plasticity I
+
+P 575-598
+
+Tu 4/30
+
+W 5/1
+
+Synaptic plasticity and neural networks: generating behavior
+
+N 550-66
+
+IK 451-65
+
+F 5/3
+
+Review
+
+-------------------------------------------------------------------------------------------------------------------------
+
+M 5/6
+
+EXAM II
+
+III. MOLECULAR INSIGHTS AND APPROACHES TO NEUROLOGICAL DISORDERS
+
+Tu 5/7
+
+W 5/8
+
+Animal models in neuroscience research
+
+N 292-6 P 576
+
+F 5/10
+
+Animal models in neuroscience research:
+
+C 9-23
+
+Mouse technology
+
+C 227-232
+
+L 284-286
+
+------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------
+
+M 5/13
+
+Cellular and molecular aspects of Alzheimer's disease: S 949-965 P 750-751
+
+plaques, tangles, and transport
+
+B 36-37
+
+Mattson
+
+(2004)
+
+Huang
+
+and
+
+Mucke
+
+(2012)
+
+Tu 5/14
+
+W 5/15
+
+Parkinson's disease - dynamics of protein aggregation K 545-546 Dauer P 426-430 (2003)
+
+F 5/17
+
+Huntington's disease and tri-nucleotide repeat disorders P 426-430 K 418-419
+L 259 Gatchel (2005)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+M 5/20
+
+Discussion of research paper:
+
+Zu et al.
+
+Recovery from polyglutamine-induced neurodegeneration
+
+(2004)
+
+In conditional SCA I Transgenic mice J Neurosci 24: 8853-8861
+
+Tu 5/21
+
+W 5/22
+
+Morphology and mRNA of mental retardation: dendritic spines and Fragile X Syndrome
+
+B 43-44 Bagni and P 590-91 Greenough
+(2005) Calabrese
+(2006)
+
+F 5/24
+
+Autism spectrum disorders:
+
+Pardo
+
+searching for the genetic basis of disease
+
+(2007)
+
+Garber
+
+(2007)
+
+McNeil
+
+(2009)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+M 5/27 Memorial Day (NO CLASS)
+
+Tu 5/28 Developing molecular therapies for CNS disorders
+
+W 5/29
+
+Review
+
+L 199-204 C240-245 Nicholas
+(2006)
+
+F 5/31
+
+EXAM III (scheduled for 8-11 am)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,124 @@
+ENVIRONMENTAL STUDIES 55: ECOLOGICAL ECONOMICS
+
+Winter 2014 Lecture: MWF 10:00-11:05 X-hour: Th 12:00-12:50 Classroom: 7 Steele
+
+Prof. Rich Howarth Office hours: Th 12:00-2:00 106 Fairchild RBHowarth@Dartmouth.edu
+
+Course Description: This course examines the links between economic and ecological systems with an emphasis on the interplay between values and institutions in environmental problemsolving. Concepts pertaining to welfare economics, common pool resources, ecosystem valuation, and environmental ethics are developed and applied to problems such as fisheries and forest management, biodiversity conservation, and global environmental change. The course emphasizes the relationship between economic growth, ecosystem services, and human flourishing in the definition and pursuit of sustainable development.
+
+Prerequisites: The course is aimed at students who have a basic knowledge of environmental issues (Environmental Studies 2 or 3), microeconomics (Economics 1 or 2), and good math skills (Mathematics 3). While students with weaknesses in one of these areas can succeed in the course, a grasp of either basic economics or calculus is especially important.
+
+Course Requirements: Course evaluations will be based on four homework assignments (10%), a midterm (30%), a final examination (30%), and a 6-8 page paper that will be due on Wednesday, March 5 (30%). Papers will summarize and critique a research article that is pertinent to the themes explored in the course. See the "Guidelines for Final Papers" on p. 5.
+
+Tutors: Jimena Diaz '14 (Jimena.Diaz@Dartmouth.edu) and Lisa Rennels '14 (Lisa.Rennels@Dartmouth.edu) will serve as tutors in this class, holding office hours to help with questions concerning the homework assignments.
+
+Readings: The textbook for this course ­ Environmental and Natural Resource Economics: A Contemporary Approach by Jonathan M. Harris and Kevin Roach (3nd edition, M.E. Sharpe,
+2013) ­ is available at Wheelock Books. In addition, the course makes extensive use of
+supplementary readings, which may be accessed via Dartmouth's electronic reserve system or by
+following the hyperlinks provided in this syllabus.
+
+Disabilities and Religious Observances: Students with disabilities should contact the instructor during office hours to discuss the accommodations they require to succeed in the course. Students who need accommodations in order to participate in religious observances that occur during the term should also confer with the instructor by the end of the second week.
+
+Academic honor: Students may discuss homework assignments with each other provided that the work they submit for credit is their own. For a math problem, this means that a student should understand each step involved in the solution and be able to reproduce it independently. Papers must be written by the student and reflect his or her own interpretation of the subject matter. Under Dartmouth's Academic Honor Principle, it is impermissible to give or receive assistance during an examination.
+
+-1-
+
+Class Schedule
+
+M 1/6 Introduction and overview Reading: Harris and Roach, ch. 1.
+
+W 1/8
+
+Ethics and institutions Readings: R. Eriksson and J.O. Andersson, "Ethics and Ecological Economics," ch. 3
+in Elements of Ecological Economics, Routledge, New York, 2010; and A. Srinavasan, "Questions for Free-Market Moralists," New York Times, October 20, 2013. (link)
+
+F 1/10 Efficiency, equity, and the market Reading: Harris and Roach, Appendix 3.1 (pp. 57-65).
+
+M 1/13 Externality theory Reading: Harris and Roach, ch. 3.
+
+W 1/15 Common pool resources Reading: Harris and Roach, ch. 4.
+
+Th 1/16 Working with Excel (optional X-hour)
+
+F 1/17 Bioeconomic modeling (Homework #1 due) Reading: Harris and Roach, ch. 13.
+
+M 1/20 No Class ­ MLK Day
+
+W 1/22 Fisheries management Reading: W.E. Schrank, "The Newfoundland Fishery: Ten Years after the Moratorium," Marine Policy, vol. 29, pp. 407-420, 2005. (link)
+
+F 1/24 Cost-benefit analysis (Homework #2 due) Reading: Harris and Roach, ch. 6 (skim pp. 121-125 and 131-134 on discounting).
+
+M 1/27 Valuing biodiversity Reading: R. Bandara and C. Tisdell, "The Net Benefit of Saving the Asian Elephant: A Policy and Contingent Valuation Study," Ecological Economics, vol. 24, pp. 93107, 2004. (link)
+
+W 1/29 Ecosystem services Reading: P. Sukhdev, H. Wittmer, C. Schröter-Schlaack, C. Nesshöver, J. Bishop, P. ten Brink, H. Gundimeda, P. Kumar, and B. Simmons, "Mainstreaming the Economics of Nature: A Synthesis of the Approach, Conclusions and Recommendations of TEEB," UNEP, Geneva, 2010. (link)
+
+-2-
+
+F 1/31
+
+Income and well-being Reading: T. Jackson, "Live Better by Consuming Less? Is There a `Double Dividend"'
+in Sustainable Consumption?" Journal of Industrial Ecology, Vol. 9, pp. 19-36, 2008. (link)
+
+M 2/3
+
+Deliberative valuation Reading: R. Gregory and K. Wellman, "Bringing Stakeholder Values into
+Environmental Policy Choices: A Community-Based Estuary Case Study," Ecological Economics, vol. 39, pp. 37-52, 2001. (link)
+
+Tu 2/4 Review session, 6:00-7:00 p.m.
+
+W 2/5 Midterm examination
+
+F 2/8 No Class ­ Winter Carnival
+
+M 2/10 Discounting the future Reading: Harris and Roach, pp. 121-125 and 131-134.
+
+W 2/12 Discounting and conservation Reading: Harris and Roach, ch. 14.
+
+F 2/14 Discounting and climate change Readings: Harris and Roach, ch. 19; and J. Broome, "The Ethics of Climate Change," Scientific American, vol. 298, pp. 97-102, 2008. (link)
+
+M 2/17 Forests and climate change Guest lecturer: Dr. David Lutz Readings: J.G. Canadell and M.R. Raupach, "Managing Forests for Climate Change Mitigation," Science, vol. 320, pp. 1456-1457, 2008 (link); and D.A. Lutz, R.L. Powell, and M.R. Silman, "Four Decades of Andean Timberline Migration and Implications for Biodiversity Loss with Climate Change," PLOS One, vol. 8, pp. 1-9, 2013. (link)
+
+W 2/19 Limits to growth? (Homework #3 due) Reading: Harris and Roach, ch. 2
+
+F 2/21
+
+Economic sustainability Readings: R.M. Solow, "Sustainability: An Economist's Perspective," pp. 179-187 in
+Economics of the Environment (R. Dorfman and N.S. Dorfman, eds.), Norton, New York, 1993. (link)
+
+M 2/24 Natural resource accounting Reading: Harris and Roach, ch. 8.
+
+-3-
+
+W 2/26 The Index of Sustainable Economic Welfare (Homework #4 due) Reading: P.A. Lawn, "A Theoretical Foundation to Support the Index of Sustainable Economic Welfare (ISEW), Genuine Progress Indicator (GPI), and Other Related Indexes," Ecological Economics, vol. 44, pp. 105-118, 2003. (link)
+
+F 2/28
+
+Strong sustainability and critical natural capital Readings: Harris and Roach, ch. 7; and P. Ekins et al., "A Framework for the Practical
+Application of the Concepts of Critical Natural Capital and Strong Sustainability," Ecological Economics, vol. 44, pp. 165-185, 2003. (link)
+
+M 3/3 Greening the economy Reading: Harris and Roach, ch. 17.
+
+W 3/5 Trade and the environment (Final paper due) Reading: Harris and Roach, ch. 20.
+
+F 3/7 Summary and review
+
+M 3/10 Final examination 3:00 p.m., location to be announced
+
+-4-
+
+GUIDELINES FOR FINAL PAPERS
+Paper Topics
+Your final paper should review and critically assess a journal article that is relevant to this course and that engages with your interests and overall academic plan. You could choose an article that studies an ecological or environmental issue from an interdisciplinary perspective that involves an economic dimension. Alternatively, you might focus on an article that emphasizes the disciplinary aspects of economic analysis. Either way, the following background questions may be helpful to you in interpreting, reviewing, and assessing the article you have chosen:
+· What research question(s) does the article address? · What methods or approach do the authors use to answer this question? · What findings or conclusions does the article present? · How does the article contribute to the research literature? · How might it contribute to environmental policy or praxis?
+In researching and writing your paper, you'll want to read and cite additional sources that address the topical issue, techniques, and/or theories considered in the article you are reviewing. A total of ten sources is a good goal to shoot for with an emphasis on published books and journal articles. If you were reviewing Bandara and Tisdell's article on the benefits of elephant conservation (see the reading for 1/27), for example, you'd want to do research on both the contingent valuation method and the challenges presented by human-wildlife interactions.
+Sources
+If you're interested in finding a journal article on a particular topic, try doing a subject or title word search using the Web of Science. This is a powerful tool that provides abstracts and online access to articles along with citations to related research studies. Google Scholar is a related search engine that is worth checking out. Note that standard internet search engines are not good at finding peer-reviewed journal articles because journal articles are often copyrighted and hence available only on specialized web sites.
+Alternatively, you could browse for articles in journals such as Ecological Economics, Ecology and Society, Energy Policy, and Climatic Change. The specific source doesn't matter as long as the article in question is both interesting to you and relevant to the course. Most journals at Dartmouth can be accessed online via the library web site.
+Style
+1. Papers should be 6-8 pages in length with one-inch margins, double spacing, and 12-point fonts. 2. Include page numbers throughout your document. 3. Please pay attention to the following guidelines for references and citations:
+· When citing an article, book, or other work, give the author's name and the year of publication in the body of your paper.
+· Provide a bibliography that lists the author, date, and title of each cited work. For journal articles, give the volume and page numbers of each cited paper. For books, give the city and publisher.
+· If in doubt, follow the reference style used in Ecological Economics.
+-5-
+
+

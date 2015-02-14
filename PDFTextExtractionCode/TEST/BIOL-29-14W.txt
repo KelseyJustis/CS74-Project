@@ -1,0 +1,189 @@
+BIOSTATISTICS (BIO 29): WINTER 2014
+STAFF Professor ­ Kathryn L. Cottingham, Ph.D.
+Office location: Life Sciences Center 124 In-person office hours: Mondays 1-2 pm and Wednesdays 4-4:45 pm (except Jan. 29)
+Also available before most Thursday classes by appointment Email availability: I will respond to emails received by 7:15 pm that same day. However,
+because I try not to look at email first thing in the morning, please don't count on me seeing messages before our 10A meetings.
+Graduate Teaching Assistants Nina Lany ­ Monday @ 2 R lab, office hours Wednesday 2-3 pm in LSC 102 Gillian Moritz ­ Monday @ 2 JMP lab, office hours Wednesday 4:30-5:30 pm in LSC 102 Tyler Pavlowich ­ Monday @ 4 R lab, office hours Tuesdays 1:30-2:30 pm, Fairchild 112a Leif Richardson ­ Tuesday @ 2 JMP lab, office hours Friday 1-2 pm in LSC 102
+COURSE OBJECTIVES
+The primary goal of this course is to develop a strong foundation in exploratory data analysis and parametric biostatistics, with an emphasis on real data and authentic applications. By the end of the term, students will: 1. Be able to explain why statistics is interesting and useful in biology, using concrete examples 2. Understand and succinctly explain the reasoning behind standard methods of statistical
+inference 3. Use statistical vocabulary accurately and with confidence 4. Demonstrate proficiency in many of the skills used by practicing statisticians, including:
+· Preparing, interpreting, and captioning appropriate visual summaries of data · Calculating and interpreting summary statistics · Designing data collection procedures that produce clear answers to specific questions · Calculating and interpreting one and two-sample t-tests, simple linear regressions, and
+one-way analyses of variance · Drawing conclusions from data and statistics calculated from data · Presenting these conclusions in writing using the language of statistics and the format of a
+scientific paper · Working with statistical software (particularly JMP® or R) · Collaborating with other scientists on data collection and analysis
+No prior experience with statistics is needed, but we expect you to be familiar with the procedures used to collect data by at least one subfield within biology, comparable to the material covered in a Foundations course, Bio 12-16.
+1
+
+Biology 29 Biostatistics
+
+Winter 2014 Cottingham
+
+COURSE PHILOSOPHY I seek to meet these objectives using a combination of approaches. New this year is an emphasis on problem solving during class, instead of problem solving alone, outside of class: I will spend much less class time lecturing about statistics and much more time helping you actually do statistics and describe your findings in writing. Although there will still be short lectures at our course meetings, more of our time will be spent in activities that give you structured time to wrestle with the applications of statistics to real biological problems, in an environment where you can ask questions and get help right away. To create the time to do these activities during class, students will need to prepare ahead of time by reading in our textbook and completing the requested activities in StatsPortal before class. Thus, this will be a `flipped' classroom.
+To complement our professor-led T-W-Th meetings, we will also have weekly computer laboratories led by graduate teaching assistants; these labs will develop your ability to effectively use statistical software and give you time to further practice your statistical and writing skills.
+Throughout the term, students will demonstrate their learning through multiple pathways: online activities in StatsPortal, during-lab and during-class individual and group activities, individual out-of-class assignments due on Mondays, and a combined take-home/in-class final examination. The full assessment strategy is spelled out in more detail beginning on page 5. I welcome questions from students at course meetings, during office hours and appointments, and via email.
+
+COURSE MEETINGS Statistics is a cumulative subject best learned by doing. Thus, your prompt attendance is expected at all course meetings (lectures, x-hours, and laboratories), and participation at these sessions is an important component of your grade in this course.
+"Lectures": Tuesdays and Thursdays, 10-11:50 am, Life Sciences Center (LSC) 200
+X-hours: Wednesdays, 3-3:50 pm, LSC 200. We will have important hands-on activities and discussions at x-hours, so attendance is mandatory.
+Computer Laboratories: Monday or Tuesday afternoons from 2-4:30 pm, using JMP or R. Section assignments and meeting locations will be emailed to individual students.
+Classroom Policy: Multi-tasking that distracts you from participating fully in whole-class or small-group activities (such as checking e-mail, Facebook, or Twitter; making online purchases; reading the newspaper, etc.) is strictly prohibited. If we notice you doing this, we will remind you of this policy. Repeated reminders will reduce the course participation grade.
+
+RESPONSIBILITIES & EXPECTATIONS
+I expect that students in this course will 1. Attend all course meetings: lectures, x-hours, and computer laboratories 2. Alert me in advance to potential issues with attendance or timely completion of assignments 3. Come to course meetings having done the assigned readings and online activities 4. Actively participate at course meetings by working effectively in a small group setting and
+asking and answering questions of the faculty and graduate TAs as needed 5. Demonstrate understanding of course material in group assignments completed at class/lab 6. Demonstrate understanding of course material in individual out-of-class assignments 7. Keep track of course activities and announcements via our Blackboard site and StatsPortal 8. Seek help from the teaching staff when needed through office hours, appointments, or email
+
+2
+
+Biology 29 Biostatistics
+
+Winter 2014 Cottingham
+
+You can expect Prof. Cottingham to
+1. Be organized and well-prepared throughout the course 2. Be knowledgeable about the course material
+3. Stimulate interest in the course material 4. Explain course material clearly and efficiently
+5. Answer student questions thoroughly 6. Be available for, and amenable to, consultations regarding lectures, assignments, and other
+student concerns 7. Use methods of evaluation that provide a representative test of student knowledge and
+understanding of the course material 8. Grade student work fairly and return it promptly
+9. Be receptive to student requests for accommodations and suggestions for improvement
+
+You can expect the Teaching Assistants (TAs) to
+1. Master the material presented in course meetings and be able to explain it to individuals or small groups at weekly office hours
+2. Effectively facilitate small-group activities at "lecture" and x-hours 3. Effectively lead the weekly computer laboratory sessions
+4. Grade student work fairly and return it promptly 5. Serve as a liaison between students and the professor
+
+A Note on Help Statistics is a cumulative subject best learned by doing. It is difficult to catch up if you fall behind during the early weeks of the term. Do not be afraid to seek help early and often! Help with the course material can be obtained from the teaching staff during office hours and by appointment. Note that we strongly encourage you to work in groups during lab and class, since much can be learned from comparing how different people address the same statistical problem. The instructions for each graded assignment will clearly spell out when it is and is not appropriate to work with others (see also HONOR PRINCIPLE, page 8).
+
+Student Needs I encourage students with disabilities, including invisible disabilities such as chronic illnesses and
+learning disabilities, to arrange for accommodations that might be helpful. Please meet with me soon, preferably during the first week of classes, to discuss possible accommodations. If you are
+already working with the Student Accessibility Services (SAS) office, please bring your original Services and Consent Form and/or a letter on SAS letterhead to the meeting. If you are new to
+accommodations, you will need to register with the SAS office and obtain authorization first (see dartmouth.edu/~accessibility/). All discussions will be confidential.
+
+COURSE MATERIALS
+· Blackboard. This course will still be using the old Bb platform. All faculty-generated materials will be made available through Blackboard, including handouts for lectures & laboratories, datasets, handwritten notes & podcasts from lectures, and templates for the during-lab and during-class assignments, and datasets for problem sets. Please note that we will typically work directly from handouts in both lectures and laboratories, so we strongly recommend that you print them out prior to class. We will bring printouts to the first lab and first lecture, but will not provide printouts after 7 January.
+
+3
+
+Biology 29 Biostatistics
+
+Winter 2014 Cottingham
+
+· Text: The Practice of Statistics in the Life Sciences, 2nd edition, by B. Baldi and D.S. Moore. 2011. W.H. Freeman and Company, New York. This text ­ which we will call "PSLS" ­ presents quantitative analysis in a life sciences context, emphasizing the use of real data and statistical thinking. All examples and exercises are drawn from diverse areas of biology, including physiology, brain and behavior, epidemiology, health and medicine, nutrition, ecology, and microbiology. We strongly recommend that you use the text electronically as an eBook, as you will need access to StatsPortal anyway, but you can also seek out a used hard copy; copies should be cheap online as the 3rd edition is being released in time for the spring semester at schools with traditional mid-January start dates. I did not request that either bookstore acquire hardcopies of the book.
+
+· StatsPortal is a complete online learning environment containing the eBook version of PSLS, LearningCurve activities to confirm that you have read and mastered the core content of the chapters we will cover, additional resources to help you study (such as Study Plans built from diagnostic quizzing at the beginning and end of each chapter, video tutorials, solutions to practice problems, interactive applets, etc.), an Assignments center to easily access online assignments, and a calendar to keep track of course meetings and due dates. In addition, the videos and online tutorials are a great supplement to the readings and lectures, especially if you have to miss class or are struggling to understand particular topics.
+Because LearningCurve activities will account for a component of your grade, you must obtain access to StatsPortal by purchasing it as a package from the StatsPortal Web site (see instructions below).
+Please note that because StatsPortal includes the eBook, you do not need to acquire both the portal and the textbook. 1. To access the StatsPortal site for our course, go to http://courses.bfwpub.com/psls2e.php
+(Important: Mac users will need to use Firefox and PC users will need to use Internet Explorer or Firefox). Tablet use not recommended. 2. To obtain an access code from the publisher, click "PURCHASE Access to StatsPortal" 3. Follow the on-screen instructions by selecting New Hampshire for state/province, then Dartmouth, then Kathy Cottingham or Biology 029. 4. Once you've got the course selected, enter your activation code. You'll then enter your email address and choose a password that will enable you to use PSLS on any computer.
+TIP: StatsPortal can be kind of slow, but be patient ­ the pros outweigh the pokiness.
+
+· Statistical Software for your lab. If you are in a JMP lab, you will need access to JMP. Licenses can be purchased for 6 ($30) or 12 ($50) months at www.onthehub.com/jmp/.
+If you are in an R lab, you will need access to R, available free at from cran.r-project.org/
+You will need to have JMP or R up and running on your computer prior to your first laboratory session.
+
+· Supplemental texts, readings, and humorous diversions will be available via external links from Blackboard. These materials will provide more detail about topics covered in lecture or lab, provide examples of applications of statistics to biological questions, review recent
+discussions of statistics in the literature, and make you laugh (or gag). These materials will be referenced on reading lists, handouts and assignments as appropriate.
+
+4
+
+Biology 29 Biostatistics
+
+Winter 2014 Cottingham
+
+COURSE REQUIREMENTS & GRADING Final grades will be based on your performance in six areas: (1) online activities in StatsPortal, (2) in-class readiness, (3) during-class and during-lab group assignments, (4) individual synthesis/reflection assignments, (5) a final examination, and (6) participation.
+
+(1) Out-of-class Preparation: LearningCurve Activities in StatsPortal As noted in the COURSE PHILOSOPHY, above, this course will not follow the "talking head"
+model in which the professor lectures for most of each class period and students do most of their "real work" outside of class. Instead, we're going to spend at least half of our class time on
+problem solving and discussions. In order for this to work, each student will need to prepare for course meetings by (1) reading the appropriate chapters in the textbook (see online calendar in
+StatsPortal) and then (2) demonstrating their mastery of the material in most of those chapters by correctly answering questions about it using the LearningCurve tab in StatsPortal.
+
+In LearningCurve, the questions are auto-graded and tabulated based on the number of correct answers. To earn full marks for a chapter, all you need to do is correctly answer the target number of questions for each topic within a chapter (typically ~5); I will have access to data about the percentage of questions that you answered correctly, but will not use that data in grading. Thus, it is entirely possible to receive a score of 100% for this component of the course if you do all of the assignments on time and keep answering questions until you get enough of them correct. Importantly, however, you will receive a 0% for a chapter if you don't complete the assignment by the date AND TIME indicated in StatsPortal.
+
+I've worked through most of the chapters we'll cover, and the LearningCurve questions do a nice job of getting to the heart of the material covered in the text ­ especially subtleties that can be
+easy to miss while reading through quickly but that are important to the practice of statistics. They can also be annoyingly repetitive at times, but try to overlook that bug feature.
+
+(2) In-class readiness: "minute" papers
+This component of the course ­ which will contribute minimally to your final grade ­ will keep tabs on how well prepared you, as an individual, are for our class meetings ("lectures", labs, and
+x-hours). "Minute" papers are short, in-class quizzes test whether you're (a) at class, (b) keeping up with the material, and (c) understanding it. Thus, they act somewhat like the clickers used in
+Bio 11 and some of the Foundations courses. At any time during a course meeting, we may ask you to quickly answer a question or two. You will have 3-5 minutes to write down your answer
+to the question(s). For example, you may be asked to define a concept, interpret statistical output, criticize an analysis, or reflect on recent class material.
+
+Although sometimes these papers will be graded, most times we'll just be looking to see who was at class and how well the class as a whole understands current material. Ungraded papers will be scored as 0's and 1's: 1 if a paper was turned in and 0 if it wasn't. Graded papers will be scored as 0's, 1's, 2's and 3's: 0 for no paper, 1 for a paper with an incorrect answer, 2 for a paper with a partly correct answer, and 3 for a paper with the correct answer. Your total score on all minute papers will be a small component of your final grade (see the weighting table, below).
+
+5
+
+Biology 29 Biostatistics
+
+Winter 2014 Cottingham
+
+(3) During-Lab and During-Class Group Assignments A major change to this course this year is the replacement of problem sets ­ which typically required 20+ hours of work, every 2 weeks, on the part of both the professor and students ­ with shorter, more frequent assignments done at class and lab by groups of students and then polished up (and reflected upon) outside of class by individuals. Longer and/or harder assignments will be worth more points.
+
+The during-class work will include a variety of activities, including generating figures, tables and well-written captions; solving problems either with pen and paper or statistical software;
+designing an observational study or experiment; interpreting results of analyses; outlining a report on your findings; and constructively critiquing work by others. Many days, we will take
+advantage of the computer monitors available around our classroom to conduct analyses as groups of 4-5 students, which will then be submitted electronically by the whole group. You
+should plan to bring your laptop to each class to ensure that you are ready for anything!
+
+The computer labs will particularly emphasize the use of software and make sure you have the skills for hands-on group analysis at x-hour and Thursday's class. Prior to each lab, you should
+read through the handout, complete the pre-lab questions, do the reading (if any), and make note of anything you don't understand. Lab will typically begin with some practice in scientific
+writing and then move on to the pre-lab questions, a general overview of the day's objectives, and the opportunity to ask questions about the in-lab assignment. In most weeks, pairs of students
+will then work through a structured exercise and complete a short assignment that will be turned in before they leave lab that afternoon. Some weeks, we will work in larger groups on exercises
+that don't take place at the computer. Throughout the term, we may ask students to make presentations to the rest of the lab regarding work done during lab, especially when we're
+working on designing procedures for data collection.
+
+These assignments will be graded quickly (within a few days) on a relatively coarse scale. Assignments that adequately answer the questions but that don't stand out as exceptional will be
+scored at 80% of the total possible points. Exceptional answers will receive higher scores, for example for unusually thorough or innovative analyses. Assignments that are missing key
+elements or need work will receive less than 80% of the points, with successively lower scores given to assignments that are deficient in multiple areas. The teaching staff will provide
+comments and suggestions on your work, so that you know what was done well and what could use more work; for many assignments, you will also have access to what others submitted.
+
+Much of the time, we will discuss these assignments either at the end of class or during the
+following class, so that you know what the best papers look like. Overall, we expect that careful work during class, together with close attention to comments from the teaching staff and
+subsequent discussions of the best assignments, will result in improved performance on the individual written assignments.
+
+NOTE: All during-lab and during-class assignments will be a group effort: each team of students will turn in one copy of the assignment, and all will receive the same score. If you are uncomfortable with this policy, please contact Prof. Cottingham as soon as possible to discuss your concerns.
+
+6
+
+Biology 29 Biostatistics
+
+Winter 2014 Cottingham
+
+(4) Individual out-of-class assignments
+To assess individual progress towards meeting the COURSE GOALS, each week students will submit an independent assignment that builds on the group work done during lab and class and reflects on learning and contributions during the previous week and across the entire term to date.
+These assignments, typically due early Monday morning, are intended to take ~2-3 hours, and will be open-book, meaning that you may consult any text or online resource you like in preparing your answers ­ including our Blackboard site where during-class assignment answers from other groups may be posted. However, you must complete each assignment completely independently ­ you may not communicate with anyone except the professor about these assignments. For example, you cannot ask questions of the TAs and you cannot talk to other students (past, present, or future). See HONOR PRINCIPLE, page 8.
+These assignments will be graded on a numeric basis, typically from a rubric, and sometimes from a rubric that we generate as a class on Wednesday/Thursday each week. Assignments will be evaluated both in terms of their statistical merit and the way in which they are presented. I expect you to use college-level writing. Grammar, style, and spelling will count, so take the time to write complete sentences when they are requested, to proofread each answer, and to collate your work so as to make it easy to grade. Be sure to follow instructions carefully.
+Assignments are due at exactly the time and place indicated on the first page of the assignment. Those less than 30 minutes late will be docked points (# minutes late * week of term, so 1 minute late in week 1 = -1 point; 4 minutes late in week 5 = -20 points). Assignments more than 30 minutes late will not be accepted. If you have a scheduling conflict and need an adjustment to the stated deadline, please discuss this with the professor by phone or in person well in advance.
+
+(5) Final examination To test your mastery of the "big-picture" skills emphasized during the term, there will be a take-
+home individual data analysis assignment combined with two-hour, cumulative examination on Thursday, March 13, at 8 am. The data analysis assignment will test your ability to apply all you
+have learned through the term to a new dataset, while the in-class exam will test how well you've incorporated the core concepts and approaches of parametric statistics into your "walking
+around" knowledge base. Questions will emphasize synthesis (e.g., "what are the top 5 things you learned this term? Why?"), interpretation of output (e.g., we provide you with a study
+description and output from a computer package, you say whether the analysis is valid and draw conclusions if appropriate), and application of what you've learned to consulting situations (e.g.,
+"Help Professor X design an experiment to test hypothesis Y").
+
+(6) Course participation Your active participation in this course is essential and will be evaluated based on (a) prompt and
+consistent attendance at all formal course meetings (lectures, x-hours, labs), (b) your contributions at those meetings (e.g., asking and answering questions; fully engaging in sgroup
+activities), (c) completing StatsPortal assignments on-time (as tracked on that website), and (d) whether you actively sought out the professor and/or TA's outside of class via office hours,
+appointments, or email to ensure that you understood the course material. Participation will be evaluated separately on a numeric scale by the professor, TAs, and student, then the three scores
+will be summed. Detailed instructions on self-evaluation will be provided towards the end of the term.
+
+7
+
+Biology 29 Biostatistics
+
+Winter 2014 Cottingham
+
+Weighting of Requirements
+
+Method of Assessment Out-of-class preparation using StatsPortal In-class readiness: minute papers During-lab and during-class group assignments Individual out-of-class assignments Final exam Participation (effort and quality)
+
+Contribution to Final Grade 15% 5% 25% 30% 15% 10%
+
+Your final grade in the course will be based on your performance on an absolute scale and also relative to others in the class; grade distributions will be similar to other intermediate-level courses in biology. We will use StatsPortal to track your performance on the Learning Curve activities and the online grade book in Blackboard to keep track of scores on minute papers, during-class/during-lab group assignments, and individual out-of-class assignments. Together, these gradebooks will provide you with some information about how you are doing relative to your peers on individual assignments. However, please DO NOT pay any attention to Blackboard's scoring of your cumulative performance ­ we do not bother to assign the weightings to individual assignments, just the final scores in each of the areas of assessment.
+
+If you want to know where you stand in the course at any point, talk to Professor Cottingham.
+
+HONOR PRINCIPLE Honesty is the foundation of the academic pursuit of knowledge. In recognition of this, the faculty will not overlook any violations of the Academic Honor Principle. Indeed, the Faculty Handbook of Dartmouth College states explicitly that I am obligated to report potential violations of the Academic Honor Principle to the Dartmouth College Committee on Standards.
+The Dartmouth Honor Principle applies to all work you submit for a grade in this course. Consequently, all work you do online as part of StatsPortal or turn in as an individual out-of-class assignment must be your own (building on the group activities completed during class). Similarly, during-class activities turned in by groups of students working together should represent the work of that team, as guided by the teaching staff.
+There is one key situation in which a student in Biology 29 might find herself or himself tempted to violate the Honor Principle: talking with other students about the weekly out-of-class individual assignments. As noted above, you must complete these assignments without communicating with anyone except the professor. You may not talk to, text, or email with other students about the assignment after we leave class on Thursday.
+If you have any questions about the Honor Principle, please see Prof. Cottingham.
+
+8
+
+
