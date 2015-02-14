@@ -1,0 +1,64 @@
+CS 24. Computer Animation
+From Brave copyright Pixar
+Winter 13 Sudikoff 115 and 005
+12 Class meets every x-hour. Mandatory Class For Students New to Maya: Wednesday, January 9, 2013
+7 PM FINAL SCREENING: Tuesday, March 12th 9 AM
+REVISIONS DUE: Friday, March 8th by 12:30 PM
+Professor Lorie Loeb Office hours: Tuesday 11-12 AM or by arrangement
+Sudikoff 163
+
+DIST: ART
+Syllabus This course focuses on the practice, techniques and concepts of 3dimensional computer animation. The best way to learn about computer animation is to make some, so we will use Maya to create animations that display both the emotion of a character and the physics of a scene. We will also look at the state of computer animation today, learning terms and working towards an overall understanding of the art of computer animation.
+Rather than learning a little bit about all aspects of Maya (modeling, animating and rendering), we will concentrate on getting good at animation by understanding the forces that make a character come to life. You will learn enough about modeling and rendering to complete the assignments and make them look good, but we will not be focusing on these aspects.
+Models will be provided for your use.
+Weekly schedule Weekly assignments will teach you the principles of animation while you learn more and more complex aspects of Maya software. The final project will be a short animation, fully rendered.
+The weekly assignments will--most of the time--be due on Monday, and screened during class. Class critiques are a critical aspect of this course.
+Tuesday's x-hour is always in the lab (005). Here you will learn new features of Maya and apply them to your homework.
+Wednesdays we will generally meet in the classroom. I will introduce the principles of animation, we will screen animation examples for you to see and go over concepts you need for the current assignment.
+
+Fridays we will usually meet in the lab. You will have more time to work on your assignment or complete a tutorial.
+The material covered in class cannot be made up since much of it comes from a variety of sources not necessarily found in books. It is critical, therefore, that you attend each class. Missing more than one class or the x-hour or coming late to class, will result in a lowered grade.
+Mandatory Class Wednesday, January 9, 2013 7 PM For those new to Maya, or those who have had a break between modeling and animation, this class is mandatory.
+How to succeed in the class: Do the work, do it again, come to class. Animation is a wonderful and complex art form. Maya is a powerful and complicated tool. The more time you put into the assignments the more you will get from the course. Be prepared to put in large amounts of time in the lab. If you do the work, revise your work and come to class you will succeed.
+· Do the homework assignments and do them on time. Completing the work on time will keep you from falling hopelessly behind. Once the assignment is done, you will have until the end of the quarter to make changes and improvements to the work. It is expected that all assignments will be reworked at least once.
+· Attend class regularly. The information you receive in class is often not available in books. · Final project: Each student will do a final project that uses the information gained in the class. You can work in teams or on your own. Plan extra time for this work. Expect systems to break down.
+Grading: · Homework (weekly assignments) (60% grade) · Final Project (25% grade)
+
+· Class participation and attendance (15% grade)
+Logistics:
+When and Where: ~The Maya Lab is Sudikoff 005 ~The Classroom is Sudikoff 115
+Access to Sudikoff and the lab should be automatic with enrollment in the course. If you have trouble email: mailto:Computer.Science.Department@CS.dartmouth.edu
+X-Hour: During the x-hour, you will be working on various tutorials on Maya that will prepare you for your weekly homework assignment. If needed, you should spend extra time on the tutorial before moving onto the homework. X-hours provide an opportunity for you to learn new techniques, ask questions and put time into your homework.
+Tutors/TA's: We have three undergrad tutors helping with this course. They will post lab hours when you can seek their help and are available by email.
+Computers: We have a lab of approximately 23 Macs and 2 Windows machines plus an auxiliary lab with 18 Macs. Maya is provided. You'll each get a CS account and should save your files to your folder on the CS server. This is the only way to guarantee that your work will be saved.
+Saving on local machines is usually safe, but you never know. You need to back your work up on the server using Fetch (an ftp/sftp program). You will each get an email from "root" with your login and password. Save this email. Information will be provided on how to use fetch and your cs account to save your work. You will also use this same account to turn in your homework.
+
+Email List: animators@cs.dartmouth.edu
+Website: We have one main website for this class.
+www.cs.dartmouth.edu/~cs24
+I will keep this site up to date. Do NOT use the Blackboard site.
+On the website you will find:
+Syllabus: The current syllabus.
+Calendar: The class calendar shows assignment due dates and other important dates. Please check it often.
+Assignments: This page includes all the assignment descriptions. There is one general description called Assignments_W09 and each assignment has a detailed description of what is due, when it is due and how to turn it in. If you have questions about what is due, look at the assignment description for that assignment. If you don't see it or if you still have questions, please don't hesitate to ask.
+Tutorials: Almost all the tutorials can be found here and will also be handed out in class. I recommend that you get a 3 ring binder and collect all the materials I hand out in class. By collecting all the tutorials and handouts, you will have a custom book for the course that will serve you well in other courses.
+Models: This is where you will find the models we use in the course. Some models have documentation or additional scripts that need to be downloaded.
+Sound Files: These are the sound clips for Homework 6: Talk, Talk, Talk! Additional clips can be found by searching the web.
+Links: Look here for links to information on preproduction such as:
+
+storyboard forms, animatic information, and some how to pages. In addition, you will find links to the Maya Platinum Member page, information on Cartoon Physics and The Render Farm tutorial.
+Announcements: I will post announcements here. You can also use the discussion board, if you'd like. This page is a blog, so feel free to post things here.
+Reading: There is no perfect text for this course. We will draw from books, articles, and our own writings. All the books for the course are optional and I will have a copy of each on reserve in the library. The books include:
+· Timing for Animation, Harold Whitaker and John Halas, Focal Press · The Animator's Survival Kit by Richard Williams. Faber and Faber. · Introducing Maya 2012 by Derakhshani. Sybex. · Maya 20012 Foundation. Sybex · Learning Maya 2012: The Modeling and Animation Handbook. Sybex
+If you are really interested in animation, consider buying The Animator's Survival Kit and Timing for Animation. Otherwise, you can find books in the lab, look over books on reserve in the library and borrow books from Lorie.
+Tutorials: Tutorials in Maya textbooks can be confusing, poorly written and result in bad animation. In order to create more effective projects, I have written my own tutorials. These will be provided online along with tutorials I've pulled from various books and online resources. YouTube is an amazing resource for tutorials. Some are good. Some are just trying to teach you every possible tool in Maya. Use them as needed. Dartmouth also has a license with Lynda.com. This is a great resource for you and I recommend you utilize this resource. I will make recommendations along the way.
+
+Types of animation:
+Hand drawn Stop Motion Animatronics Performance Animation (puppetry) Performance Animation (Motion Capture) Character animation Effects animation (particle animation, dynamic simulation) Visual effects animation ­ complements live action
+Principles of Animation: Mechanics: o Timing o Spacing
+o Hard and soft accents o Slow in and Slow out o Moving holds o Squash and stretch o Straight ahead and pose-to-pose action o Ones or twos
+Composition: o Staging
+Acting: o Exaggeration o Anticipation and Follow-through o Overlap and secondary action
+Drawing o Design unity o Solid drawing o Appeal/Un-appeal o Line of action
+
+

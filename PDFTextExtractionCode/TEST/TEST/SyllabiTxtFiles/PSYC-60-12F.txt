@@ -1,0 +1,178 @@
+PSYC 60
+Human Brain Imaging Fall 2012
+
+Professor:
+
+Teaching Assistant:
+
+William Kelley 350 Moore Hall Ph: 646-3446 Office hours: Tuesdays 1:00-2:00 or by apt.
+
+Rob Chavez
+220 Moore Hall Ph: 646-1787
+Office hours: X-hour and by appointment
+
+Course Description:
+
+This course will focus on how functional magnetic resonance imaging (fMRI) is used to
+understand human brain function. We will first examine what fMRI is, how the machine works, and how `data' is generated and processed. Next, we will discuss how fMRI
+technology can be used to gain understanding of how the human brain operates, by covering topics of experimental design, analysis, and problems inherent to brain imaging
+research. As a class, we will collect a dataset of fMRI scans, and students will have an opportunity to operate the fMRI machine and be an experimental subject. Following data
+collection, we will conduct hands-on lab sessions where students will learn to analyze fMRI data, run statistical tests, and write up experimental results.
+
+Class Periods:
+
+Tuesday & Thursdays, 2:00-3:50 X-hour: Wednesdays, 4:15-5:05
+
+Textbook:
+
+Huettel, S. A., Song, A. W., & McCarthy, G. (2008). Functional Magnetic Resonance Imaging. Second Edition. Sinauer Associates: Sunderland, MA.
+
+When possible reading from this textbook should be completed prior  to  each scheduled lecture.
+Grading:
+
+Exam 1: Exam 2:
+Class experiment write-up: Participation in class experiment data collection:
+
+30% 30%
+30% 10%
+
+Exams:
+
+Exam questions will be multiple-choice and/or short-answer, based on lecture materials and the assigned reading for lecture days prior to the exam. Details on the experiment
+write-up will be distributed mid-course. There will not be a cumulative final exam.
+
+Class experiment write-up:
+
+During this course, we will conduct a class fMRI experiment and analyze the data. This process will culminate in the class experiment write-up. The write-up will consist of
+sections describing the methods we used to conduct our experiment, and the results that we found. The write-up should contain a level of detail and completeness similar to
+articles published in the empirical literature (we will give you examples). Write-ups will be graded based on completeness, correctness, and accuracy of data analysis results and
+figures.
+
+Course schedule:
+
+Unit 1: fMRI: What is it and how does it work?
+
+Date Location Topic
+
+Reading
+
+Tues, Jan 8
+
+150 Moore Course introduction
+
+Thurs, Jan 10
+
+150 Moore How MRI scanners work MRI Safety Training
+
+Chapters 1&2
+
+Tues, Jan 15 Thurs, Jan 17
+Tues, Jan 22
+
+150 Moore MRI signal generation & formation
+150 Moore Types of MRI images Neural activity in the human brain
+How neural activity can be detected by the fMRI scanner
+
+Chapters 3&4
+pp. 57-67, 89-97
+Chapters 5&6
+pp. 121132, 138-
+142, 147156, & all
+of Chpt. 6 Chapters
+6&7
+
+Thurs, Jan 24 150 Moore UNIT 1 EXAM
+
+Unit 2: Class project data collection.
+
+During this section of the course, we will use the fMRI scanner to collect an fMRI data set that will be used for the remainder of the course. You will have an opportunity to be an fMRI subject (i.e., get scanned) and be an fMRI experimenter (i.e., operate the fMRI scanner).
+
+During class times from January 29 ­ Feb 12, and possibly during some additional daytime and evening hours, you will participate in the data collection process. We will
+ask you to sign up to attend fMRI scanning for a total of four hours (note: this is subject to change depending on course enrollment). Ideally, you will be a participant for one
+scan and be the experimenter for other scans. If you are unable to participate as a subject (e.g., you have metal in your body, are claustrophobic, etc.) or choose not to be a
+participant, then your four hours will be used as an experimenter only.
+
+During Unit 2, there will be no exams. However, your participation will be worth 10% of your grade. Attending and actively participating in your data collection times will earn
+you full credit.
+
+Date Location Topic
+
+Reading
+
+Tues, Jan 29
+
+Scanner fMRI Data collection
+453 Moore LAB 1: Introduction to Unix, Matlab, SPM
+
+Thurs, Jan 31
+
+453 Moore fMRI Data collection
+LAB 1: Introduction to Unix, Matlab, SPM
+
+Tues, Feb 5
+
+150 Moore Preprocessing
+
+Chapter 10
+
+Thurs, Feb 7
+
+453 Moore fMRI Data Collection LAB 2: fMRI preprocessing
+
+Tues, Feb 12
+
+453 Moore fMRI Data Collection LAB 2: fMRI preprocessing
+
+For logistical reasons, the labs are duplicated. Therefore, you will not miss content while you are scanning or being scanned. Additionally, there are two major aspects of fMRI data collection and analysis that we will cover in this course: (1) What are the steps and how  do we implement them via computers and software packages? Unit 2 covers this part. (2) Why do we do these steps (i.e., what is the purpose of motion correction, normalization, smoothing, etc)? Unit 3 covers the rationale behind the computer magic.
+
+Unit 3: fMRI experiments, data analysis & class project data analysis
+
+Unit 3 will be a mixture of lectures and hands-on labs devoted to understanding fMRI
+data and how it is processed. The objective of lab sessions is to provide you with rationale for the data analysis processes we will perform, as well as a tutorial on how to
+execute these processes. However, you will be expected to complete your own data analysis for your experiment write-up on your own time. Expect to spend additional time
+in the computer lab. The TA will be available to assist you during all X-hours and by appointment.
+
+Date Location Topic
+
+Reading
+
+Thurs, Feb 14
+
+150 Moore Spatial & Temporal resolution of fMRI Chapters 8
+
+Signal & Noise in fMRI
+
+&9
+
+Tues, Feb 19
+
+150 Moore Experimental design
+
+Chapter 11
+
+Wed, Feb 20
+
+Optional: Make-up LABS 1-2
+
+Thurs, Feb 21 150 Moore The general linear model
+
+Chapter 12 p. 336-342
+
+Tues, Feb 26
+
+453 Moore LAB 3: General linear model
+
+Chapter 12 p. 323-336,
+p. 343-357
+
+Thurs, Feb 28 Tues, March 5
+Wed, March 6 Thurs, March 7
+
+453 Moore 453 Moore
+453 Moore 150 Moore
+
+LAB 4: Statistical tests & Contrasts LAB 5: Group Analyses
+Optional: Make-up LABS 3-5 UNIT 3 EXAM and
+CLASS EXPERIMENT WRITE-UP DUE
+
+
