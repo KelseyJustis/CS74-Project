@@ -1,0 +1,46 @@
+EARS 70: Principles of Glaciology Spring 2014
+Updated: April 30, 2014
+Lead Instructor: Bob Hawley, 122 Fairchild Assistant Instructors:
+Ali Giese, 206 Fairchild Thomas Overly, 226b Fairchild Allen Pope, 401 Fairchild Kristin Schild, 209 Fairchild Gifford Wong, 226a Fairchild
+Class Meeting Time: 2A: 14:00-15:50, Tuesdays & Thursdays Office Hours: Bob: Tuesdays, after class, or by appointment Class Web Site: http://canvas.dartmouth.edu
+Course objectives: Glaciers and ice sheets are increasingly being recognized as an important driver and also an important indicator of climate change. The goal of this course is for you to experience the unique nature and scientific importance of glaciers, ice sheets, snow, and frozen ground in the Earth system, collectively referred to as the Cryosphere. We will explore how glaciers work, and how they interact with the climate system. We will learn about how ice behaves from the molecular scale, as in your freezer, to the continental scale, as on the great ice sheets in Antarctica and Greenland. Closer to home, we will learn about snowpacks, how changes in snowpacks lead to avalanches, and how to spot these changes before an avalanche occurs. We will delve into the scientific literature to see the foundations of the science and also to learn the latest on current events in glaciology. Finally, we will learn practical skills and techniques used by glaciologists to study glaciers and ice sheets. In addition to developing a greater understanding of glaciology, we will also develop transferable skills in advanced quantitative data analysis, including time series analysis and computational modeling of physical processes, with emphasis on practical application to real data.
+Prerequisites: Physics 3 and Mathematics 3, or permission of instructor. We will use some differential equations and basic mechanics. EARS 33 is recommended but not required.
+Text: The course will follow some parts of the textbook but will also use readings from other sources. The principal text for the course will be:
+Hooke, Roger LeB. 1998. Principles of Glacier Mechanics- 2nd Ed. Prentice Hall.
+In addition, the following books (or selected chapters) will be held in reserve in Kresge: McClung, D., and P. Shearer. 1993. The Avalanche Handbook. The Mountaineers. Benn, D.I. and J.A. Evans. 1998. Glaciers & Glaciation. Arnold, London. Paterson, W.S.B. 1996. The Physics of Glaciers. Pergammon.
+1
+
+LaChappelle, E.R. 1992. Field Guide to Snow Crystals. International Glaciological Society. Van Der Veen, C.J. 1999. Fundamentals of Glacier Dynamics. Balkema. Ruddiman, W.F. 2008. Earth's Climate, Past and future. W.H. Freeman and Co, NY.
+We plan to supplement these readings with lecture notes and selected readings from the glaciological literature.
+Course Requirements and Grading: Problem Sets (30% of grade) Several problem sets will be distributed to the class throughout the term. Writing assignments/Abstracts (10% of grade) We will be reading papers from the glaciological literature, and will practice writing short abstracts and research summaries. Class participation (10%) What I call your "oomph" grade. This will include attending lectures, participating in class discussion, asking questions, promoting class interaction, and participating in group work. Midterm Exam (15% of grade) Midterm Exam (15% of grade) Final Project/Paper (20% of grade) The culminating component of the class will involve a final project or paper on a topic of your choice. More details about this project will come later in the term.
+Policy regarding late work: It is important to turn in assignments on time. Unless explicitly stated, problem sets and writing assignments will be docked 10% per day after the due date. Please contact me as soon as possible in the event you need to turn in something late.
+Academic Honor Principle: You should be aware of and conform to the Dartmouth Honor Code as expressed in the ORC. In terms of this course, this means:
+Exams: All work is your own. You should not assist or receive assistance from any other student. No crib sheets, notes, or other materials allowed unless explicitly permitted.
+Problems and Projects: All written work that is handed in is your own. You are permitted and encouraged to discuss the problems with your peers and to work together towards the solutions, but you must write up your solutions using your own words. When working with others on problem sets, please list your collaborators. If you are unsure, please ask about how the Honor Principle specifically applies to this course.
+Disabilities: Students with disabilities enrolled in this course (including "invisible" disabilities such as learning disabilities) and who may need disability-related classroom accommodations are encouraged to make an appointment to see me before the end of the second week of the term. All discussions will remain confidential although the Student Accessibility Services Office may be consulted to discuss appropriate implementation of any accommodation requested.
+Religious Observances: Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in the course, please meet with me before the end of the second week of the term to discuss appropriate accommodations.
+2
+
+Course Outline (Tentative): Readings from Hooke and literature are reqired, others are optional.
+25 Mar (Tu) 1) Course mechanics. What is a glacier? Geography of glaciers- how do you grow a glacier? (Led by Bob)
+27 Mar (Th) 2) Snow and ice in the climate system- snowpacks, snowfields, glaciers. (Led by Bob) Hooke Ch. 2 pp. 6-9, CRREL report II-C1, July 1964, Benn & Evans Ch 1
+1 Apr (Tu) 3) Mass balance. Energy balance. (Led by Allen) Hooke Ch. 3 pp. 23-42 Cuffey and Paterson, pp. 91-116, 140-160
+3 Apr (Th) 4) Heat flow and temperature distribution in glaciers and ice sheets. (Led by Ali) Hooke Ch. 6, Paterson Ch. 10
+8 Apr (Tu) 5) Ice physics. Structure of ice 1H. (Led by Bob) Hooke Ch. 4, Fletcher Chemical physics of Ice pp. 23-38, 147-162, 165-185
+10 Apr (Th) 6) Ice Physics Continued. Impurities and dislocations. (Led by Thomas) Hooke Ch. 4 & 2 pp. 10-15, Fletcher Chemical physics of Ice pp. 147-162, 165-185
+15 Apr (Tu) 7) Mechanical properties of ice. Stress & strain, Densification- the transformation of snow into ice. (Led by Bob) Hooke Ch. 3 pp. 18-23, Paterson Ch. 2
+17 Apr (Th) 8) Stress, strain, densification continued. Review for midterm. (Led by Bob)
+22 Apr (Tu) Midterm exam - 1 hour
+24 Apr (Th) 9)Guest Lecture: Zoe Courville, CRREL, Hanover- Structures in snowpacks.
+29 Apr (Tu) 10) Glacier Movement. Glenn's flow law for ice. Steady-state surface profiles. (Led by Bob) Hooke Ch. 2 pp. 15-16, & 5, Benn & Evans Ch. 4.
+1 May (Th) 11) Glacier Movement. Flow of glaciers and ice sheets. Balance velocities. Velocities in laminar flow. (Led by Bob) Hooke Ch. 5, Paterson Ch. 11.
+6 May (Tu) 12) Glacier Movement continued. Flow model dating. (Led by Giff )
+8 May (Th) 13) Glacial Hydrology. (Led by Kristin) Hooke Ch. 8, Benn & Evans Ch. 3 & 5.
+13 May (Tu) 14) Sliding of glaciers and ice sheets, Review session. (Led by Bob) Hooke Ch. 7, Benn & Evans Ch. 4 & 5.
+15 May (Th) Midterm exam - 1 hour
+20 May (Tu) 15) Numerical modeling of glaciers and ice sheets. Numerical modeling exercise. (led by Bob) Hooke Ch. 11
+22 May (Th) 16) Guest Lecture: Eric Lutz, EARS and Sawtooth Avalanche Center- Avalanches.
+27 May (Tu) 17) Practical glaciology; measurements of snowpacks, glaciers, and ice sheets. (All) Hubbard & Glasser, Field techniques in glaciology and glacial geomorphology
+3
+
+

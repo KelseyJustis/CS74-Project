@@ -1,0 +1,225 @@
+Bio12: Cell Structure and Function (section 2)
+
+https://www.dartmouth.edu/~blackboard/ Monday, Wednesday, Friday 8:45-9:50, X-hour: Thursdays 8:45-9:50 as indicated
+Lecture: Room 201 Life Sciences Center (LSC)
+
+Instructor: Prof. G. Eric Schaller Lab directors: Cori Anderson, Nicholas Sylvain Teaching Assistants: Moises Chavez, Lei Chen, Iviana Torres, Matthew Ung, Todd Warczak
+
+Textbook: Cell and Molecular Biology: Concepts and Experiments, Gerald Karp, 7th edition
+
+LECTURE SCHEDULE
+
+How do we view cells? 1. M 3/24 Cell Architecture and Microscopy
+
+Chapters 1, 18.1-18.3
+
+2. W 3/26 Microscopy
+
+What is the chemistry of life? ThX 3/27 Chemical bonds and water (Optional lecture)
+3. F 3/28 Protein structure and function
+
+Chapter 2.1-2.4 Chapter 2.5 (proteins)
+
+4. M 3/31 Protein structure and function
+
+Chapter 2.5
+
+5. W 4/2
+
+Enzymes and catalysis
+
+Chapter 3.1-3.2
+
+How do we analyze cells?
+
+6. F 4/4
+
+Experimental approaches
+
+Chap. 18.4-18.7,18.18
+
+How are cell compartments built?
+
+7. M 4/7
+
+Membranes and membrane transport
+
+Chap. 2.5(lipids) Chap. 4
+
+8. W 4/9
+
+Membrane transport
+
+Chapter 4
+
+9. F 4/11 Discussion of paper from the literature
+
+Will be posted
+
+M 4/14 Review Session
+
+W 4/16 Exam 1 (7-9 pm)
+
+How do cells generate energy? 10. F 4/18 Glycolysis and energy metabolism
+
+Chap. 2.5(carbs) Chap. 3.3
+
+11. M 4/21 Mitochondria and aerobic respiration
+
+Chapter 5
+
+12. W 4/23 Chloroplasts and photosynthesis
+
+Chapter 6
+
+How do proteins know where to go in the cell? 13. ThX 4/24 Protein Sorting
+
+14. F 4/25 Protein Sorting
+
+15. M 4/28 Protein sorting
+
+How do cells integrate and process information? 16. W 4/30 Cell Signaling
+
+17. ThX 5/1 Cell Signaling
+
+18. F 5/2 Discussion of paper from the literature
+
+M 5/5
+
+Review Session
+
+Wed 5/7 Exam 2 (7-9 pm)
+
+How do cells move and change shape? 19. ThX 5/8 Microtubules
+
+20. F 5/9 Microtubules/Actin
+
+21. M 5/12 Actin
+
+22. W 5/14 Intermediate filaments
+
+23. F 5/16 Discussion of paper from the literature
+
+How do cells duplicate? 24. M 5/19 The cell cycle
+25. W 5/21 The cell cycle
+
+What happens when cell biology "fails"? 26. F 5/23 Cancer
+No class Monday 5/26 Memorial day
+27. W 5/28 Cancer
+
+Final Exam Sunday, June 1, 8-11 AM
+
+Chapter 8 Chapter 8 Chapter 8
+Chapter 15 Chapter 15 Will be posted
+Chapter 9 Chapter 9 Chapter 9 Chapter 9 Will be posted
+Chapter 14.1-14.2 Chapter 14.1-14.2
+Chapter 16
+Chapter 16
+
+Instructor:
+
+G. Eric Schaller LSC 339 Phone: 646-2525 Email: george.e.schaller@dartmouth.edu Office Hours: LSC room 352, Mon and Wed 4-5 pm
+
+Lecture:
+
+Room 201 Life Sciences Center (LSC) M, W, F 8:45-9:50, X-hour (as indicated): Thursdays 8:45-9:50
+
+Lab:
+
+LSC Room 202 Afternoon sections: M, T, W 1:45-5:45 PM Evening sections: M, T, W 6:30-10:30 PM
+
+Lab directors:
+
+Cori Anderson (LSC 323), Nicholas Sylvain (LSC 236)
+
+Teaching Assistants: Moises Chavez, Lei Chen, Iviana Torres, Matthew Ung, Todd Warczak
+
+Required Text: edition
+
+Cell and Molecular Biology: Concepts and Experiments, Gerald Karp, 7th
+
+Available:
+
+Lecture notes and powerpoint presentations will be posted to Blackboard.
+
+Prerequisites:
+
+The biology curriculum is designed with numerous points of entry, based
+
+on student interests and background. BIO12 does not have prerequisites but is designed for
+
+students who have a strong background from high-school biology or who have taken BIO11 or a
+
+similar college-level biology course. To assist students in determining if they have the
+
+background for BIO12, the Biology Department has a Placement/Advisory test. Please see the
+
+following website for complete details: http://dartmouth.edu/biology/undergraduate/information-
+
+students-interested-taking-their-first-biology-course
+
+Exams:
+
+2 regular exams scheduled for evenings (7-9 pm) and a final exam. Missed exams can be made up in the case of health or family emergency, as described later in this handout.
+
+Grade Distribution
+
+Exam 1 (100 points) Exam 2 (100 points) Exam 3 (120 points) Class Participation (20 points, see "clicker section" below) Lab grade (100 points) There are thus a maximum of 440 points possible for the course.
+
+Exams will be a mixture of testing your mastery of the information and applying your knowledge to problem solving.
+
+Barring documented illness, family emergency or academic conflict failure to take an exam at the scheduled time will result in a grade of zero. Documentation of illness requires that you contact Dick's House and determine if you need treatment. You must alert me in advance of the exam if you are unable to take the exam at the scheduled time.
+
+Grading Policy For Exams: The following points summarize our grading procedures with respect to exams:
+
+[1] After the exam has been graded and returned, a copy of the answer key will be posted on the Bio12 web site. Review this answer key and learn where you made errors in your exam.
+
+[2] The number of points given for each answer is final. If, after reviewing your answers and comparing them to the posted answer key before the announced deadline, you find an arithmetic error or detect an omission by the grader for one of the questions, you must observe the following procedures for error correction:
+
+a) Do not write on the exam. Prepare a typed cover page with your name and HB number.
+
+b) If you find an addition error, indicate on the cover page that an addition error has occurred. Specify the page and question number. All arithmetic errors will be corrected and recorded.
+
+c) If you determine that your answer contains all of the information indicated in the key, but you did not receive full credit, simply indicate the number of the question to be re-evaluated and state in one or two short, descriptive sentences what makes your answer correct. The citation of a text page, diagram, or reference to a lecture date/number will also be helpful.
+
+d) Attach the typed cover sheet to your complete exam and return it to me in class before the announced deadline. We will not accept questions regarding errors in grading after these deadlines. The error correction process will take a few days. You will be notified of the place and time to pick up exams after the re-evaluation is completed.
+
+Error correction requests: must be hand-delivered to me in class before these deadlines:
+
+First Exam:
+
+End of class on Monday, April 28.
+
+Second Exam: End of class on Monday, May 19.
+
+We will not accept questions regarding errors in grading after these deadlines.
+
+The error correction process will take a few days. You will be notified of the place and time to pick up exams after the re-evaluation is completed.
+
+Additional Textbooks on Reserve For those wishing to supplement the lectures and the assigned readings in Karp, we have listed below several textbooks which are highly recommended and suitable for other perspectives on the topics. All reading in these textbooks is optional. The following books are on reserve in Dana Library: Cell Biology 2nd Edition, by Pollard and Earnshaw (2008) This textbook has spectacular figures. Essential Cell Biology, 3rd edition. Alberts et al. (2009) A nice simple introduction to Cell
+Biology. Molecular Biology of the Cell, 5th edition by Alberts et al. (2008) This textbook contains even
+more material than Essential Cell Biology.
+
+Clickers I will be utilizing interactive technology in Bio 12 that will require you to have a hand-held device (a "clicker"). "Clickers" can be obtained at the computer store, where you will be charged a fee ($30 on DA$H card) at the beginning of the term. If you return the "clicker", you will receive a $20 credit. Please obtain the "clicker" today and bring it to class (including X hrs) for the rest of term. The purpose of using clickers is to learn more about your understanding of the material as it is being delivered so that we can be more effective as instructors. Additionally, they will help you think about the material actively during class which will help you synthesize and learn. Your answers to clicker questions will be anonymous however a class participation grade will be determined based on your clicker participation. If you answer questions in >85% of the lectures after the first week of class, you will receive full class participation credit. If you answer questions in less than 85% of the lectures, you will receive a fraction of the full credit based on your actual participation.
+Academic Honor Principle: The Dartmouth College Student Handbook states "Fundamental to the principle of independent learning are the requirements of honesty and integrity in the performance of academic assignments, both in the classroom and outside. Dartmouth operates on the principle of academic honor, without proctoring of examinations. Students who submit work which is not their own or who commit other acts of academic dishonesty forfeit the opportunity to continue at Dartmouth."
+There are a number of situations in which a student in Biology 12 might find him or herself tempted to violate the Academic Honor Principle. These situations include (but are not limited to) the following:
+a) Examinations must be completed without reference to written materials other than those provided with the exam paper and must be completed without communication with anyone else (the only permissible exception is that students may request clarification of any exam question from the course instructor who is present expressly for that purpose). The answers that you provide must be entirely your own work.
+b) Our policy permits the re-submission of exams for potential re-grading by the instructor. Any alteration of the answers between the time when the graded papers were returned to the student and the time when the paper was submitted for re-grading constitutes a breach of the Academic Honor Principle. To deter this practice, we copy exams after grading them.
+c) Laboratory experiments are performed in pairs, and we encourage collaborative analysis of the data. However, any report submitted for grading must represent the original words of the student submitting that report. Do not share computer files of work (including text, graphs, tables, etc.) to be submitted for grading! The student misrepresenting the work of another as his or her own is in violation of the Academic Honor Principle, as is likely the student who loaned that information. Thus, it is possible that the Committee on Standards will find the student providing the original file also to be in violation of the Honor Principle.
+d) Do not share clickers. If you cannot attend class, it is a violation of the honor principle to have a friend click for you. You are allowed to pass without a problem for your grade on 85% of the questions to account for illness or athletic travel that may cause you to miss class.
+Honesty is the foundation of the academic pursuit of knowledge. In recognition of this, the faculty will not overlook any violations of the Academic Honor Principle. Indeed, the Faculty Handbook of Dartmouth College states explicitly that College faculty is obligated to report potential violations of the Academic Honor Principle to the Dartmouth College Committee on Standards.
+
+Note to Students with Physical or Learning Disabilities: I encourage students with disabilities, including invisible disabilities such as chronic illnesses and learning disabilities, to arrange for accommodations that might be helpful. Please meet with me soon, preferably during the first week of classes, to discuss possible accommodations. All discussions will be confidential, although the Academic Skills Center may be consulted to verify the documentation of the disability.
+HOW TO BE SUCCESSFUL IN BIO 12 1) PREVIEW each reading assignment the night before class. Look at the figures, read the figure legends, and get a general feel for the vocabulary to be introduced and the topics to be covered in the upcoming lecture. Jot down any questions you have to focus your attention in lecture. 2) ATTEND LECTURES ON TIME (class will start promptly at 8:45 am), take notes on the material presented in lecture, and ask questions about the things you do not understand. Make sure you have answers to the questions you wrote down the previous night. 3) RE-READ the reading assignment as well as your notes that very same afternoon or evening after the lecture, when it is still fresh in your mind. Correct or add points to your notes as you go along. 4) REVIEW the notes and reading assignments from the previous week's classes sometime during the weekend. 5) BE CURIOUS and ask questions in class, in office hours, in lab and with fellow students. Also ask YOURSELF questions and try to challenge yourself to decide if you really understand the material.
+SOME COURSE GOALS 1. To become conversant in Cell Biology. This will involve learning a vocabulary relating to this field of study (mitochrondria, heterotrimeric G-protein, refractive index, to name but a few terms you will encounter) and using this vocabulary correctly. I am sometimes asked as to why I consider such memorization an important skill. For those going on the medical school, memorization is a key skill to develop, and is emphasized in medical programs for the obvious reason that one has to know what to do in immediate response to a crisis, without losing the time it would take to look something up in a text on on-line. Beyond that one has to have information in mind in order to make the mental connections that lead to new insights and, for this reason, exam questions may ask you to apply information from the course to new questions not discussed in class. 2. To think like a Cell Biologist. Cell Biology is a science and so we will be asking you to think like scientists, whether it be in the critical analysis of a research paper or in the execution and interpretation of a scientific experiment. Furthermore we ask you to think like not just any scientist, but as a Cell Biologist, one who can put together the mechanistic details of a cellular process as well as interpret microscropic images of the cell. 3. To find the joy of Cell Biology. I could call this simply the joy of understanding, for to me there is a great satisfaction in learning how something works mechanistically within my own body. There is also a lot of innate beauty in Cell Biology (we will not infrequently be looking at amazing images taken using a variety of microscopy techniques) that can be appreciated even without that level of understanding, but understanding adds an extra dimension to this beauty.
+
+LABORATORY EXERCISES The Bio 12 lab sections meet from 1:45PM - 5:45PM or 6:30PM-10:30PM (Monday,Tuesday, and Wednesday) in Life Sciences Center, Room 202/204. Barring documented illness, failure to attend a lab section at the scheduled time will result in a grade of zero on the lab quiz and a zero for any written assignment associated with lab. No arrangements exist for make-up labs. Attendance at ALL of your assigned lab dates is mandatory. Laboratory 1 ­ Introduction to Light Microscopy Week beginning March 31st This exercise will include training each student in the proper use of the light microscope including proper Köhler illumination, bright-field, phase contrast, DIC, and fluorescence microscopy. (5 point quiz, 5 point in-class assignment) Laboratory 2 ­ Protein Purification and Quantitative Analysis Week beginning April 7th Students will perform ion exchange chromatography to purify proteins from a mixture of proteins. Students will determine the concentration of protein in eluted column fractions using the Bradford assay and characterize the elution profile of a specific protein using an enzymatic assay. (5 point quiz) NO LAB week beginning April 14th ­ Week of Exam 1, Begin to Prepare Lab Report Laboratory 3 ­ Qualitative Analysis of Protein Purification Week beginning April 21st Continuing from lab 2, students will assess the efficacy of column chromatography for purifying proteins in a mixture by gel electrophoresis using their eluted fractions. (5 point quiz, 25 point lab report for labs 2 and 3) Laboratory 4 ­ Isolating Chloroplasts - The Hill Reaction Week beginning April 28th Students will isolate chloroplasts from spinach using differential centrifugation and measure the normal rate of the Hill reaction compared to the rate in the presence of inhibitors. Rate is ultimately determined spectrophotometrically using the dye DCIP as an electron acceptor. (5 point quiz, 15 point lab report) NO LAB week beginning May 5th ­ Week of Exam 2, Prepare Lab Report Laboratory 5 ­ Cell Motility in Chlamydomonas Week beginning May 13th Students will assess phototaxis of live Chlamydomonas reinhardtii cells using different conditions. Demembranated cell models of Chlamydomonas will also be created to assess the effect of varying concentrations of calcium on motility. (5 point quiz, 5 point lab abstract) Laboratory 6 ­ Experimental Design Using Fluorescence Microscopy Week beginning May 20th Students will design an experiment to test a cell biological hypothesis using live Ashbya gossypii cells and several fluorophores. (5 point experimental design, 20 point lab report)
+
+Laboratory Assignments and Point Breakdown This laboratory portion of Bio12 counts for 100 points out of the 440 points for your total Bio12 grade.
+1. Quizzes: There will be quizzes (5 points each) that begin promptly at the start of labs 1,2,3,4,and 5. Each quiz will end ten minutes into the lab session. The quizzes will count for a total of 25 points of your lab grade
+2. Microscopy in-class assignment (5pts) 3. Lab Reports:
+Three lab reports will be written during the term. You will have 1 - 2 weeks from the time you complete your lab to the time the report is due. Detailed instructions for each report will be given during the term. Please note the following dates.
+a. Protein Purification Lab Report (25pts), due week of April 28th A culminating lab report for labs 2 & 3, Note: in the event of an unexcused lab absence from either Lab 2 or Lab 3, you will still be required to write a lab report. However, your report grade will have a maximum of 15 points.)
+b. Hill Reaction Lab Report (15pts), due week of May 12th c. Experimental Design Lab Report (20pts), due week of May 26th 4. Lab Abstract: For lab 5, you will write a short lab abstract. This assignment is worth 5 points and is due the week of May 19th. 5. Experimental Design Methods Before lab 6, you will write out detailed methods of the experiment that you design. This assignment is in place of your lab 6 quiz and will be worth 5 points. Assignments will be due one week prior to lab.
+
+

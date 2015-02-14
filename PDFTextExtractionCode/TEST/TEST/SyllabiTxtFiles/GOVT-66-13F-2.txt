@@ -1,0 +1,96 @@
+Government 66 Constitutional Law, Development, and Theory
+Sonu Bedi Fall 2013
+218 Silsby Hall Office Hours: Tuesday, 4-6pm.
+Overview: This course covers some of the main themes of the American Constitution with a particular emphasis on constitutional history, structure, interpretation, development and theory. Areas covered include: constitutional structure and theory, American constitutional development, federalism, judicial review, executive prerogative, slavery and Reconstruction. This course is not designed specifically for students contemplating law school. It is aimed at students who want a general introduction to the United States Constitution.
+Class Materials: Pocket Constitution (Distributed the first day of class) Two Course packets: Cases and Secondary Readings (both available at Wheelock Books) (All cases are also uploaded on Blackboard) (All secondary sources are on reserve at Baker Berry). As I do not permit computers in class, you should make sure all materials are printed out if you elect not to purchase the course packets. Akhil Amar, America's Constitution: A Biography (Random House 2006) Mark Graber, Dred Scott and the Problem of Constitutional Evil (Cambridge Press 2006) Federalist Papers (FP): online at: http://www.yale.edu/lawweb/avalon/federal/fed.htm Various Materials on Blackboard
+Requirements: Take Home Midterm: 40% Take Home Final: 60% (See grading policy below)
+October 31, 2013 (Roger S. Aaron '64 Named Lecturer): James Fleming, Boston University School of Law 4:30pm, Location TBA
+Take Home Midterm and Final: The midterm will be available on October 22nd on Blackboard. It will be due in class on October 29th. A late midterm will result in a full letter grade deduction. The final will be available by the last day of class. It will be due on November 25th by 3pm. I will not accept a late final. Students with disabilities should self-identify at the Office of Student Accessibility Services to request support services. (http://www.dartmouth.edu/~accessibility/).
+Attendance/Participation: I intend to lecture for an hour or so leaving the rest of the time for discussion. During this discussion component, I'll ask two students to take an active part in it. They should come with questions and/or comments about that day's reading. They do not need to hand anything out. But I do expect that they talk for a few minutes laying out some critical questions, and how they would respond to them. Although participation is not a formal component of the grade, regular attendance/participate may positively impact your grade. I do not permit computers in class..
+Reference Letters: I aim to write reference letters that are thorough and meaningful. To do so, my general policy is that students complete at least two courses with me, if they seek such a letter.
+1
+
+ASSIGNMENTS:
+Note: each number on the syllabus represents one day. Below each assignment are questions to consider in doing the readings.
+Introduction. 9/17
+Basics
+American Constitutional Development
+1. Constitution; Background to Constitution (excerpt on Blackboard); Wood The Creation of the American Republic, Chs. 2, 5 (packet). 9/19
+Wood contends that the American Founding is republican in character. What does Wood mean by republicanism? Is this a persuasive account of our constitutional ethos? How does republicanism compare with liberalism? (I will discuss these concepts in class). What was the problem with virtual representation? Why did the Revolutionaries object to it? What is actual representation? Why did the practice of "instructions" break down?
+2. Wood, The Creation of the American Republic, Chs. 9, 13 (packet). 9/24
+What kind of government existed before the Revolution? Why did Whigs object to it? What kind of government was established in 1781 under the Articles of Confederation? According to Wood how did the structure of government change from 1781 (Articles) to 1787 (Constitution)? Why did it change? How did the Federalists justify this change?
+3. Amar, Chs. 1, 9; Lim (excerpt on Blackboard). 9/26
+How does Amar characterize America's Founding? Why does Lim say there are two Foundings? For Lim, what is the relationship between the Declaration of Independence and the Constitution? What is the relationship between the Bill of Rights and the 1787 Constitution? How should we understand the idea of a "more perfect union?"
+4. Ackerman, We the People I, Chs. 1, 2 (packet 1); Basic Law of Germany (Articles 1, 20, 79) http://www.iuscomp.org/gla/statutes/GG.htm#Preamble. 10/1
+According to Ackerman, why isn't the Constitution monist? why isn't it Foundational? why isn't it Burkean? Why is the Basic Laws (the German Constitution) foundational? What is dualism? What are the characteristics of a 'constitutional moment'? For Ackerman, must these moments arise via Article V amendment procedures? Why or why not?
+Basic Structure of the Constitution and Amendments
+5. Constitution and Background to Constitution (re-read); Articles of Confederation (1781). (http://www.yale.edu/lawweb/avalon/artconf.htm) FP: #1-5, 10, 15, 39, 40, 51, 84. 10/3
+What are the differences between the Articles and the Constitution? (I will ask each student to articulate at least one difference.) In reading the selected Federalist Papers, think about how they illuminate or justify such differences.
+6. Levinson "How Many Times Has the US Constitution Been Amended?" Murphy "Merlin's Memory: The Past and Future Imperfect of the Once and Future Polity" Schauer "Amending the Presuppositions of a Constitution." (packet). 10/8
+2
+
+Both Levinson and Schauer reach the same conclusion, namely that we can amend the Constitution without Article V. That is, Article V is neither necessary nor sufficient to amend the "Constitution"? But they get there in different ways. What are the moves they make in their respective arguments? According to Murphy, what are the kinds of constraints on constitutional change? How does he justify the use of such constraints--that is, how is it possible for the people to bind themselves?
+Case Study: McCulloch v. Maryland (1819)
+7. http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=875&chapter=63865 &layout=html&Itemid=27 (James Madison, Member of House of Representatives); http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=875&chapter=63867 &layout=html&Itemid=27 (Alexander Hamilton, Secretary of the Treasury); http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=875&chapter=63866 &layout=html&Itemid=27 (Thomas Jefferson, Secretary of State); McCulloch v. Maryland (1819) (packet) 10/10
+Consider what non-judicial actors had to say about the constitutionality of the bank. Do such statements matter? My lecture will go through McCulloch carefully to give you a sense of how to read a case. In reading McCulloch, pay attention to how Justice Marshall makes appeals to text, history, structure, prudence, precedence, and national ethos. What vision of federalism does Marshall endorse in the second part of McCulloch?
+8. U.S. Term Limits v. Thornton (1995) (packet); Lecture Handout (Blackboard). 10/15
+Read the Term Limits case carefully. What do the majority and the dissent disagree about? Pay attention to the varying arguments they make concerning text, structure/theory, and history. Both the majority and dissent invoke the "Framers" yet reach contrary conclusions that go to the heart of the structure of the Constitution. Is there a constitutional right to vote?
+Separation of Powers
+Judicial Review
+9. FP: #78, 81; Marbury v. Madison (1803) (packet); Stuart v. Laird (1803) (packet); Amar, Ch. 6.; Supreme Court Disc 1 (Baker Berry Reserve) 10/17
+What is the political background surrounding Marbury? What is strange about the way Marshall approaches the issues in Marbury? What arguments does Marshall make regarding judicial review? Are these the same arguments made in Federalist 78 and 81? Do you find them persuasive? Is life tenure under Article III problematic? Think about the distinct justifications for judicial review.
+10. Bickel, The Least Dangerous Branch, Ch. 1 (packet 2); Scalia A Matter of Interpretation, pp. 3-14; 37-47 (packet); Breyer, Active Liberty, pp. 15-34 (packet); Ely, Democracy and Distrust, Chs. 3-4 (packet). 10/22
+Is judicial review counter-majoritarian? (i.e. How would Bickel, Ely, and Justice Scalia answer this question?) If judicial review is counter-majoritarian, is that a bad thing? (i.e. How would Bickel, Ely, Scalia, and Justice Breyer answer this question?)
+3
+
+*Midterm review. Midterm will be available before class. I will answer any questions about it or about the readings in general.
+Executive Prerogative
+11. FP: #69-70; Locke, Second Treatise of Gov't (Ch. XIV, On Prerogative).(http://oregonstate.edu/instruct/phl302/texts/locke/locke2/locke2ndc.html#Sect.%20158); Fatovic (packet). 10/29 (Midterms Due in Class).
+What is Locke's notion of prerogative? And why is it important? (the Locke reading is only Ch.XIV entitled Prerogative--it's only a few pages). According to Fatovic, how do Jefferson and Hamilton conceptualize this notion of prerogative? What is the role of the Court in these theories?
+Guest Lecture: James Fleming, reading: TBA 10/31
+Public Lecture: 4:30pm. Location: TBA 10/31.
+12. http://avalon.law.yale.edu/19th_century/gettyb.asp (Lincoln, Gettysburg Address re: Founding); http://avalon.law.yale.edu/19th_century/emancipa.asp (Lincoln, Emancipation Proclamation) (January 1, 1863 re: executive prerogative); http://teachingamericanhistory.org/library/document/letter-to-matthew-birchard-and-others/ (Lincoln, June 29, 1863 letter re: check on executive prerogative). http://millercenter.org/president/speeches/detail/3508 (Lincoln, July 4th, 1861 Message to Congress: re: suspension of habeas corpus). Prize Cases (1863) (packet); Ex Parte Merryman (1861) (packet); Ex Parte Milligan (1866) (packet). 11/5
+Why does Lincoln win in the Prize Cases but lose in Ex Parte Merryman and Ex Parte Milligan? In all the executive prerogative cases consider the following: What has Congress said? What are the features (circumstances) of the emergency or war? What specific power (prerogative) is the President exercising? (seizing property, deeming folks enemy combatants, conducting military tribunals, etc.) Who is being harmed? (citizen, non-citizen)?
+13. Amar, Ch. 5, Youngstown v. Sawyer (1952) (packet); Lecture Handout (Blackboard). 11/6 (X Hour).
+In Youngstown what is the statutory issue and what is the constitutional issue? How do the justices resolve them? Pay particular attention to Justice Jackson's framework of the relationship between Congress and executive prerogative. How does Amar's understanding of the executive square with this framework?
+14. Boumediene v. Bush (2008) (packet); Letter to Rep. Kirk (on Blackboard) (read Topics A and B); Presidential Memo re: Guantanamo (on Blackboard); http://msnbcmedia.msn.com/i/msnbc/sections/news/020413_DOJ_White_Paper.pdf (DOJ White Paper, Lethal Operations against US Citizens affiliated with Al-Qa'ida, 2013); http://avalon.law.yale.edu/19th_century/ajveto01.asp (Andrew Jackson's Veto of Second Bank, 1832); http://www.justice.gov/olc/nonexcut.htm (Memo on Presidential Authority to Decline to Execute Unconstitutional Statutes, 1994). 11/7
+According to Kennedy, permitting the President to refuse habeas upsets the separation of powers. How? Why is this problematic? Why is this not problematic for Scalia? What box would Scalia put the President's actions in? Consider that after Boumediene some detentions have been deemed invalid (these individuals however still remain in custody). What do you
+4
+
+make of Obama's decision in March 2011 to resume military commissions at Guantanamo given his earlier executive order of 2009 to close down the facility within one year, moving detainees to federal court or to a facility in the United States? Why do we have military tribunals at all? Why not try all suspected terrorists in federal, civilian court? Without the AUMF (Authorization to use Military Force) would the President have the power to conduct lethal operations against certain citizens? Is his exercise of this power constitutional? Jackson's veto message discusses the role of non-judicial actors in interpreting the Constitution. Do you find it persuasive? Must a President execute a statute she believes is unconstitutional?
+Federalism
+15. Amar, Ch. 3; National Federation of Independent Business v. Sebelius (2012) (packet); http://thomas.loc.gov/cgi-bin/query/z?c112:S.3411: (Bill, S.3411, amending Affordable Care Act). 11/12
+What is the nature of Congress's power? If the Constitution was set up to limit government power, what do you make of Sebelius? What is the scope of the commerce clause power? (I will discuss this power in detail in class). Why does the majority reject the commerce clause argument to justify the individual mandate? Why does the dissent disagree? According to Chief Justice Roberts, why does Congress have the power to require individuals to buy private insurance or suffer a tax (or penalty?)? What would happen if Senate Bill 3.411 became law? Should Congressional legislation be presumptively constitutional?
+Slavery and Reconstruction
+16. Dred Scott v. Sandford (1856) (packet); Graber, Part One; 11/13 [X Hour]: 4:15-5:05
+What are Justice Taney's arguments in Dred Scott? (Consider the scope of his decision). Do you think the dissent does a good job of refuting them? What does Graber make of the critiques of Dred Scott? What is the relationship between injustice and constitutional law?
+17. Graber, Part Three; http://teachingamericanhistory.org/library/document/the-constitution-ofthe-united-states-is-it-pro-slavery-or-anti-slavery/ (Frederick Douglas, 1860). 11/14.
+What is the relationship between majoritarianism and evil? What is the relationship between contract and the Constitution? How does Graber's argument inform the issue of rightsfoundationalism? Why does Douglas contend that the 1787 Constitution is an anti-slavery document? What would he make of Graber's argument?
+18. Amar, Ch. 10; Civil Rights Cases (1883) (packet). 11/19
+Assume that the 14th Amendment was not passed properly. Does it matter? What does Amar argue? Do you think that the Civil Rights Cases were decided correctly? What do you make of Harlan's dissent? How does it respond to Dred Scott? What is the relationship between racism and action by private or non-state individuals such as employers?
+* Final review. Final will be available before class. I will answer any questions about it or about the readings in general
+5
+
+Grading Policy Your exams will be graded on three criteria. First, how well written, clear, and coherent is the response? Second, how well does the response answer the question? Third, how nuanced and sophisticated is the content of the response? Keep in mind that an exam is not like taking a driving test in which you start with 100 points and lose points for errors. Rather, you start with zero points. The burden, then, is on you to write an answer that will meet these three criteria. Below is a general rubric for grading: A: This is a superb answer that is extremely clear and well written. It not only answers the question in a creative and insightful way but also offers a new or fresh perspective that was not obvious from class materials. It represents a deep, thorough, and complete understanding of the material. A-: This is an excellent answer that is extremely clear and well written. It not only answers the question by drawing on the relevant class materials but also offers a creative or insightful synthesis of them. It represents a very strong grasp of the material. B+: This is a good answer that is relatively clear and well written. It answers the question by drawing on the relevant class materials. It represents a good grasp of the material. B: This answer makes some good points but may be unclear or may not answer the question completely or may not draw on the relevant class materials. It represents a good but in certain respects deficient grasp of the material. B- and below: These answers are weaker than a B answer with regards to one or more of the three outlined criteria.
+6
+
+Constitutional Law, Development, and Theory Government 66 Course Packet 1
+All secondary readings are on reserve at Baker Berry Fall 2013
+1. Wood, Gordon, The Creation of the American Republic, 1776-1787 (Norton: 1969). Ch. 2, 5, 9, 13.
+2. Ackerman, Bruce. We the People: Foundations (Vol. 1) (Harvard Press: 1991), Chs. 1-2, pp. 357.
+3. Levinson, Sanford, "How Many Times Has the United States Constitution Been Amended?" in Responding to Imperfection: The Theory and Practice of Constitutional Amendment (ed. Sanford Levinson) (Princeton Press: 1995). Ch. 2, pp. 13-36.
+4. Murphy, Walter F., "Merlin's Memory: The Past and Future Imperfect of the Once and Future Polity," in Responding to Imperfection: The Theory and Practice of Constitutional Amendment (ed. Sanford Levinson) (Princeton Press: 1995). Ch. 8, pp. 163-190.
+5. Schauer, Frederick, "Amending the Presuppositions of a Constitution," in Responding to Imperfection: The Theory and Practice of Constitutional Amendment (ed. Sanford Levinson) (Princeton Press: 1995). Ch. 7, pp. 145-161.
+6. Bickel, Alexander M., The Least Dangerous Branch (Yale Press: 1962), Ch. 1, pp. 1-33. 7. Scalia, Antonin Justice, A Matter of Interpretation: Federal Courts and the Law (Princeton Press:
+1997), pp. 3-14; 37-47. 8. Breyer, Stephen Justice, Active Liberty: Interpreting our Democratic Constitution (Knopf: 2005), pp.
+15-34. 9. Ely, John Hart, Democracy and Distrust: A Theory of Judicial Review (Harvard Press: 1980), Chs.
+3-4, pp. 43-104. 10. Fatovic, Clement, "Constitutionalism and Presidential Prerogative: Jeffersonian and
+Hamiltonian Perspectives," American Journal of Political Science, Vol. 48, No. 3. (July 2004), pp. 429-444.
+7
+
+Constitutional Law, Development, and Theory Government 66 Course Packet 2
+All cases uploaded on Blackboard Fall 2013
+1. McCulloch v. Maryland (1819) 2. U.S. Term Limits v. Thornton (1995) 3. Marbury v. Madison (1803) 4. Stuart v. Laird (1803) 5. Prize Cases (1863) 6. Ex Parte Merryman (1861) 7. Ex Parte Milligan (1866) 8. Youngstown v. Sawyer (1952) 9. Boumediene v. Bush (2008) 10. National Federation of Independent Business v. Sebelius (2012) 11. Dred Scott v. Sandford (1856) 12. Civil Rights Cases (1883)
+8
+
+
