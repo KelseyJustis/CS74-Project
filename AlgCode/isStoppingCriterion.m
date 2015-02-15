@@ -1,4 +1,4 @@
-function [ terminate ] = isStoppingCriterion(curDepth, MaxDepth, curDataSubset )
+function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y)
 % return true if termination criteria satisfied
 
 % if curDepth == MaxDepth

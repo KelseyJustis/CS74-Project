@@ -24,7 +24,7 @@ classdef Tree
             obj.leftChild = leftChild;
         end
         
-        function obj = rightLeft(obj, rightChild)
+        function obj = insertRight(obj, rightChild)
             obj.rightChild = rightChild;
         end
     end

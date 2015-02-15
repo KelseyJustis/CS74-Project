@@ -1,4 +1,5 @@
-function [ S ] = sumSquares( Y )
+function [error] = sumSquares(Y)
+    
 
 end
 
