@@ -2,7 +2,7 @@ function [term, classes, enrollment, medians] = getCourseData(file_name)
 
     fid = fopen(file_name);
     out = textscan(fid,'%s%s%s%s','delimiter',',');
-    fclose(fid);
+    fclose('all');
 
     term = out{1};
     classes = out{2};
