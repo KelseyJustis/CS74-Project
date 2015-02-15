@@ -1,4 +1,4 @@
-function [ feature, threshold] = findBestSplit( node,X,Y )
+function [feature, threshold] = findBestSplit(X, Y)
 
 %initialize bestsplit and MSE
 %bestSplit = [0 0]
@@ -13,6 +13,23 @@ function [ feature, threshold] = findBestSplit( node,X,Y )
            % if bestMSE > MSE
                 %bestMSE = MSE
                 %bestSplit = [feature(i) thresh]
+feature = 0;
+threshold = 0;
+bestError = Inf;
 
+for i=1:size(X, 2)
+    [X_i, index] = sortrows(X, i);
+    Y_i = Y(index, :);
+   
+    for j=1:(size(X, 1) - 1) 
+        error = sumSquares(Y_i(1:j, 1)) + sumSquares(Y_i(j:end), 1);
+        
+        if error < bestError
+            feature = i;
+            threshold = (X_i(j, i) + X_i(j + 1, i)) / 2;
+            bestError = error;
+        end    
+    end    
+end    
 end
 
