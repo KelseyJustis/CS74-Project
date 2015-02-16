@@ -25,7 +25,7 @@ regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
 numOfFeatures = 6;
 numOfCourses = length(folderOfSyllabiTxtFiles);
-X = zeros(numOfCourses,numOfFeatures);
+X = cell(numOfCourses,numOfFeatures);
 Y = zeros(numOfCourses,1);
 % Loop over each syllabus text file
 for fileNumber = 1:numOfCourses
