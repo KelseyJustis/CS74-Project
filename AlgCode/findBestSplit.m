@@ -21,7 +21,7 @@ for i=1:size(X, 2)
     Y_i = Y(index, :);
    
     for j=1:(size(X, 1) - 1) 
-        error = sumSquaresError(Y_i(1:j,1)) + sumSquaresError(Y_i(j:end,1));
+        error = sampleVariance(Y_i(1:j,1)) + sampleVariance(Y_i(j:end,1));
         
         if error < bestError
             feature = i;
