@@ -23,7 +23,7 @@ regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
 
 %Folder of converted syllabi files from pdf to text format.
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
-numOfFeatures = 6;
+numOfFeatures = 7;
 numOfCourses = length(folderOfSyllabiTxtFiles);
 X = cell(numOfCourses,numOfFeatures);
 Y = zeros(numOfCourses,1);
@@ -66,8 +66,10 @@ for fileNumber = 1:numOfCourses
     negWordsVocab = unique(negWords{1,1}); % list of unique words used in the words of interest text file
     
     %% Syllabus prep work
+    percentSignFreq =  0;
     % Get rid of all the characters that are not letters or numbers
     for Word=1:numel(CurrSylabusWords{1,1})
+        percentSignFreq =  percentSignFreq + length(strfind(CurrSylabusWords{1,1}{Word,1},'%'));
         ind = find(isstrprop(CurrSylabusWords{1,1}{Word,1}, 'alphanum') == 0);
         CurrSylabusWords{1,1}{Word,1}(ind)=[];
     end
@@ -111,6 +113,7 @@ for fileNumber = 1:numOfCourses
   X{fileNumber,4} = courseEnrollment;
   X{fileNumber,5} = numOfNegWords;
   X{fileNumber,6} = labWordFreq;
+  X{fileNumber,7} = percentSignFreq;
   save('courseFeaturesData','X');
   fclose('all');
 end
