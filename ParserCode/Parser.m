@@ -3,6 +3,11 @@
 addpath('../PDFTextExtractionCode')
 regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
 [term, classes, enrollment, medians] = getCourseData(regristrarCourseData);
+courseNames = {};
+courseNums = {};
+totNumOfWordsInSyllabuss = {};
+courseEnrollments = {};
+numOfNegWordss = {};
 
 %Folder of converted syllabi files from pdf to text format.
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
@@ -77,10 +82,15 @@ for fileNumber = 1:length(folderOfSyllabiTxtFiles)
             end
         end
     end
-   numOfNegWords = sum(negWordFreq);
-   totNumOfWordsInSyllabus = numel(CurrSylabusWords{1,1});
-   totNumOfUniqueWordsInSyllabus = numel(find(syllabusWordFreq));
+  numOfNegWords = sum(negWordFreq);
+  totNumOfWordsInSyllabus = numel(CurrSylabusWords{1,1});
+  totNumOfUniqueWordsInSyllabus = numel(find(syllabusWordFreq));
   save('mediansData','courseMedian','-append'); % save a data matrix for median grades
-  save('courseFeaturesData','courseName','courseNum','totNumOfWordsInSyllabus','courseEnrollment','numOfNegWords','-append');
+  courseNames{end + 1} = courseName
+  courseNums{end + 1} = courseNum
+  totNumOfWordsInSyllabuss{end + 1} = totNumOfWordsInSyllabus
+  courseEnrollments{end + 1} = courseEnrollment
+  numOfNegWordss{end + 1} = numOfNegWords
+  save('courseFeaturesData','courseNames','courseNums','totNumOfWordsInSyllabuss','courseEnrollment','numOfNegWordss');
   fclose('all');
 end
