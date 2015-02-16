@@ -23,7 +23,7 @@ regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
 
 %Folder of converted syllabi files from pdf to text format.
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
-numOfFeatures = 5;
+numOfFeatures = 6;
 numOfCourses = length(folderOfSyllabiTxtFiles);
 X = cell(numOfCourses,numOfFeatures);
 Y = zeros(numOfCourses,1);
@@ -83,12 +83,21 @@ for fileNumber = 1:numOfCourses
     
     %% Now count the number of times a negative word is used in the syllabus
     negWordFreq = zeros(numel(negWordsVocab), 1);
-
+    labWordFreq = 0;
+    
     for Word = 1:numel(negWordsVocab)
         if max(negWordsVocab{Word} ~= ' ')
             for j = 1:numel(CurrSylabusWords{1,1})
                 if strcmpi(CurrSylabusWords{1,1}(j), negWordsVocab{Word})
                     negWordFreq(Word) = negWordFreq(Word) + 1;
+                end
+                
+                % count the number of times lab or Lab is used in the syllabus
+                if strcmpi(CurrSylabusWords{1,1}(j), 'lab')
+                    labWordFreq = labWordFreq + 1;
+                end
+                if strcmpi(CurrSylabusWords{1,1}(j), 'labs')
+                    labWordFreq = labWordFreq + 1;
                 end
             end
         end
@@ -101,6 +110,7 @@ for fileNumber = 1:numOfCourses
   X{fileNumber,3} = totNumOfWordsInSyllabus;
   X{fileNumber,4} = courseEnrollment;
   X{fileNumber,5} = numOfNegWords;
+  X{fileNumber,6} = labWordFreq;
   save('courseFeaturesData','X');
   fclose('all');
 end

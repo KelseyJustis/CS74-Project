@@ -22,12 +22,11 @@ function [median, parserIndex] = getMedian(file_name, medians, classes, term)
     for i = ind.'
         if strcmp(classes{i, 1}, reform)
            letterGrade = medians{i, 1};
+           letterGrade = letterGrade(~isspace(letterGrade));
            [~, j] = ismember(letterGrade, letterGrades);
            
-           if j>0
             median = letterToGPA(1, j);      
             found = 1;
-           end
         end
         parserIndex = i;
     end
