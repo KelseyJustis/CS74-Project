@@ -1,19 +1,34 @@
 % Cite her: http://www.mathworks.com/matlabcentral/fileexchange/19505-wordcount/content/wordcount.m
+%% Output Description
+%
+% INPUT:
+%  X:
+%
+% OUTPUT:
+%  X: a matrix [m x n], with each row containing a different course's features and
+%  each column a different feature.
+%     X(:,1) = Course Name
+%     X(:,2) = Course Number
+%     X(:,3) = Total Number Of Words In Course Syllabus
+%     X(:,4) = Course Enrollment
+%     X(:,5) = Number Of Negative Words
+%
+%  Y: a matrix [m x 1], with each row containing a different course median
+%  grade.
+%     Y(:,1) = courseMedian
 
 addpath('../PDFTextExtractionCode')
 regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
 [term, classes, enrollment, medians] = getCourseData(regristrarCourseData);
-courseNames = {};
-courseNums = {};
-totNumOfWordsInSyllabuss = {};
-courseEnrollments = {};
-numOfNegWordss = {};
 
 %Folder of converted syllabi files from pdf to text format.
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
-
+numOfFeatures = 6;
+numOfCourses = length(folderOfSyllabiTxtFiles);
+X = zeros(numOfCourses,numOfFeatures);
+Y = zeros(numOfCourses,1);
 % Loop over each syllabus text file
-for fileNumber = 1:length(folderOfSyllabiTxtFiles)
+for fileNumber = 1:numOfCourses
    CurrCourseFileName = folderOfSyllabiTxtFiles(fileNumber).name;
    CurrSyllabusTextFile = fopen(['../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/'  CurrCourseFileName], 'r');
    courseName = char(CurrCourseFileName(1:end-4)); % remove .txt extension to get the course name
@@ -26,7 +41,9 @@ for fileNumber = 1:length(folderOfSyllabiTxtFiles)
        courseMedian = 0;
        courseEnrollment = 0;
    end
-   
+   Y(fileNumber) = courseMedian;
+   save('mediansData','Y'); % save a data matrix for median grades
+
    CurrSylabusWords = textscan(CurrSyllabusTextFile, '%s');
    
    negWordsTextFile = fopen('../OutsideVocabDatabases/negativeWords.txt', 'r');
@@ -64,12 +81,6 @@ for fileNumber = 1:length(folderOfSyllabiTxtFiles)
     
     syllabusVocab = unique(CurrSylabusWords{1,1});
     
-%     %% Check overlap of words of interest in syllabus vocab
-%     negWordsInSyllabus = ismember(negWordsVocab,syllabusVocab); % binary list of which words of interest are present (1 if present, 0 if not)
-%     sum(negWordsInSyllabus); %tells how many words are shared between both files
-%     negWordsVocab(negWordsInSyllabus); % Prints out words common to both txt files
-    
-    
     %% Now count the number of times a negative word is used in the syllabus
     negWordFreq = zeros(numel(negWordsVocab), 1);
 
@@ -83,14 +94,13 @@ for fileNumber = 1:length(folderOfSyllabiTxtFiles)
         end
     end
   numOfNegWords = sum(negWordFreq);
-  totNumOfWordsInSyllabus = numel(CurrSylabusWords{1,1});
-  totNumOfUniqueWordsInSyllabus = numel(find(syllabusWordFreq));
-  save('mediansData','courseMedian','-append'); % save a data matrix for median grades
-  courseNames{end + 1} = courseName
-  courseNums{end + 1} = courseNum
-  totNumOfWordsInSyllabuss{end + 1} = totNumOfWordsInSyllabus
-  courseEnrollments{end + 1} = courseEnrollment
-  numOfNegWordss{end + 1} = numOfNegWords
-  save('courseFeaturesData','courseNames','courseNums','totNumOfWordsInSyllabuss','courseEnrollment','numOfNegWordss');
+
+  totNumOfWordsInSyllabus = numel(CurrSylabusWords{1,1}); 
+  X(fileNumber,1) = courseName;
+  X(fileNumber,2) = courseNum;
+  X(fileNumber,3) = totNumOfWordsInSyllabus;
+  X(fileNumber,4) = courseEnrollment;
+  X(fileNumber,5) = numOfNegWords;
+  save('courseFeaturesData','X');
   fclose('all');
 end

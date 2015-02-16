@@ -1,4 +1,4 @@
-function [median, ind] = getMedian(file_name, medians, classes, term)
+function [median, parserIndex] = getMedian(file_name, medians, classes, term)
     median = 0;
     
     letterGrades = {'A', 'A-', 'B+', 'B', 'B-', 'A/A-', 'A-/B+', 'B+/B', 'B/B-'};
@@ -23,11 +23,12 @@ function [median, ind] = getMedian(file_name, medians, classes, term)
         if strcmp(classes{i, 1}, reform)
            letterGrade = medians{i, 1};
            [~, j] = ismember(letterGrade, letterGrades);
-          
+           
            median = letterToGPA(1, j);   
                
            found = 1;
-        end    
+        end
+        parserIndex = i;
     end
     if found == 0
        disp(file_name);
