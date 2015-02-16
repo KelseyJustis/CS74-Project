@@ -23,7 +23,7 @@ regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
 
 %Folder of converted syllabi files from pdf to text format.
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
-numOfFeatures = 6;
+numOfFeatures = 5;
 numOfCourses = length(folderOfSyllabiTxtFiles);
 X = cell(numOfCourses,numOfFeatures);
 Y = zeros(numOfCourses,1);
@@ -96,11 +96,11 @@ for fileNumber = 1:numOfCourses
   numOfNegWords = sum(negWordFreq);
 
   totNumOfWordsInSyllabus = numel(CurrSylabusWords{1,1}); 
-  X(fileNumber,1) = courseName;
-  X(fileNumber,2) = courseNum;
-  X(fileNumber,3) = totNumOfWordsInSyllabus;
-  X(fileNumber,4) = courseEnrollment;
-  X(fileNumber,5) = numOfNegWords;
+  X{fileNumber,1} = courseName;
+  X{fileNumber,2} = courseNum;
+  X{fileNumber,3} = totNumOfWordsInSyllabus;
+  X{fileNumber,4} = courseEnrollment;
+  X{fileNumber,5} = numOfNegWords;
   save('courseFeaturesData','X');
   fclose('all');
 end
