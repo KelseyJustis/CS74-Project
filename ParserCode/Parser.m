@@ -1,46 +1,47 @@
 % Cite her: http://www.mathworks.com/matlabcentral/fileexchange/19505-wordcount/content/wordcount.m
+
+addpath('../PDFTextExtractionCode')
+regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
+[term, classes, enrollment, medians] = getCourseData(regristrarCourseData);
+
 %Folder of converted syllabi files from pdf to text format.
-FolderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
+folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
 
 % Loop over each syllabus text file
-for fileNumber = 1:length(FolderOfSyllabiTxtFiles)
-   CurrTxtFileName = FolderOfSyllabiTxtFiles(fileNumber).name;
-   CurrSyllabusTextFile = fopen(['../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/'  CurrTxtFileName], 'r');
+for fileNumber = 1:length(folderOfSyllabiTxtFiles)
+   CurrCourseFileName = folderOfSyllabiTxtFiles(fileNumber).name;
+   CurrSyllabusTextFile = fopen(['../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/'  CurrCourseFileName], 'r');
+   courseName = char(CurrCourseFileName(1:end-4)); % remove .txt extension to get the course name
+   courseNameSplit = strsplit(courseName, '-'); 
+   courseDept = str2double(courseNameSplit(1, 1)); % get the course department
+   courseNum = str2double(courseNameSplit(1, 2)); % get the course number
+   [courseMedian, regristrarCourseDataIndex]  = getMedian(char(CurrCourseFileName),medians,classes,term); %get corresponding medain grade for course
+   courseEnrollment = enrollment{regristrarCourseDataIndex};
+   if (courseMedian == -1)
+       courseMedian = 0;
+       courseEnrollment = 0;
+   end
+   
    CurrSylabusWords = textscan(CurrSyllabusTextFile, '%s');
-   StopWordsTextFile = fopen('../OutsideVocabDatabases/stopwords.txt', 'r');
-   StopWords = textscan(StopWordsTextFile,'%s','delimiter',',');
-   WordsOfInterestTextFile = fopen('../OutsideVocabDatabases/wordsOfInterest.txt', 'r');
-   WordsOfInterest = textscan(WordsOfInterestTextFile,'%s','delimiter',',');
+   
+   negWordsTextFile = fopen('../OutsideVocabDatabases/negativeWords.txt', 'r');
+   negWords = textscan(negWordsTextFile,'%s','delimiter',',');
    
    %% Words of interest prep work
     % Get rid of all the characters that are not letters or numbers in WordsOfInterest file.
-    for Word=1:numel(WordsOfInterest{1,1})
-        ind = find(isstrprop(WordsOfInterest{1,1}{Word,1}, 'alphanum') == 0);
-        WordsOfInterest{1,1}{Word,1}(ind)=[];
+    for Word=1:numel(negWords{1,1})
+        ind = find(isstrprop(negWords{1,1}{Word,1}, 'alphanum') == 0);
+        negWords{1,1}{Word,1}(ind)=[];
     end
 
     % Remove words that have zero characters in WordsOfInterest file.
-    for Word = 1:numel(WordsOfInterest{1,1})
-        if size(WordsOfInterest{1,1}{Word,1}, 2) == 0
-            WordsOfInterest{1,1}{Word,1} = ' ';
+    for Word = 1:numel(negWords{1,1})
+        if size(negWords{1,1}{Word,1}, 2) == 0
+            negWords{1,1}{Word,1} = ' ';
         end
     end
-    WordsOfInterestVocab = unique(WordsOfInterest{1,1}); % list of unique words used in the words of interest text file
     
-    %% Stop words prep work
-    % Get rid of all the characters that are not letters or numbers in StopWords file.
-    for Word=1:numel(StopWords{1,1})
-        ind = find(isstrprop(StopWords{1,1}{Word,1}, 'alphanum') == 0);
-        StopWords{1,1}{Word,1}(ind)=[];
-    end
-
-    % Remove words that have zero characters in StopWords file.
-    for Word = 1:numel(StopWords{1,1})
-        if size(StopWords{1,1}{Word,1}, 2) == 0
-            StopWords{1,1}{Word,1} = ' ';
-        end
-    end
-    StopWordsVocab = unique(StopWords{1,1}); % list of unique words used in the StopWords text file
+    negWordsVocab = unique(negWords{1,1}); % list of unique words used in the words of interest text file
     
     %% Syllabus prep work
     % Get rid of all the characters that are not letters or numbers
@@ -58,75 +59,28 @@ for fileNumber = 1:length(FolderOfSyllabiTxtFiles)
     
     syllabusVocab = unique(CurrSylabusWords{1,1});
     
-    %% Check overlap of words of interest in syllabus vocab
-    wordOfInterestInSyllabus = ismember(WordsOfInterestVocab,syllabusVocab); % binary list of which words of interest are present (1 if present, 0 if not)
-    sum(wordOfInterestInSyllabus); %tells how many words are shared between both files
-    WordsOfInterestVocab(wordOfInterestInSyllabus); % Prints out words common to both txt files
+%     %% Check overlap of words of interest in syllabus vocab
+%     negWordsInSyllabus = ismember(negWordsVocab,syllabusVocab); % binary list of which words of interest are present (1 if present, 0 if not)
+%     sum(negWordsInSyllabus); %tells how many words are shared between both files
+%     negWordsVocab(negWordsInSyllabus); % Prints out words common to both txt files
     
-    StopWordsInSyllabus = ismember(StopWordsVocab,syllabusVocab); % binary list of which StopWords are present (1 if present, 0 if not)
-    sum(StopWordsInSyllabus); %tells how many words are shared between both files
-    StopWordsVocab(StopWordsInSyllabus); % Prints out words common to both txt files
     
-    %% Now count the number of times each syllabus vocabulary word appears in the syllabus
-    syllabusWordFreq = zeros(numel(syllabusVocab), 1);
+    %% Now count the number of times a negative word is used in the syllabus
+    negWordFreq = zeros(numel(negWordsVocab), 1);
 
-    for Word = 1:numel(syllabusVocab)
-        if max(syllabusVocab{Word} ~= ' ')
+    for Word = 1:numel(negWordsVocab)
+        if max(negWordsVocab{Word} ~= ' ')
             for j = 1:numel(CurrSylabusWords{1,1})
-                if strcmp(CurrSylabusWords{1,1}(j), syllabusVocab{Word})
-                    syllabusWordFreq(Word) = syllabusWordFreq(Word) + 1;
+                if strcmpi(CurrSylabusWords{1,1}(j), negWordsVocab{Word})
+                    negWordFreq(Word) = negWordFreq(Word) + 1;
                 end
             end
         end
     end
-
-    %% Print out frequency of each word in syllabus
-    u_freq = unique(syllabusWordFreq);
-    sortFreq = sort(u_freq, 'descend');
-    commonWordResults={ 'WORD' 'FREQ' '% OF WORDS'};
-    numberOfPopWords = 5;
-    for Word = 1:min(numel(find(sortFreq > 1)), numberOfPopWords)
-        ind = find(syllabusWordFreq == sortFreq(Word));
-        commonWordResults{Word+1, 1} = syllabusVocab{ind};
-        commonWordResults{Word+1, 2} = unique(syllabusWordFreq(ind));
-        commonWordResults{Word+1, 3} = sprintf('%.4f%s', unique(syllabusWordFreq(ind)/numel(CurrSylabusWords{1,1}))*100, '%');
-    end
-    
-    %% Now count the number of times each syllabus vocabulary word appears in the syllabus
-    StopWordFreq = zeros(numel(StopWordsVocab), 1);
-
-    for Word = 1:numel(StopWordsVocab)
-        if max(StopWordsVocab{Word} ~= ' ')
-            for j = 1:numel(CurrSylabusWords{1,1})
-                if strcmpi(CurrSylabusWords{1,1}(j), StopWordsVocab{Word})
-                    StopWordFreq(Word) = StopWordFreq(Word) + 1;
-                end
-            end
-        end
-    end
-
-    %% Print out frequency of each word in syllabus
-    u_freq = unique(StopWordFreq);
-    sortFreq = sort(u_freq, 'descend');
-    StopWordResults={ 'WORD' 'FREQ' '% OF WORDS'};
-    numberOfStopWords = 60;
-    for Word = 1:min(numel(find(sortFreq > 1)), numberOfStopWords)
-        ind = find(StopWordFreq == sortFreq(Word));
-        StopWordResults{Word+1, 1} = StopWordsVocab{ind};
-        StopWordResults{Word+1, 2} = unique(StopWordFreq(ind));
-        StopWordResults{Word+1, 3} = sprintf('%.4f%s', unique(StopWordFreq(ind)/numel(CurrSylabusWords{1,1}))*100, '%');
-    end
-    
-   negativeWordResults={ 'WORD' 'FREQ' '% OF WORDS'};
-   positiveWordResults={ 'WORD' 'FREQ' '% OF WORDS'};
-   
+   numOfNegWords = sum(negWordFreq);
    totNumOfWordsInSyllabus = numel(CurrSylabusWords{1,1});
    totNumOfUniqueWordsInSyllabus = numel(find(syllabusWordFreq));
-   CurrTxtFileName = strsplit(char(CurrTxtFileName), '.txt');
-   CurrTxtFileName = CurrTxtFileName(1,1);
-   fileDataName = strcat('Results-',CurrTxtFileName);
-
-   
-  save(char(fileDataName),'CurrTxtFileName','totNumOfWordsInSyllabus','totNumOfUniqueWordsInSyllabus','syllabusVocab','commonWordResults','StopWordsVocab','StopWordResults');
+  save('mediansData','courseMedian','-append'); % save a data matrix for median grades
+  save('courseFeaturesData','courseName','courseNum','totNumOfWordsInSyllabus','courseEnrollment','numOfNegWords','-append');
   fclose('all');
 end

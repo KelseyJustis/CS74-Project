@@ -1,4 +1,4 @@
-function median = getMedian(file_name, medians, classes, term)
+function [median, ind] = getMedian(file_name, medians, classes, term)
     median = 0;
     
     letterGrades = {'A', 'A-', 'B+', 'B', 'B-', 'A/A-', 'A-/B+', 'B+/B', 'B/B-'};
