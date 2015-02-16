@@ -1,20 +1,26 @@
 % Cite her: http://www.mathworks.com/matlabcentral/fileexchange/19505-wordcount/content/wordcount.m
-%% Output Description
-%
+%% Program Description
+% Program takes in formatted data and syllabus .txt files and out put
+% matrices with features specified to be used with ML algorithims.
 % INPUT:
-%  X:
+% Formatted registrar office median and course information and syllabus .txt files
 %
 % OUTPUT:
 %  X: a matrix [m x n], with each row containing a different course's features and
-%  each column a different feature.
-%     X(:,1) = Course Name
-%     X(:,2) = Course Number
-%     X(:,3) = Total Number Of Words In Course Syllabus
-%     X(:,4) = Course Enrollment
-%     X(:,5) = Number Of Negative Words
+%  each column a different feature:
+% 
+%     X(fileNumber,feature) := feature for given syllabus file 
+%     X(:,1) := Course Name
+%     X(:,2) := Course Number
+%     X(:,3) := Total Number Of Words In Course Syllabus
+%     X(:,4) := Course Enrollment
+%     X(:,5) := Number Of Negative Words
+%     X(:,6) := Number of time mentioning specific words of interest such as lab,
+%               homework,etc.
+%     X(:,7) := Percent sign frequency
 %
 %  Y: a matrix [m x 1], with each row containing a different course median
-%  grade.
+%  grade:
 %     Y(:,1) = courseMedian
 
 addpath('../PDFTextExtractionCode')
@@ -23,7 +29,7 @@ regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
 
 %Folder of converted syllabi files from pdf to text format.
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
-numOfFeatures = 7;
+numOfFeatures = 8;
 numOfCourses = length(folderOfSyllabiTxtFiles);
 X = cell(numOfCourses,numOfFeatures);
 Y = zeros(numOfCourses,1);
@@ -86,7 +92,7 @@ for fileNumber = 1:numOfCourses
     %% Now count the number of times a negative word is used in the syllabus
     negWordFreq = zeros(numel(negWordsVocab), 1);
     labWordFreq = 0;
-    
+    noExceptionsFreq =0;
     for Word = 1:numel(negWordsVocab)
         if max(negWordsVocab{Word} ~= ' ')
             for j = 1:numel(CurrSylabusWords{1,1})
@@ -114,6 +120,7 @@ for fileNumber = 1:numOfCourses
   X{fileNumber,5} = numOfNegWords;
   X{fileNumber,6} = labWordFreq;
   X{fileNumber,7} = percentSignFreq;
+  X{fileNumber,8} = noExceptionsFreq;
   save('courseFeaturesData','X');
   fclose('all');
 end
