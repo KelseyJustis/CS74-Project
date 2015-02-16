@@ -13,6 +13,7 @@ function [ regTree ] = buildTree(curDepth, maxDepth, X, Y)
         % add feature + children to treeObj
             % treeObj.addLeftChild(depth,dataSubset split from treshold, MaxDepth)
             % treeObj.addRightChild(" " ")
+    
     if isStoppingCriterion(curDepth, maxDepth, X, Y)
         regTree = Tree(curDepth, 0, 0, 1, sum(Y) / size(Y, 1));  
     else            
