@@ -36,7 +36,7 @@ for fileNumber = 1:numOfCourses
    courseDept = str2double(courseNameSplit(1, 1)); % get the course department
    courseNum = str2double(courseNameSplit(1, 2)); % get the course number
    [courseMedian, regristrarCourseDataIndex]  = getMedian(char(CurrCourseFileName),medians,classes,term); %get corresponding medain grade for course
-   courseEnrollment = enrollment{regristrarCourseDataIndex};
+   courseEnrollment = enrollment{regristrarCourseDataIndex, 1};
    if (courseMedian == -1)
        courseMedian = 0;
        courseEnrollment = 0;

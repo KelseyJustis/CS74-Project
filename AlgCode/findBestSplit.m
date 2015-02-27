@@ -25,7 +25,7 @@ for i=1:size(X, 2)
         
         if error < bestError
             feature = i;
-            threshold = (X_i(j, i) + X_i(j + 1, i)) / 2;
+            threshold = (X_i(j, i)) + .1;
             bestError = error;
         end    
     end    

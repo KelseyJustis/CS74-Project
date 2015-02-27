@@ -3,7 +3,7 @@ function [predMedians] = predictData(tree, X)
     
     for i=1:size(X, 1)
        currNode = tree;
-       
+      
        while currNode.isLeaf == 0
            if X(i, currNode.feature) < currNode.threshold
               currNode = currNode.leftChild;

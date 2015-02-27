@@ -13,7 +13,7 @@ function err = MSE(pred_Y, correct_Y)
 [m,~] = size(pred_Y);
 err = 0;
 for i = 1:m
-    err = err + (correct_Y(i)-pred_Y(i)).^2;
+    err = err + (correct_Y(i)-pred_Y(i))^2;
 end
 err = (1/m) * err;
 end
