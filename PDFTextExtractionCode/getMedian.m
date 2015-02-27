@@ -25,11 +25,9 @@ function [median, parserIndex] = getMedian(file_name, medians, classes, term)
            letterGrade = letterGrade(~isspace(letterGrade));
            [~, j] = ismember(letterGrade, letterGrades);
            
-           if j>0
-            median = letterToGPA(1, j);      
-            found = 1;
-            parserIndex = i;
-           end
+           median = letterToGPA(1, j);      
+           found = 1;
+           parserIndex = i;     
         end
        
     end
