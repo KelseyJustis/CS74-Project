@@ -1,0 +1,19 @@
+Physics 24 Quantum Physics of Matter:
+An Introduction
+Wright--Spring 2014
+Class Time: MWF 10­11:05 am Class location: Wilder 102 Prof. Office Hrs: Wed 3­4 pm Wilder 245 (or by appt.) Grader: Giovanni Vizcardo Grader Office: 302 Wilder X-hr: Th 12:00­12:50 pm We will make intermittent use of X-hours in this class. During the first x-hour (Mar. 27) we will meet to discuss and start work on the numerical project (see below).
+Required Text: Eisberg and Resnick "Quantum Physics of Atoms..." 2nd Ed. Auxiliary Texts (on reserve in Kresge): Bernstein, Fishbane and Gasiorowicz, "Modern Physics" 1st Ed. Beiser, "Concepts of Modern Physics" 6th Ed.
+Overview
+The general focus of this course is to show how the principles of (non-relativistic) quantum mechanics allow us to predict and explain the structure of matter on various length and energy scales, from elementary particles to atoms to solid matter. It will provide an overview of these subjects, and establish a unified conceptual framework for more advanced courses on quantum theory (P42), statistical physics (P43), classical mechanics (P44), particle physics (P72), and solid-state physics (P73).
+Course Requirements
+Final grades will be a combination of the following elements: Homework: (40%) There will be a total of eight weekly homework assignments, typically due on Thursdays at 5 pm. There will be a homework drop box located in the entrance hall of Wilder. Late homework will be subject to a penalty of 25% per day. Project:(15%) One of the assignments in this course requires you to use numerical methods to find approximate solutions of the 1D time-independent Schr¨odinger equation. You will work through this project during the first three weeks of the course while we are discussing analytical solutions of the Schr¨odinger equation for simple systems. You will receive more detailed instructions about the project during X-hour on March 27 (first week of class). Midterm Exam: (20%) Tentatively scheduled for April 25, in-class. Final Exam: (25%) May 31, 8:00 am (subject to confirmation) Exams will be closed book, but you will be allowed one double-sided sheet of notes.
+1
+
+Topical Summary
+The order of topics we will cover in the course will follow the broad topical outline below: · Schro¨dinger Equation, 1D and 3D (E&R Ch. 5, 6) · One-electron atoms (E&R Ch. 7, 8) · Multi-electron atoms (E&R Ch. 9, 10 [11]) · Molecules (E&R Ch. 12) · Solids (E&R Ch. 13 [14]) · Nuclear structure/processes (E&R Ch. 15, 16) · Elementary Particles (E&R Ch. 17)
+Honor Code This course is subject to Dartmouth's Honor Code, as described in the 2012 ORC. You may discuss homework problems and laboratory reports with other students, however you must write your homework and reports individually, using your own words. If you do work with others on a homework assignment, you must write a note acknowledging this on the paper you hand in. No collaborative work of any kind is allowed during quizzes and exams. Please ask if you have any questions regarding this policy.
+Disabilities Students with learning, physical, or psychiatric disabilities enrolled in this course that may need accommodations are encouraged to see me before the end of the second week of the term. All discussions will remain confidential, although the Student Accessibility Services office may be consulted to discuss appropriate implementation of any accommodation requested.
+Religious Observances If you have a religious observance that could conflict with your participation in the course, please meet with me before the end of the second week of the term to discuss appropriate accommodations.
+2
+
+

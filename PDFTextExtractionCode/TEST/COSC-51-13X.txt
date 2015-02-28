@@ -1,0 +1,73 @@
+Dartmouth Computer Science COSC 51: Computer Architecture Instructor: Andr´es Molina-Markham
+
+Handout 1 June 21, 2013
+
+Course Information
+
+Instructor:
+
+Andr´es Molina-Markham Sudikoff 240, (603)646­0304, amolina@cs.dartmouth.edu Office Hours: Fridays 2:00­3:00
+
+Teaching Assistant: Keith Carlson Sudikoff 108, cs51@cs.dartmouth.edu Office Hours: Mondays 4:00­5:00
+
+Teaching Assistant: Timothy Pierson Sudikoff 255, cs51@cs.dartmouth.edu Office Hours: Wednesdays 2:00­3:00
+
+Primary email: Web page:
+
+cs52@cs.dartmouth.edu (to the entire course staff) http://cs.dartmouth.edu/~cs51/
+
+1 Overview
+In this course, we study the basics of the architecture and organization of a simple computer system following a bottom-up approach. Some of the topics that we cover include: how information is represented in memory and how machine-language instructions can be implemented at the digital logic level and microcode level. We also cover assembly language programming and the principles of input/output operations. We explore some techniques to improve performance, such as pipelining and caching.
+
+1.1 Intended audience
+This course is intended for undergraduates who have taken an introductory course in programming and computations and an introductory course in scientific computing. We expect that a student taking this course will spend an average of 10 hours per week outside of lecture. However, this workload may vary depending on the student's prior knowledge and on the particular subject that is being covered on a given week.
+
+1.2 Prerequisites
+COSC 1, ENGS 20, or placement through the Advanced Placement exam or the local placement exam.
+
+1.3 Lectures
+Lectures for this course will be held on Mondays, Wednesdays, and Fridays from 12:30 PM to 1:35 PM. The x-period for this course will be held on Tuesdays from 1:00 PM to 1:50 PM. Lectures and x-periods will meet in room 200 of the Life Sciences Center. The material that will be covered in lectures and x-periods will be posted on the web. Students are expected to check regularly, as the calendar will change to accommodate the course needs. Students are also expected to complete the reading assignments (posted on the web) prior to lectures and x-periods.
+
+2 Handout 1: Course Information
+
+1.4 Textbooks and reading
+The textbooks for the course are Introduction to Computing Systems: From Bits &; Gates to C & Beyond (2nd edition) by Yale N. Patt and Sanjay J. Patel and Structured Computer Organization (6th Edition) by Andrew S. Tanenbaum and Todd Austin. There will be readings assigned for each lecture that students are expected to have read before class. There will be a number of short unannounced quizzes that are based on the readings.
+1.5 Questions
+Please email cs52@cs.dartmouth.edu if you have questions (e.g., homework, absences, etc.). By using this staff email address rather than individual staff member email addresses, you will receive a response more quickly by the first available staff member. We will also use a web system called Blackboard that provides communication tools. You are encouraged to use the Discussion Board to post questions so that students can benefit from each other's questions. If you have questions that are better answered in person, feel free to attend office hours.
+
+2 Grading
+Grading will be as follows:
+
+Homework projects Midterms Final exam Participation (including quizzes)
+
+50% 20% 25% 5%
+
+Note: This is subject to change if needed.
+
+2.1 Homework projects
+There will be regular homework assignments, approximately one per week. The assignments will be posted and turned in on the Blackboard site (unless otherwise noted in lecture). Make sure you follow the instructions--posted on Blackboard--for formatting and submission of your homework. We will not accept alternative ways of submitting your work (e.g., emailing your homework will not be accepted). If you have special circumstances that require you to deviate from the posted instructions, you are expected to request permission from the instructor well before the deadline.
+
+2.2 Resources
+This course will use software and resources such as Logisim and LC-3. Links to access these resources as well as instructions on how to use them will be provided on the course Blackboard site. Additional handouts, including lab notes and problem sets will also be posted on the Blackboard site.
+It is the responsibility of students to check that they have appropriate access to this site.
+
+Handout 1: Course Information
+
+3
+
+2.3 Exams
+There are two midterm exams and one final exam. Midterms will be held in-class. The first one is scheduled for Wednesday, July 10 and the second one on a date TBA.
+2.4 Class participation
+Five percent of the course grade will be derived from participation in class and from unannounced quizzes in lecture. The material in the quizzes will be drawn from the reading assignments and previously covered material. There will be no make-up quizzes, rather each student is permitted to drop one.
+3 Policies
+3.1 Lateness
+Each student is granted two "penalty free" late passes for the homework. You need not provide any excuse. A free late means you may turn the homework in up to 24 hours after the deadline without penalty. We are strict about the deadlines (12:01 AM is late). Any late homework beyond your two freebies will earn a grade of zero. A homework assignment cannot be "double delayed" by stacking freebies; at most one late freebie per student per homework is allowed. If you plan to be away during a deadline, you should submit your homework early. In the case of group work, a late team homework would debit a freebie from each group member.
+Use your freebies carefully! If you use them up early in the term, you may find yourself wishing you had held on to them until a more important schedule conflict.
+3.2 Honor Code
+This course adheres to the Dartmouth Honor Code -- as in previous terms: "All work submitted for credit must be your own. You may discuss your homework assignments
+and programming projects with your classmates, the course staff, and the instructor. However, you should write up your own written homework solutions and should not read or copy the solutions written by others (in this or previous terms, at Dartmouth or elsewhere).
+You should also write your own code and not read code written by classmates. The Dartmouth College policy on sources also applies to this course, which means that all sources must be acknowledged, whether allowed by the instructor or not. For example, software given to you by us must be acknowledged when incorporated into your work. (Whether you go into industry or academia or elsewhere, it would be good to get in the habit of keeping track of and citing all your sources anyway!) If you have any questions about the honor code as it relates to COSC 51, please speak with the instructor. Violations of the honor code will be treated seriously." -- (Prof. Sean Smith)
+3.3 Students with Disabilities
+Students with disabilities should discuss with me any appropriate accommodations that I might make on their behalf.
+
+

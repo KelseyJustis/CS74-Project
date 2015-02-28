@@ -1,0 +1,222 @@
+Introduction to Music Theory (Music 20)
+Fall 2014 (Mondays, Wednesdays, and Fridays, 10:00-11:05 a.m.; lab at x-hour, Thursdays, 12:00-12:50 p.m.) Robert Duff, instructor (office: 646-3414; e-mail: Robert.Duff@dartmouth.edu)
+General information 
+This course begins a sequence in harmony and theory and is intended for those who may consider a music major or minor. Topics will include: music notation; interval identification; common-practice scales and modes; harmonic function; melodic construction; and formal analysis. In addition, students will have opportunity to improve skills in rhythmic, melodic and harmonic dictation, sight singing, and score reading. Prerequisite: the ability to read music in two or more clefs or permission of the instructor.
+  Objectives of the Course
+1. Understand the concepts of, and be proficient in writing and recognizing:
+ notes: treble and bass clefs; all accidentals, ledger lines  key signatures: all major and minor  scales: major and all forms of minor; parallel, relative  intervals: simple and compound; perfect, major, minor, diminished, augmented; inversion  triads and seventh chords: all roots, qualities, and inversions; treble, bass clefs and grand staff;
+four-voice keyboard and chorale voicing and various real-music textures; inversion symbols and figured bass  durational symbols: all levels (sizes); various kinds of computations and relationships  meter: all simple and compound time signatures; measure/beat/division/subdivision hierarchy; all duration values for beat  diatonic chords: triads and seventh chords; major and minor keys; Roman numeral symbols  voice leading: voicing; line relations (parallel, similar, contrary, oblique); root position and first inversion  harmonic progression: functions of diatonic chords  cadence types; motives; phrases; phrase groups/periods; double periods
+2. Develop the ability to sing all scale forms, ascending and descending, at a moderate tempo, with letter names and scale degree numbers.
+3. Acquire a technique to sing intervals, ascending and descending, between a perfect unison and a perfect fifth.
+1
+
+4. Acquire a technique for singing at sight diatonic melodies,
+ using tonal orientation,  with good continuity and flow,  with a clear beat and meter at a steady appropriate musical tempo,  involving stepwise motion and intervals from the tonic and dominant triads,  in simple and compound time with rhythms involving division of the beat,  in major and minor keys.
+5. Acquire a technique to perform at sight rhythms,
+ demonstrating a clear understanding of the relationship between measure, beat, and division of the beat,
+ with a steady appropriate musical tempo,  in simple and compound time,  with all durational values as the beat.
+6. Acquire a technique to identify by ear:
+ major and minor scales;  ascending and descending melodic and harmonic intervals, from m2 through P8;  triads of all types;  tonic, subdominant, and dominant functions of triads in major and minor keys;  cadence types.
+7. Acquire a technique to take melodic dictation of diatonic melodies involving
+ stepwise motion and outlines of the tonic and dominant triads,  of up to around twelve or fifteen notes,  with a few to several hearings;  establish an internal sense of tonal orientation.
+8. Acquire a technique to take rhythmic dictation of melodies and rhythm patterns involving
+ simple and compound meters,  division of the beat,  and all note values as the beat;  establish an internal sense of metric organization and rhythmic pattern.
+    Text and materials 
+The required textbook is Stefan Kostka & Dorothy Payne, Tonal Harmony (7th ed.). All readings will be taken from the sixth edition.
+Please be sure that you purchase the correct version of the texts at the Dartmouth bookstore.
+2
+
+You should also bring ample music paper and pencils as well as writing paper for taking notes. (See either the course Canvas website or http://www.musicsheaf.com/ for free music paper.) Reserve materials related to this course can be found in Paddock Library under Music 20 reserve. N.B.: All music assignments must be completed in your own legible hand. You may not use computer programs (e.g., Finale, Sibelius) for your music assignments.
+
+Grades for the work in this course
+
+Your grade will be determined by your performance on the various quizzes and examinations that will occur regularly in this class, on your work in aural theory (lab work), and on your attendance and participation in class.
+
+Quizzes (5 @ 20 pts. each) Midterm and final examinations (2 @ 100 pts. each) Keyboard examinations (3 @ 50 pts. each) Musicianship Training (= x-hour, weekly assignments) Final Composition Project
+(75 points for composition, 25 for performance) Class attendance, participation, homework
+
+100pts. 200 pts. 150 pts. 300 pts. 100 pts.
+75 pts.
+
+Quizzes will be administered at the beginning of each class session indicated. Failure to arrive within five minutes of the beginning of a class session disqualifies you from taking the quiz administered on that day.
+Two unexcused absences are allowed. A third unexcused absence will reduce the attendance/participation total to 60 pts. possible. A fourth unexcused absence will reduce the attendance/participation total to 30 pts. possible. After five or more unexcused absences, no points will be given for attendance and participation. N.B.: This attendance policy includes the mandatory weekly x-hour lab.
+Letter grades are not assigned until the day I submit grades to the registrar. What I do is to look at the point distribution for the entire class, look for natural break points in that distribution, and assign grades accordingly. As the class progresses, I will hand out point distributions at various times, so that students can gauge their performance relative to their peers and see where the break points appear at that particular time. Students should keep in mind that the points set aside for class attendance and participation are not added until the day I submit grades to the registrar, and thus students who choose not to attend or participate in class may need to do better on all other assignments to compensate for their choice.
+
+A note about the Assignments
+All reading and listening assignments are to be completed by the class hour on the day listed, regardless of any changes in topics. Quizzes, exams, and assignments similarly are due in class on the day listed.
+  The course website 
+Nearly all of the documents that you will need for the course -- including audio and .pdf files for the midterm -- will be posted on our course's Canvas website (accessible through the main Dartmouth screen). Once you have logged in successfully, you will find a link to the website for Music 20. All students
+3
+
+should access the website before the second meeting of the course to insure that they can in fact gain access to the website. I recommend you check at the Student Computer Help Desk if you have difficulties logging into Canvas. Anyone who has difficulty in accessing the website should contact me to be sure that they have been enrolled as a valid student in this course.
+Office Hours 
+My office is around the corner from Faulkner (Hop 46). Regular office hours are Mondays, Wednesdays and Fridays, 11:15-12:30 and Tuesdays, 9:00-11:30a.m. While I hope to be in my office during these times, it is best to contact me via email before you drop by. If you cannot meet during these times, we can schedule an appointment that is mutually convenient. I will answer your email in as timely a fashion as I can. And I encourage you to seek me out if you are having difficulty, or if you just want to talk. I am looking forward to learning with you.
+4
+
+Date 9/15 9/17 9/19
+9/22 9/24 9/26
+9/29 10/1 10/3 10/6 10/8
+10/10
+
+Music 20 -- Harmony and Theory I
+
+All reading assignments are from Stefan Kostka & Dorothy Payne, Tonal Harmony (7th ed.)
+
+Lecture Topic
+
+Reading
+
+Assignment
+
+Week 1
+
+Course introduction, and introduction to
+
+pitch and time;
+
+Homework Assignments and Quizzes
+
+Elements of pitch, staffs and clefs, intervals ix-xii; ch. 1 and accidentals Introduction to rhythm and musical time; conducting patterns; duration and meter; time signatures, triplets and duplets; rhythmic displacement
+Week 2 Orthography, the grand staff; scales (diatonic ch. 2 and chromatic); scale degrees; key signatures; intervals (names, inversions, and their compounds)
+relative and parallel keys; the circle of fifths ch. 3
+
+Log into course Canvas Assignment 1: Elements of Pitch
+Assignment 2: Intervals & Rhythm Assignment 3: Triads and Seventh Chords
+
+Week 3
+
+triads (components, types, positions and
+
+ch. 4
+
+inversions); Ramellian analysis; the role of the
+
+dominant; compound intervals
+
+QUIZ #1 Assignment 4: Figured Bass
+
+Harmonic Rhythm
+
+ch. 5 & 7
+
+Week 4
+
+Basic functional harmony
+
+Ch. 8
+
+the dominant seventh chord; identifying
+
+ch. 9 & 13
+
+chords in musical pieces;
+
+Assignment 5: Voice Leading
+triads, open & closed positions
+Assignment 6: Triads and First Inversion Chords Assignment 7: Harmonic Progressions
+
+Keyboard Exam #1 including all major and harmonic minor scales, one octave, hands alone, in all keys through four sharps and four flats.
+
+5
+
+10/13
+10/15 10/17 10/20 10/22 10/24 10/27 10/29 10/31
+11/3
+11/5 11/7
+11/10 11/12 11/14
+
+Week 5
+
+Identifying chords in musical pieces; standard ch. 10, 14 &
+
+progressions (sequences);
+
+15
+
+cadential formulas
+
+Voice Leading and Part Writing
+
+QUIZ #2 Assignment 8: 3-part writing
+
+Week 6
+
+The Neopolitan Sixth
+
+ch. 21 & 22 QUIZ #3
+
+In-class x-hour and midterm review
+
+Assignment 9: Mode Mixture
+
+MIDTERM EXAMINATION
+
+Week 7
+
+non-harmonic tones; phrase structure;
+
+ch. 11 & 12; 16 & 17
+
+secondary functions; modulation
+
+augmented sixth chords; motive, phrase,
+
+ch. 23 & 24
+
+Assignment 10:
+
+period, section and piece;
+
+Secondary Dominants
+
+Week 8
+
+Assignment 11:
+
+Composition Blue Prints
+
+Formal structures in Western music: Sonata form, binary and ternary forms, strophic and variation settings
+
+Keyboard Exam #2; will include major and harmonic minor scales, two octaves, hands alone, in all keys through five sharps and five flats.
+QUIZ #4
+
+Week 9
+
+formal structures in Western music (cont.); ch. 18 & 20, and ch.
+
+free composition
+
+28, pp. 495-500
+
+(beginning)
+
+Diatonic Modes and Other Scales
+
+QUIZ #5
+
+11/17
+11/25 8:0011:00a.m.
+
+FINAL
+
+COMPOSITIONS
+
+DUE BY 5pm; N.B.:
+
+late submissions will
+
+not be accepted
+
+Week 10
+
+Last Class: Final Examination Review
+
+Ch. 30, pp. 541-568
+
+FINAL EXAM (including Keyboard Exam #3) The Keyboard Exam will include the chord
+
+progression I V6 I (i V6 i), hands alone, in all keys through five sharps and five flats.
+
+6
+
+

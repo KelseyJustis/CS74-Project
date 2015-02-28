@@ -1,0 +1,254 @@
+Music 009: Music and Technology 2A 
+
+(PAGE 1/5)    This class explores the interdisciplinary nature of sound and music outside of conventional  performance spaces. The course will introduce concepts and technologies relating to mixed  media, such as siteadaptive sound art, sound installations using GPS and smartphones,  performance art, intervention, and sound ecology. Emphasis will be placed on thinking about  music in new ways, and students will be expected to participate in the design, fabrication, and  installation of their final projects as part of their course requirement.    Dist: TAS: S. Topel 
+
+FAULKNER (music department) 
+
+ 
+
+ 
+
+Learning Outcomes: At the end of this course you will be able to: 
+
+1. Use a laptop as a musical instrument. 
+
+2. Acquire basic music and digital audio fundamentals. 
+
+3. Program / produce music using AbletonLive, Audacity, and Auxiliary Audio Software. 
+
+4. Understand concepts pertaining to playlist organization, DJ'ing, and curation. 
+
+5. Perform original electronic music works as an ensemble. 
+
+ 
+
+ 
+
+ 
+
+Assessment 
+
+1. Class Participation
+
+  10% 
+
+2. Foundations and fundamentals quiz week 2
+
+10% 
+
+3. 6 x weekly lab assignments @ 5% each
+
+ 30% 
+
+4. 2 x music production assignments
+
+ 20% 
+
+5. Laptop ensemble piece and performance (group)
+
+   30% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+Music 009: Music and Technology 12F: 2A 
+(PAGE 2/5)    Required Texts IMPORTANT  Ableton LIVE Intro is the de facto textbook for this course. It is critical that you get this software  installed, purchased, and operating properly within the first week of class since the majority of  labs, production, and performance will happen using this program. That said, this course is not  about LIVE, but about sound design! You will be responsible for learning to master the tools  within this program as it relates to musical problems and questions. If you require additional help  with this program beyond what can be provided by T.A.'s, office hours, or online tutorials, then  you should consider carefully whether this course is appropriate for you or not. Finally, the  XHours are mandatory as the first few weeks we will cover concepts in the  production/performance using this and other software.    Attendance  As mentioned above, 10% of your grade will comprise attendance and participation. Please  note: more than three absences from class or one absence from a design critique day, (see  below,) will result in a zero! Since this class involves performance practice, it is vitally important  that you are present and engaged with the tasks and materials.    Laptop Policy  There will be both appropriate and inappropriate times when you should be using your laptop.  Certain sections of lectures and discussions may require all or some laptops to be closed, i.e.  not in use.                                     
+
+ 
+Music 009: Music and Technology 12F: 2A 
+ 
+(PAGE 3/5)    Statement on Physically and Learning Disabled Students  Students with disabilities enrolled in this course who may need disabilityrelated classroom  accommodations are encouraged to make an appointment to see me before the second week of  the term. All discussions will remain confidential, although the Student Accessibility Services  office may be consulted to discuss appropriate implementation of an accommodation requested.    Student Religious Observances  Some students may wish to take part in religious observances that occur during this academic  term. If you have a religious observance that conflicts with your participation in the course,  please meet with me before the end of the second week of the term to discuss appropriate  accommodations.    Office Hours  Office hours are TBA, according to student's schedules. I strongly recommend setting an  appointment on Google calendar, (link on Blackboard and in email,) in advance, because I may  or may not be in my office otherwise. This method guarantees that we will see each other. My  office is on the first floor of Hallgarten Hall. Hallgarten is between New Hampshire and Topliff  dorms. Please ring the doorbell when as it remains locked at all times.    Honor Principle  It is generally assumed that you adhere to Dartmouth College's Academic Honor policy outlined  in the ORC. This means that you must acknowledge sourcesin any formatwhether it be  audio samples, written text, etc. Furthermore, given the collaborative nature of an ensemble, you  may be asked at the end of the course to provide a statement of contribution to the final  collaborative project, which may impact your final grade. Failure to accurately report your  sources and contributions may result in serious academic action by the Associate Dean of  Students. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  Music 009: Music and Technology 12F: 2A 
+(PAGE 4/5)   
+week 1.     09/11    Fundamentals 1 
+
+Assignments/Labs 
+
+ TUE: Your laptop as a musical instrument: i/o, primary modes of  interaction/enaction, live sound processing, soundfiles, basic formats. 
+   No XHour 
+   THU: sampling, fidelity, context, digital vs. analog, audio signal basics 
+ 
+
+Reading:     Miller Puckette:  "Theory and  Techniques of  Electronic Music"  Sinusoids, amplitude,  and frequency    Thurs: Lab 1 OUT 
+
+week 2 .    09/18     Fundamentals 2 
+
+ 
+
+ TUE: fundamental synthesis methods and filtering in live contexts. 
+
+Wed: Lab 1 DUE 
+
+           Lab 2 OUT 
+
+ WED: Lab: Controlling Synthesis, resynthesis, and processing in LIVE.  Puckette: Classical 
+
+  Waveforms, Filters: 
+
+ THU: QUIZ FUNDAMENTALS. Lecture: aspects of pitch and rhythm,  Taxonomy of Filters 
+
+and related organization methods. 
+
+ 
+
+week 3.    09/25     Music Design 1 
+
+ 
+
+ TUE: QUIZ FUNDAMENTALS. Lecture: aspects of pitch and rhythm,  and related organization methods. 
+   WED: Lab: Extended synthesis techniques, sidechaining, FM  synthesis, and other techniques. 
+   THU: Lecture: aspects of pitch and rhythm, and related organization  methods (cont.) Motive, harmonic structure, automata and texture. 
+
+Wed: Lab 2 DUE           Lab 3 OUT 
+
+week 4.    10/02      Music Design 2 
+
+ 
+
+ TUE: The laptop as an ensemble: Pieces in review. Rhythm: designing  Wed: Lab 3 DUE 
+
+beats, using MIDI vs. Audio, drum machines.  
+
+         Lab 4 OUT 
+
+ 
+
+ WED: Lab: Ableton: Impulse: working with beats, tempo, grooves, and 
+
+loops. 
+
+ 
+
+ THU: Birth of the Remix: Designing Your Experience. 
+
+week 5.   10/09      Music Design 3 
+
+ 
+
+ TUE: GUEST LECTURE Musical form, song forms, phrase structure,  beginnings and endings. 
+   WED: Lab: Ableton: Manipulation of Clips, scenes, cues, etc.  
+ 
+
+Wed: Lab 4 DUE           Lab 5 OUT  Tue: ASSIGNMENT 1:  OUT: Building blocks:  defining your 
+
+ THU: GUEST LECTURE Copyright and the (il)legality of Remixing.  
+  
+
+soundworld.   
+
+Music 009: Music and Technology 12F: 2A 
+(PAGE 5/5)   
+week 6.     10/16      Music Production 1   
+
+Assignments/Labs 
+
+ TUE: The Anatomy of a musical space: Foreground, Middleground, and  WED: Lab 5 DUE 
+
+Background.  
+
+          Lab 6 OUT 
+
+  
+
+ WED: Lab: Macrocontrol of your mix: Production basics. 
+
+ 
+
+ THU: Acoustic Ecology: A Musical Work as an Environment. 
+
+week 7.    10/23      Music Production 2 
+
+ 
+
+ TUE: Laptop orchestras background, SLORK, PLORK, assignment of  Tue: ASSIGNMENT 1: 
+
+laptop ensemble groups. 
+
+DUE 
+
+  Tue: ASSIGNMENT 2: 
+
+ WED: Employing Ableton LIVE for laptop ensembles. Hardware setup.  OUT: Using Ableton 
+
+  Live for group music 
+
+ THU: Improvisation and performance strategies: Paula Matthusen's 
+
+performance 
+
+Lathyrus and other works.  
+
+ 
+
+WED: Lab 6 DUE 
+
+          Lab 7 OUT 
+
+week 8.    10/30       Laptop Ensembles 1 
+
+ 
+
+ TUE: Laptop ensemble continued: roles and interactions.   
+ WED: Using Ablelont LIVE for laptop ensembles. Performance  Strategies. 
+   THU: Materials, form, and structure. Project updates 
+
+WED: Lab 7 DUE    Laptop ensemble  development and  rehearsals   
+
+week 9.    11/06       Laptop Ensembles 2 
+
+ 
+
+ TUE: Project updates: Description/playthrough of works in progress.    NO XHOUR   
+ THU: Inclass group laptop ensemble show and tell. Evaluation of  technology, sound quality, performance clarity, and musical ideas. 
+
+Laptop ensemble  development and  rehearsals   
+
+10.    11/13    Laptop Ensemble Performance 
+
+ 
+
+ TUE: Student performances of Laptop Ensembles   photo and video documentation     
+  
+
+   ASSIGNMENT 2:  Project writeups with   contributions and  FINAL Laptop  Ensemble  performances    
+
+

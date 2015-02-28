@@ -19,6 +19,7 @@ function [median, parserIndex] = getMedian(file_name, medians, classes, term)
     ind=find(ismember(term,nameSplit{1, 3}));
     
     found = 0;
+    parserIndex = -1;
     for i = ind.'
         if strcmp(classes{i, 1}, reform)
            letterGrade = medians{i, 1};
