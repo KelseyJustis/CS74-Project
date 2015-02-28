@@ -1,3 +1,4 @@
+
 %% Check overlap of words of interest in syllabus vocab
     wordOfInterestInSyllabus = ismember(WordsOfInterestVocab,fileVocab); % binary list of which words of interest are present (1 if present, 0 if not)
     sum(wordOfInterestInSyllabus); %tells how many words are shared between both files

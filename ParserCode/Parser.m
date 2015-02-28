@@ -33,6 +33,7 @@ numOfFeatures = 8;
 numOfCourses = length(folderOfSyllabiTxtFiles);
 X = cell(numOfCourses,numOfFeatures);
 Y = zeros(numOfCourses,1);
+
 % Loop over each syllabus text file
 for fileNumber = 1:numOfCourses
    CurrCourseFileName = folderOfSyllabiTxtFiles(fileNumber).name;
