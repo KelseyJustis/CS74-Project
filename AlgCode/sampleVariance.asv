@@ -1,8 +1,0 @@
-function [err] = sampleVariance(Y)
-mean = sum(Y)/;
-err = 0;
-for i=1:Y
-    err = err + (mean-Y(i))^2;
-end
-end
-

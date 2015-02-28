@@ -19,16 +19,18 @@ function [median, parserIndex] = getMedian(file_name, medians, classes, term)
     ind=find(ismember(term,nameSplit{1, 3}));
     
     found = 0;
+    parserIndex = -1;
     for i = ind.'
         if strcmp(classes{i, 1}, reform)
            letterGrade = medians{i, 1};
            letterGrade = letterGrade(~isspace(letterGrade));
            [~, j] = ismember(letterGrade, letterGrades);
            
-            median = letterToGPA(1, j);      
-            found = 1;
+           median = letterToGPA(1, j);      
+           found = 1;
+           parserIndex = i;     
         end
-        parserIndex = i;
+       
     end
     if found == 0
        disp(file_name);
