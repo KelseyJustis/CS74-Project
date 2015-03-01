@@ -9,7 +9,7 @@ function [numOfFeatureVocabWords, featureFileVocab] = getFeatureTextInfo(feature
         featureFileContent{1,1}{featureWord,1}(ind)=[];
     end
 
-    %% Remove words with zero characters
+    %% Remove blank space in words
     for featureWord = 1:featureWordListSize
         if size(featureFileContent{1,1}{featureWord,1}, 2) == 0
             featureFileContent{1,1}{featureWord,1} = ' ';
