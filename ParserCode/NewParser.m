@@ -19,6 +19,7 @@
 %     X(:,7) := Number Of Testing Words (?quizzes,? ?tests,? ?exams,? ?etc.?)
 %     X(:,8) := Binary; labs are mentioned (1 if present; 0 if not)
 %     X(:,9) := Percent sign frequency
+%     X(:10) := Binary; projects are mentioned (1 if present; 0 if not)
 %
 %  Y: a matrix [m x 1], with each row containing a different course median
 %  grade:
@@ -48,12 +49,16 @@ testWordsFileID = fopen('../OutsideVocabDatabases/testingWords.txt', 'r');
 labWordsFileID = fopen('../OutsideVocabDatabases/labWords.txt', 'r');
 [labWordCount, labWordsVocab] = getFeatureTextInfo(labWordsFileID);
 
+% Project words prep work
+projectWordsFileID = fopen('../OutsideVocabDatabases/projectWords.txt', 'r');
+[projectWordCount, projectWordsVocab] = getFeatureTextInfo(projectWordsFileID);
+
 % Loop over each syllabus text file
-for fileNumber = 1:numOfCourses
+for fileNumber = 159:numOfCourses
   %% Get course syllabus information
   CurrSyllabusFileName = folderOfSyllabiTxtFiles(fileNumber).name;
   CurrSyllabusFileID = fopen(['../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/'  CurrSyllabusFileName], 'r');
-  courseName = char(CurrSyllabusFileName(1:end-4)); % remove .txt extension to get the course name
+  courseName = CurrSyllabusFileName(1:end-4); % remove .txt extension to get the course name
   courseNameSplit = strsplit(courseName, '-'); 
   courseDept = char(courseNameSplit(1, 1)); % get the course department
   courseNum = str2double(courseNameSplit(1, 2));  % get the course number
@@ -84,6 +89,10 @@ for fileNumber = 1:numOfCourses
   [numOfLabWords, LabWordsPresent, LabWordFrequency, IndividualLabWordFrequency] = compareFileContent(labWordsVocab, syllabusVocab, syllabusWordDistribution);  
   labWordPresent = (numOfLabWords >0);
   
+  % Project words
+  [numOfProjectWords, ProjectWordsPresent, ProjectWordFrequency, IndividualProjectWordFrequency] = compareFileContent(projectWordsVocab, syllabusVocab, syllabusWordDistribution);  
+  projectWordPresent = (numOfProjectWords >0);
+  
   percentSignFreq=0;
   X{fileNumber,1} = courseDept;
   X{fileNumber,2} = courseName;
@@ -94,6 +103,8 @@ for fileNumber = 1:numOfCourses
   X{fileNumber,7} = numOfTestWords;
   X{fileNumber,8} = labWordPresent;
   X{fileNumber,9} = percentSignFreq;
+  X{fileNumber,10} = projectWordPresent;
+  
   save('courseFeaturesData','X');
   fclose('all');
 end

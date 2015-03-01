@@ -1,1 +1,1 @@
-quiz,quizzes,test,tests,exam,exams,final,testing,examination,essay,essays,homework,home work,
+quiz,quizzes,test,tests,exam,exams,midterm,final,testing,examination,essay,essays,homework,home work,
