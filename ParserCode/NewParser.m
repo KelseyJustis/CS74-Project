@@ -26,7 +26,7 @@
 %     Y(:,1) = courseMedian
 
 addpath('../PDFTextExtractionCode')
-regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
+regristrarCourseData = '../PDFTextExtractionCode/MedianGrades.csv';
 [term, classes, enrollment, medians] = getCourseData(regristrarCourseData);
 
 %Folder of converted syllabi files from pdf to text format.
