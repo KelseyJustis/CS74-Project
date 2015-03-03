@@ -1,4 +1,3 @@
-% Cite her: http://www.mathworks.com/matlabcentral/fileexchange/19505-wordcount/content/wordcount.m
 %% Program Description
 % Program takes in formatted data and syllabus .txt files and out put
 % matrices with features specified to be used with ML algorithims.
