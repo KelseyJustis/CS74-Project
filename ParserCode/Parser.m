@@ -9,119 +9,106 @@
 %  X: a matrix [m x n], with each row containing a different course's features and
 %  each column a different feature:
 % 
-%     X(fileNumber,feature) := feature for given syllabus file 
-%     X(:,1) := Course Name
-%     X(:,2) := Course Number
-%     X(:,3) := Total Number Of Words In Course Syllabus
+%     X(fileNumber,feature) := feature for given syllabus file
+%     X(:,1) := Department
+%     X(:,2) := Course Name
+%     X(:,3) := Course Number
 %     X(:,4) := Course Enrollment
-%     X(:,5) := Number Of Negative Words
-%     X(:,6) := Number of time mentioning specific words of interest such as lab,
-%               homework,etc.
-%     X(:,7) := Percent sign frequency
+%     X(:,5) := Total Number Of Words In Course Syllabus
+%     X(:,6) := Number Of Negative Words (?No?, ?Nothing?, ?Never?, ?Not?)
+%     X(:,7) := Number Of Testing Words (?quizzes,? ?tests,? ?exams,? ?etc.?)
+%     X(:,8) := Binary; labs are mentioned (1 if present; 0 if not)
+%     X(:,9) := Percent sign frequency
+%     X(:10) := Binary; projects are mentioned (1 if present; 0 if not)
 %
 %  Y: a matrix [m x 1], with each row containing a different course median
 %  grade:
 %     Y(:,1) = courseMedian
+fprintf(['Retrieving registrar course data.\n'])
 
 addpath('../PDFTextExtractionCode')
-regristrarCourseData = '../PDFTextExtractionCode/TEST/MedianGrades.csv';
+regristrarCourseData = '../PDFTextExtractionCode/MedianGrades.csv';
 [term, classes, enrollment, medians] = getCourseData(regristrarCourseData);
+fprintf(['Registrar course data retrieved.\n\n'])
 
 %Folder of converted syllabi files from pdf to text format.
 folderOfSyllabiTxtFiles = dir('../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/*.txt');
-numOfFeatures = 8;
-numOfCourses = length(folderOfSyllabiTxtFiles);
+numOfFeatures = 9;
+numOfCourses =  length(folderOfSyllabiTxtFiles);
 X = cell(numOfCourses,numOfFeatures);
 Y = zeros(numOfCourses,1);
 
+%% Word lists prep work
+fprintf(['Compiling feature word dictionaries.\n'])
+% Negative words prep work
+negWordsFileID = fopen('../OutsideVocabDatabases/negativeWords.txt', 'r');
+[negWordCount, negWordsVocab] = getFeatureTextInfo(negWordsFileID);
+% Test words prep work
+testWordsFileID = fopen('../OutsideVocabDatabases/testingWords.txt', 'r');
+[testWordCount, testWordsVocab] = getFeatureTextInfo(testWordsFileID);
+% Lab words prep work
+labWordsFileID = fopen('../OutsideVocabDatabases/labWords.txt', 'r');
+[labWordCount, labWordsVocab] = getFeatureTextInfo(labWordsFileID);
+% Project words prep work
+projectWordsFileID = fopen('../OutsideVocabDatabases/projectWords.txt', 'r');
+[projectWordCount, projectWordsVocab] = getFeatureTextInfo(projectWordsFileID);
+fprintf(['Feature word dictionaries compiled.\n\n'])
+
+fprintf(['Parsing process initialized.\n'])
 % Loop over each syllabus text file
 for fileNumber = 1:numOfCourses
-   CurrCourseFileName = folderOfSyllabiTxtFiles(fileNumber).name;
-   CurrSyllabusTextFile = fopen(['../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/'  CurrCourseFileName], 'r');
-   courseName = char(CurrCourseFileName(1:end-4)); % remove .txt extension to get the course name
-   courseNameSplit = strsplit(courseName, '-'); 
-   courseDept = str2double(courseNameSplit(1, 1)); % get the course department
-   courseNum = str2double(courseNameSplit(1, 2)); % get the course number
-   [courseMedian, regristrarCourseDataIndex]  = getMedian(char(CurrCourseFileName),medians,classes,term); %get corresponding medain grade for course
-   courseEnrollment = enrollment{regristrarCourseDataIndex, 1};
-   if (courseMedian == -1)
+  fprintf(['...Parsing file ' num2str(fileNumber) '/' num2str(numOfCourses) ' (Process ' sprintf('%.1f%s', fileNumber*100/numOfCourses) '%% complete)...' '\n']);
+  %% Get course syllabus information
+  CurrSyllabusFileName = folderOfSyllabiTxtFiles(fileNumber).name;
+  CurrSyllabusFileID = fopen(['../PDFTextExtractionCode/TEST/TEST/SyllabiTxtFiles/'  CurrSyllabusFileName], 'r');
+  courseName = CurrSyllabusFileName(1:end-4); % remove .txt extension to get the course name
+  courseNameSplit = strsplit(courseName, '-'); 
+  courseDept = char(courseNameSplit(1, 1)); % get the course department
+  courseNum = str2double(courseNameSplit(1, 2));  % get the course number
+  [courseMedian, regristrarCourseDataIndex]  = getMedian(char(CurrSyllabusFileName),medians,classes,term); %get corresponding medain grade for course
+  courseEnrollment = enrollment{regristrarCourseDataIndex}; % get the course enrollement 
+  
+  % If no data found for course median
+  if (courseMedian == -1)
        courseMedian = 0;
        courseEnrollment = 0;
-   end
-   Y(fileNumber) = courseMedian;
-   save('mediansData','Y'); % save a data matrix for median grades
+  end
+  
+  % save a data matrix for median grades
+  Y(fileNumber) = courseMedian;
+  save('mediansData','Y');
 
-   CurrSylabusWords = textscan(CurrSyllabusTextFile, '%s');
-   
-   negWordsTextFile = fopen('../OutsideVocabDatabases/negativeWords.txt', 'r');
-   negWords = textscan(negWordsTextFile,'%s','delimiter',',');
-   
-   %% Words of interest prep work
-    % Get rid of all the characters that are not letters or numbers in WordsOfInterest file.
-    for Word=1:numel(negWords{1,1})
-        ind = find(isstrprop(negWords{1,1}{Word,1}, 'alphanum') == 0);
-        negWords{1,1}{Word,1}(ind)=[];
-    end
+  % Syllabus words prep work
+  [syllabusWordCount, syllabusVocab, syllabusWordDistribution] = getSyllabiTextInfo(CurrSyllabusFileID);
 
-    % Remove words that have zero characters in WordsOfInterest file.
-    for Word = 1:numel(negWords{1,1})
-        if size(negWords{1,1}{Word,1}, 2) == 0
-            negWords{1,1}{Word,1} = ' ';
-        end
-    end
-    
-    negWordsVocab = unique(negWords{1,1}); % list of unique words used in the words of interest text file
-    
-    %% Syllabus prep work
-    percentSignFreq =  0;
-    % Get rid of all the characters that are not letters or numbers
-    for Word=1:numel(CurrSylabusWords{1,1})
-        percentSignFreq =  percentSignFreq + length(strfind(CurrSylabusWords{1,1}{Word,1},'%'));
-        ind = find(isstrprop(CurrSylabusWords{1,1}{Word,1}, 'alphanum') == 0);
-        CurrSylabusWords{1,1}{Word,1}(ind)=[];
-    end
-
-    % Remove words that have zero characters
-    for Word = 1:numel(CurrSylabusWords{1,1})
-        if size(CurrSylabusWords{1,1}{Word,1}, 2) == 0
-            CurrSylabusWords{1,1}{Word,1} = ' ';
-        end
-    end
-    
-    syllabusVocab = unique(CurrSylabusWords{1,1});
-    
-    %% Now count the number of times a negative word is used in the syllabus
-    negWordFreq = zeros(numel(negWordsVocab), 1);
-    labWordFreq = 0;
-    noExceptionsFreq =0;
-    for Word = 1:numel(negWordsVocab)
-        if max(negWordsVocab{Word} ~= ' ')
-            for j = 1:numel(CurrSylabusWords{1,1})
-                if strcmpi(CurrSylabusWords{1,1}(j), negWordsVocab{Word})
-                    negWordFreq(Word) = negWordFreq(Word) + 1;
-                end
-                
-                % count the number of times lab or Lab is used in the syllabus
-                if strcmpi(CurrSylabusWords{1,1}(j), 'lab')
-                    labWordFreq = labWordFreq + 1;
-                end
-                if strcmpi(CurrSylabusWords{1,1}(j), 'labs')
-                    labWordFreq = labWordFreq + 1;
-                end
-            end
-        end
-    end
-  numOfNegWords = sum(negWordFreq);
-
-  totNumOfWordsInSyllabus = numel(CurrSylabusWords{1,1}); 
-  X{fileNumber,1} = courseName;
-  X{fileNumber,2} = courseNum;
-  X{fileNumber,3} = totNumOfWordsInSyllabus;
+  %% Analyze the syllabus with respect to various word lists
+  % Negative words
+  [numOfNegWords, NegWordsPresent, NegWordFrequency, IndividualNegWordFrequency] = compareFileContent(negWordsVocab, syllabusVocab, syllabusWordDistribution);  
+  
+  % Test words
+  [numOfTestWords, TestWordsPresent, TestWordFrequency, IndividualTestWordFrequency] = compareFileContent(testWordsVocab, syllabusVocab, syllabusWordDistribution);  
+  
+  % Lab words
+  [numOfLabWords, LabWordsPresent, LabWordFrequency, IndividualLabWordFrequency] = compareFileContent(labWordsVocab, syllabusVocab, syllabusWordDistribution);  
+  labWordPresent = (numOfLabWords >0);
+  
+  % Project words
+  [numOfProjectWords, ProjectWordsPresent, ProjectWordFrequency, IndividualProjectWordFrequency] = compareFileContent(projectWordsVocab, syllabusVocab, syllabusWordDistribution);  
+  projectWordPresent = (numOfProjectWords >0);
+  
+  percentSignFreq=0;
+  X{fileNumber,1} = courseDept;
+  X{fileNumber,2} = courseName;
+  X{fileNumber,3} = courseNum;
   X{fileNumber,4} = courseEnrollment;
-  X{fileNumber,5} = numOfNegWords;
-  X{fileNumber,6} = labWordFreq;
-  X{fileNumber,7} = percentSignFreq;
-  X{fileNumber,8} = noExceptionsFreq;
+  X{fileNumber,5} = syllabusWordCount;
+  X{fileNumber,6} = numOfNegWords;
+  X{fileNumber,7} = numOfTestWords;
+  X{fileNumber,8} = labWordPresent;
+  X{fileNumber,9} = percentSignFreq;
+  X{fileNumber,10} = projectWordPresent;
+  
   save('courseFeaturesData','X');
   fclose('all');
 end
+fprintf('Parsing of all files complete.')
