@@ -14,11 +14,14 @@
 %     X(:,3) := Course Number
 %     X(:,4) := Course Enrollment
 %     X(:,5) := Total Number Of Words In Course Syllabus
-%     X(:,6) := Number Of Negative Words (?No?, ?Nothing?, ?Never?, ?Not?)
-%     X(:,7) := Number Of Testing Words (?quizzes,? ?tests,? ?exams,? ?etc.?)
+%     X(:,6) := Number Of Negative Words (No, Nothing, Never, Not)
+%     X(:,7) := Number Of Testing Words (quizzes,tests,exams,etc.?)
 %     X(:,8) := Binary; labs are mentioned (1 if present; 0 if not)
 %     X(:,9) := Percent sign frequency
 %     X(:10) := Binary; projects are mentioned (1 if present; 0 if not)
+%     X(:,11):= Number Of homework Words (problemset,essays, homework,etc.?)
+%     X(:,12):= Number Of I how much prof says I
+%     X(:,13):= Number Of you how much prof says you
 %
 %  Y: a matrix [m x 1], with each row containing a different course median
 %  grade:
@@ -51,6 +54,17 @@ labWordsFileID = fopen('../OutsideVocabDatabases/labWords.txt', 'r');
 % Project words prep work
 projectWordsFileID = fopen('../OutsideVocabDatabases/projectWords.txt', 'r');
 [projectWordCount, projectWordsVocab] = getFeatureTextInfo(projectWordsFileID);
+% Homework words prep work
+homeworkWordsFileID = fopen('../OutsideVocabDatabases/homeworkWords.txt', 'r');
+[homeworkWordCount, homeworkWordsVocab] = getFeatureTextInfo(homeworkWordsFileID);
+% I words prep work
+IWordsFileID = fopen('../OutsideVocabDatabases/IWords.txt', 'r');
+[IWordCount, IWordsVocab] = getFeatureTextInfo(IWordsFileID);
+% you words prep work
+youWordsFileID = fopen('../OutsideVocabDatabases/youWords.txt', 'r');
+[youWordCount, youWordsVocab] = getFeatureTextInfo(youWordsFileID);
+
+
 fprintf(['Feature word dictionaries compiled.\n\n'])
 
 fprintf(['Parsing process initialized.\n'])
@@ -78,7 +92,7 @@ for fileNumber = 1:numOfCourses
   save('mediansData','Y');
 
   % Syllabus words prep work
-  [syllabusWordCount, syllabusVocab, syllabusWordDistribution] = getSyllabiTextInfo(CurrSyllabusFileID);
+  [syllabusWordCount, syllabusVocab, syllabusWordDistribution,percentSignFreq] = getSyllabiTextInfo(CurrSyllabusFileID);
 
   %% Analyze the syllabus with respect to various word lists
   % Negative words
@@ -94,18 +108,28 @@ for fileNumber = 1:numOfCourses
   % Project words
   [numOfProjectWords, ProjectWordsPresent, ProjectWordFrequency, IndividualProjectWordFrequency] = compareFileContent(projectWordsVocab, syllabusVocab, syllabusWordDistribution);  
   projectWordPresent = (numOfProjectWords >0);
+   % Homework words
+  [numOfHomeworkWords, HomeworkWordsPresent, HomeworkWordFrequency, IndividualHomeworkWordFrequency] = compareFileContent(homeworkWordsVocab, syllabusVocab, syllabusWordDistribution);  
+   % I words
+  [numOfIWords, IWordsPresent, IWordFrequency, IndividualIWordFrequency] = compareFileContent(IWordsVocab, syllabusVocab, syllabusWordDistribution);  
+  % you words
+  [numOfYouWords, youWordsPresent, youWordFrequency, IndividualYouWordFrequency] = compareFileContent(youWordsVocab, syllabusVocab, syllabusWordDistribution);  
   
-  percentSignFreq=0;
   X{fileNumber,1} = courseDept;
   X{fileNumber,2} = courseName;
   X{fileNumber,3} = courseNum;
   X{fileNumber,4} = courseEnrollment;
   X{fileNumber,5} = syllabusWordCount;
-  X{fileNumber,6} = numOfNegWords;
+  X{fileNumber,6} = NegWordFrequency;
   X{fileNumber,7} = numOfTestWords;
   X{fileNumber,8} = labWordPresent;
   X{fileNumber,9} = percentSignFreq;
   X{fileNumber,10} = projectWordPresent;
+  X{fileNumber,11} = HomeworkWordFrequency;
+  X{fileNumber,12} = IWordFrequency;
+  X{fileNumber,13} = youWordFrequency;
+ 
+  
   
   save('courseFeaturesData','X');
   fclose('all');

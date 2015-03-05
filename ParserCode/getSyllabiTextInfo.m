@@ -1,10 +1,15 @@
-function [syllabusWordCount, syllabusVocab, syllabusWordDistribution] = getSyllabiTextInfo(syllabusFileID)
+function [syllabusWordCount, syllabusVocab, syllabusWordDistribution, percentSignFreq] = getSyllabiTextInfo(syllabusFileID)
     %% Get file Content
     syllabusContent = textscan(syllabusFileID, '%s');
     syllabusWordCount = numel(syllabusContent{1,1});
+    percentSignFreq =  0;
 
     %% Get rid of all the characters that are not letters or numbers
     for syllabusWord=1:syllabusWordCount
+        percentSignFreq =  percentSignFreq + length(strfind(syllabusContent{1,1}{syllabusWord,1},'%'));
+        percentSignFreq =  percentSignFreq + length(strfind(syllabusContent{1,1}{syllabusWord,1},'percent'));
+        percentSignFreq =  percentSignFreq + length(strfind(syllabusContent{1,1}{syllabusWord,1},'Percent'));
+        percentSignFreq =  percentSignFreq + length(strfind(syllabusContent{1,1}{syllabusWord,1},'percentage'));
         ind = find(isstrprop(syllabusContent{1,1}{syllabusWord,1}, 'alphanum') == 0);
         syllabusContent{1,1}{syllabusWord,1}(ind)=[];
     end
