@@ -1,4 +1,4 @@
-function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y)
+function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y, usedFeatures)
     % return true if termination criteria satisfied
 
     % if curDepth == maxDepth
@@ -15,8 +15,8 @@ function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y)
     s_variance = sampleVariance(Y);
     
     minSS = 0.001;
- 
-    if curDepth == maxDepth
+    size(usedFeatures, 2);
+    if curDepth == maxDepth || size(usedFeatures, 2) == size(X, 2)
         terminate = true;
     %bound on sumSquaresError
     elseif s_variance < minSS || isnan(s_variance)

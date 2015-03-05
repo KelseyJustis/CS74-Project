@@ -17,6 +17,7 @@ threshold = 0;
 bestError = Inf;
 
 for i=1:size(X, 2)
+    
     [X_i, index] = sortrows(X, i);
     Y_i = Y(index, :);
    
@@ -25,7 +26,7 @@ for i=1:size(X, 2)
         
         if error < bestError
             feature = i;
-            threshold = (X_i(j, i)) + .1;
+            threshold = (X_i(j, i)) + .000001;
             bestError = error;
         end    
     end    

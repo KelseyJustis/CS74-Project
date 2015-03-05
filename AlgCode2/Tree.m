@@ -6,6 +6,9 @@ classdef Tree
         threshold = 0;
         leftChild = 0;
         rightChild = 0;
+        catChildren = {};
+        isCategorical = 0;
+        catSplits = {};
         isLeaf = 0;
         prediction = -1; 
         parent = 0;
@@ -13,22 +16,15 @@ classdef Tree
     
     methods
         %class constructer
-        function obj = Tree(depth, feature, threshold,isLeaf,prediction, parent)
+        function obj = Tree(depth, feature, threshold, isLeaf, prediction, parent, isCategorical)
             obj.depth = depth;
             obj.feature = feature;
             obj.threshold = threshold;
             obj.isLeaf = isLeaf;
             obj.prediction = prediction;
             obj.parent = parent;
-        end
-        
-        function obj = insertLeft(obj,leftChild)
-            obj.leftChild = leftChild;
-        end
-        
-        function obj = insertRight(obj, rightChild)
-            obj.rightChild = rightChild;
-        end
+            obj.isCategorical = isCategorical;
+        end   
     end
     
 end
