@@ -5,14 +5,27 @@ function [predMedians] = predictData(tree, X)
        currNode = tree;
       
        while currNode.isLeaf == 0
-           if X(i, currNode.feature) < currNode.threshold
-              currNode = currNode.leftChild;
+           if currNode.isCategorical == 1
+               for j=1:size(currNode.catSplits, 1)
+                   
+                   %if strmatch(X(i, currNode.feature), currNode.catSplits{j, :})
+                   if find(strncmp(X(i, currNode.feature), currNode.catSplits(j, :), length(X(i, currNode.feature))))
+                       currNode = currNode.catChildren{1, j};
+                       break;
+                   end    
+               end 
+               predMedians(i, 1) = currNode.prediction;
+               break;
            else
-              currNode = currNode.rightChild;
+               if X{i, currNode.feature} < currNode.threshold
+                  currNode = currNode.leftChild;
+               else
+                  currNode = currNode.rightChild;
+               end 
            end    
        end    
        
-       predMedians(i, 1) = currNode.prediction;
+        predMedians(i, 1) = currNode.prediction;
     end    
 end
 

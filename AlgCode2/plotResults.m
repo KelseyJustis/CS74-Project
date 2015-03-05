@@ -15,7 +15,8 @@ function [error, error_trn] = plotResults(X, Y, reps, depth)
         testY = Y(k(trainSize+1:end), :);
 
         for i=1:depth
-            regTree = buildTree(0, i, trainX, trainY, 0);
+            regTree = buildTree(0, i, trainX, trainY, 0, []);
+            
             pred_Yt = predictData(regTree, trainX);
             
             
