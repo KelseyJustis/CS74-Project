@@ -9,9 +9,9 @@ function graphResults(error, error_trn, Y)
    plot(0:size(baseline, 1) - 1, baseline, '--g');
 
    
-   legend('Test Error', 'Training Error', 'Data Variance');
+   legend('Test Error', 'Training Error', 'Baseline Error (Mean)');
    ylabel('Mean Squared Error');
-   title('Preliminary Test Results');
+   title('Final Test Results');
    xlabel('Max Depth of Regression Tree');
 
 end
