@@ -18,7 +18,7 @@ cat_split = -1;
 bestError = Inf;
 
 for i=1:size(X, 2)
-    if ismember(i, usedFeatures) == 0
+  if ismember(i, usedFeatures) == 0
         if iscellstr(X(:, i)) == 0 
             
             [X_i, index] = sortrows(X, i);
@@ -33,11 +33,40 @@ for i=1:size(X, 2)
                     bestError = error;
                 end    
             end
+           
         else 
+            
             cats = unique(X(:, i));
-            rand('twister', 0);
-            rng(0,'twister');
-
+            meanMedians = zeros(size(cats, 1), 1);
+            catCounts = zeros(size(cats, 1), 1);
+            
+            for j=1:size(X, 1) 
+                idx = find(strcmp(X{j, i}, cats));
+                meanMedians(idx) = meanMedians(idx) + Y(j);
+                catCounts(idx) = catCounts(idx) + 1;
+            end
+            meanMedians = meanMedian./catCounts;
+            [meanMedians, idxs] = sort(meanMedians);
+            cats = cats(idxs);
+            
+            
+            for k=1:size(cats, 1)
+                temp_split = cell(2, size(cats, 1));
+                temp_split(1:end, 1:end) = {0};
+                
+                tempSplit(1, :) = cats(1:k);
+                tempSplit(2, :) = cats(k:end);
+                
+                for m=1:size(temp_split(l, :), 2)
+                     if temp_split{l, m} ~= 0 
+                              idx = [idx find(strcmp(X(:, i), temp_split(l, m))).'];
+                     end
+                end
+                split_variance = split_variance + sampleVariance(Y(idx));
+                
+                idx = [idx find(strcmp(X(:, i), temp_split(l, m))).'];
+            end
+            
             for j=ceil((size(cats, 1) / 5)):ceil((size(cats, 1) / 2)) 
                 for k=1:100
                     temp_split = cell(ceil(size(cats, 1) / j), j);
