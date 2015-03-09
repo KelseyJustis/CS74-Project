@@ -1,6 +1,6 @@
 function [error, error_trn] = plotResults(X, Y, reps, depth)
-    error = zeros(depth, 1);
-    error_trn = zeros(depth, 1);
+    error = zeros(depth + 1, 1);
+    error_trn = zeros(depth + 1, 1);
     
     rand('twister', 0);
     
@@ -13,15 +13,16 @@ function [error, error_trn] = plotResults(X, Y, reps, depth)
         trainY = Y(k(1:trainSize), :);
         testX = X(k(trainSize+1:end), :);
         testY = Y(k(trainSize+1:end), :);
-        
-        for i=1:depth
-            regTree = buildTree(0, i, trainX, trainY, 0);
+
+        for i=0:depth
+            regTree = buildTree(0, i, trainX, trainY, 0, []);
             pred_Yt = predictData(regTree, trainX);
-           
-            error_trn(i, 1) = error_trn(i, 1) + MSE(pred_Yt, trainY);
             
+            
+            error_trn(i + 1, 1) = error_trn(i + 1, 1) + MSE(pred_Yt, trainY);
+
             pred_Y = predictData(regTree, testX);
-            error(i, 1) = error(i, 1) + MSE(pred_Y, testY);
+            error(i + 1, 1) = error(i + 1, 1) + MSE(pred_Y, testY);
         end   
         disp('PASS');
     end
