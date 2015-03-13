@@ -1,0 +1,38 @@
+Last updated: September 9, 2012
+Dartmouth College Department of Government GOVT 10 Quantitative Political Analysis
+
+Fall 2012, Time period 10 Mon, Wed & Fri: 10:00-11:05 X-Hour: Th. 12:00-12:50 Location: Cummings 200
+
+Brian Greenhill 223 Silsby Hall brian.d.greenhill@dartmouth.edu Office hours: Tue & Fri 3:00-4:00
+
+Course Objectives: Political scientists use quantitative methods to study a wide variety of research questions. Having a basic understanding of quantitative methods is essential to be able to engage with some of the big empirical debates in political science such as "Are democracies less likely to go to war with each other?", "Do sanctions work?" or "Is the American electorate becoming more polarized?"
+This course is intended to give students an introduction to some of the more fundamental statistical methods used by political scientists. The course covers various methods for exploratory data analysis before moving on to some simple hypothesis tests and then regression analysis. We will also discuss some basic principles of research design and causal inference. The course will focus on developing the following skills: · understanding the basics of probability theory · identifying the strengths and weaknesses of different research designs · collecting and analyzing your own data · running a regression analysis in STATA (or R) · interpreting the results of regression analyses published in leading journals in political
+science
+
+Expectations: The main component of the assessment will be in the form of exams -- a midterm (30% of overall grade) and a final (40% of overall grade). Exams will be traditional in-class, blue-book exams. We will conduct a detailed review of the midterm exam in the first class meeting after the exam.
+10% of your overall grade will be based on your performance on regular homework exercises. Short problem sets will be assigned on most class meetings and will be due at the start of the next class meeting. The problem sets will be graded on a simple Satisfactory/Not Satisfactory scale, with an exceptional grade of S+ for perfect solution sets.
+
+Page 1 of 3
+
+Last updated: September 9, 2012
+The remaining 20% of your grade will be based on a group research project. This is the part of the course where you'll have the opportunity to put the concepts covered in the course into practice in a real-life setting. The goal of the exercise is to pick any social science question of interest to you and design a study that helps answer that question using one or more of the methods covered in this course. Your grade will depend upon the quality of your research design and analysis and not on the substantive findings themselves. In other words, you won't be penalized if your analysis is strong but the evidence you collect turns out not to support your theory. Each group should write up the results of their project in the form of a poster presentation for display in the final class meeting.
+Important Dates and Deadlines: · Midterm exam: Wednesday October 10, in class. · Post-midterm review session: Friday October 12. · Project presentations: Monday November 12, location t.b.a. · Final exam: Friday November 16, 8:00am, location t.b.a.
+Academic Integrity: All students are responsible for understanding and adhering to Dartmouth's rules on academic integrity. The following website provides an excellent discussion of some of the questions commonly raised in discussions about plagiarism: http:// www.dartmouth.edu/%7Ewriting/sources/sources-citation.html
+Accommodations: If you would like to request accommodations to be made for a disability or for any other reason (e.g., religious observances), please ensure that you notify me before the end of the first week of class. Please see this website for further guidance: http:// www.dartmouth.edu/~accessibility/current/index.html
+Required Book:
+Agresti and Finlay Statistical Methods for the Social Sciences, 4th Edition.
+Buying options: · Hardback $162.67 (ISBN-13: 978-0-13-027295-9) · Loose leaf edition $106.00 (ISBN-13: 978-0-321-65647-6) - in stock at Wheelock Books and the Dartmouth Bookstore · E-book $64.99 (ISBN-13: 978-0-13-502415-7) · Used hardback editions are available online for about $100, but make sure you get the 4th edition
+Page 2 of 3
+
+Last updated: September 9, 2012
+All other required reading materials will be posted on Blackboard (look for the symbol beside the readings).
+Reading Schedule: Please note that the following schedule gives the order in which we'll cover the material, but not the specific dates on which we'll cover them. I've kept it flexible to allow us to advance through the material at a pace that suits the specific needs of the students in the class. At the end of each class meeting I'll tell you what to read (and which problems to attempt) before the next class.
+Topic 1: Descriptive Statistics, Sampling and Probability · "The Age of Big Data" The New York Times, February 11, 2012 · Agresti and Finlay, Chapter 1, "Introduction" · Agresti and Finlay, Chapter 2, "Sampling and Measurement" · Agresti and Finlay, Chapter 3, "Descriptive Statistics" · Tufte (1997) on Snow's study of the 1854 cholera epidemic, Visual Explanations,
+pp. 27-37 · Agresti and Finlay, Chapter 4, "Probability Distributions"
+Topic 2: Basics of Statistical Inference · Agresti and Finlay, Chapter 5, "Statistical Inference: Estimation" · Agresti and Finlay, Chapter 6, "Statistical Inference: Significance Tests" · Beber & Scacco "The Devil is in the Digits" The Washington Post, June 20, 2009
+Topic 3: Applications of Statistical Inference · Agresti and Finlay, Chapter 7, "Comparison of Two Groups" · Agresti and Finlay, Chapter 8, "Analyzing Association between Categorical Variables" · Parker (2010) "Race and the Tea Party: Who's Right?"
+Topic 4: Regression Analysis · Agresti and Finlay, Chapter 9, "Linear Regression and Correlation" · Agresti and Finlay, Chapter 10, "Introduction to Multivariate Relationships" · Agresti and Finlay, Chapter 11, "Multiple Regression and Correlation" · Mutz (2010) "The Dog that Didn't Bark: The Role of Canines in the 2008
+Campaign", PS: Political Science and Politics 43 (4): 707-712 · Ross (2001) "Does Oil Hinder Democracy?" World Politics 53 (3): 325-361
+Page 3 of 3
+
+

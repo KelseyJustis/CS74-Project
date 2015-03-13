@@ -1,0 +1,38 @@
+Physics 44 - Classical Mechanics Spring 2014
+
+Professor:
+
+Robyn Millan Office: 244 Wilder Email: Robyn.Millan@dartmouth.edu
+
+Class Meetings: MWF 11:15-12:20, room 102 Wilder X-hour: Tues. 12:00-12:50, room 102 Wilder
+
+Text: Classical Mechanics by John R. Taylor
+
+Books on Reserve: Classical Dynamics of Particles and Systems, Marion and Thornton Lectures on Physics, Vol.I Feynman
+
+Grading: Weekly Homework 50% Midterm 20% Final (May 30 8am): 30%
+Course Outline:
+· Brief Review (Ch. 1-4)
+­ Newton's Laws ­ Conservation Laws
+· Oscillations
+­ Hooke's Law (§5.1-5.2) ­ Damped and driven oscillations (§5.3-5.5) ­ Resonance (§5.6) ­ Coupled oscillators and normal modes of oscillation - introduction (§11.1-11.3)
+· Lagrangian Formulation of Mechanics
+­ Vartiational Principles (Ch. 6) ­ Lagrange Equations (§7.1-7.5) ­ Symmetries and Conservation Laws (§7.6, §7.8)
+· Application of Lagrangian Mechanics
+­ Orbital Dynamics (Review §4.8, Ch. 8) ­ Rigid body motion and the symmetric top (Ch. 10) ­ Couple Oscillators revisited (§11.4-11.7)
+
+1
+
+· Hamiltonian Dynamics
+­ Hamilton's Equations (Ch. 13) ­ Liouville's Theorem
+· Introduction to Non-linear Dynamics
+­ Introduction; Examples of non-linear systems (§12.1) ­ Driven damped pendulum (§12.2-12.5) ­ Other examples: Charged particle in electrostatic wave, fermi acceleration
+Other Information:
+Honor Principle: By taking this class, it is assumed that you have read, understand, and will uphold the Academic Honor Principle. Therefore, I recommend that you review the Honor Principle before taking this class (See http://www.dartmouth.edu/uja/honor/). You are encouraged to help each other learn the course material. However, anything with your name on it, such as homework or exams, should represent your own, independent work. On your work, you should reference significant pointers from another student in the same way that you would reference another textbook. If you are unsure about whether something is "ok", please come talk to me.
+Missed Examinations: There are no make-up in-class examinations. if you miss the in-class midterm for an officially excused reason (documented illness or family emergency), your score will be replaced with your final exam score. If you do not have a valid excuse, you will receive a zero. Under certain circumstances, I will allow students to take an exam early (for valid excuses such as major religious holiday or official College business). If you know you have a conflict with an exam, please notify me as soon as possible.
+Email Policy: You can help me answer your emails promptly and efficiently by putting "Physics 44" in the subject line so I can filter it. I will check my email at least once per day but often do not have the chance to check it more frequently. If you have an emergency and need to talk to me right away, please call me at 6-3969.
+Students with Disabilities: Any student with a documented disability needing academic adjustments or accommodations is requested to speak to me by the end of the second week of the term. All discussions will remain condential, although the Student Disabilities Coordinator may be consulted to verify the documentation of the disability.
+Religious Observances: Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in the course, please meet with me before the end of the second week of the term to discuss appropriate accommodations.
+2
+
+
