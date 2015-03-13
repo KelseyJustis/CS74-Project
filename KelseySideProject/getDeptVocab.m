@@ -7,9 +7,7 @@ deptVocab = cell(numOfDepts + 1,1);
 deptVocab{1,1} = 'Department Name';
 deptVocab{1,2} = 'Department Vocab';
 
-currDeptName = deptNames(1);
 currDeptVocab =[];
-j = 2;
 for i=1:numOfDepts
     currDeptName = deptNames(i); % Get current dept name
     deptVocab{i+1,1} = currDeptName; % Assign current department name
@@ -19,3 +17,4 @@ for i=1:numOfDepts
     currDeptVocab = vertcat(currDeptVocab{:});
     deptVocab{i+1,2} = unique(currDeptVocab);
 end
+save('deptVocab','deptVocab');

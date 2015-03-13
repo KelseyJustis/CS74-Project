@@ -1,8 +1,8 @@
-%% Input: Department vocabs
+%% Input: Department vocab
 %  Output: Department vocab not shared with outher departments and
 %  frequency of shares with other departments
 
-% load(deptVocab);
+load('deptVocab');
 numOfDepts = length(deptVocab) - 1;
 deptJargon = cell(numOfDepts + 1,3);
 deptJargon{1,1} = 'Department Name';
@@ -26,6 +26,7 @@ for currDept=2:numOfDepts+1
     deptVocabShared{currDept,2} = length(currDeptVocab);
     deptVocabShared{currDept,3} = currDeptVocab;
     allVocabShared = [];
+    vocabShared = [];
     % Compare each department's vocab to current department's vocab
     for dept = 2:numOfDepts+1
         if (dept~=currDept)
@@ -51,5 +52,4 @@ for currDept=2:numOfDepts+1
         deptJargon{currDept,2} = currDeptVocab;
     end
 end
-
-
+save('deptJargon','deptJargon');

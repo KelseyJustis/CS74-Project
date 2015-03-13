@@ -1,4 +1,4 @@
-% [gradeDist] = getMedianCountData()
+ load('gradeDist');
  gradeDistMat = zeros(size(gradeDist,1)-2,size(gradeDist,2)-1);
 for dept=3:size(gradeDist,1)
     for grade=2:size(gradeDist,2)
@@ -7,7 +7,7 @@ for dept=3:size(gradeDist,1)
 end
 grades = ['A' 'A-' 'B+' 'B' 'B-' 'A/A-' 'A-/B+' 'B+/B', 'B/B-' 'C+' 'C'];
 for dept=1:size(gradeDistMat,1)
-    bar(gradeDistMat(dept,:),'facecolor', 'k','edgecolor',rand(1,3));
+    bar(gradeDistMat(dept,:),'facecolor', 'k');
     hold on;
 end
 set(gca,'XTickLabel',{'A' 'A-' 'B+' 'B' 'B-' 'A/A-' 'A-/B+' 'B+/B', 'B/B-' 'C+' 'C'})
