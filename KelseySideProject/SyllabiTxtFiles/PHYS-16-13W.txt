@@ -1,0 +1,62 @@
+Physics 16: Honors Electricity and Magnetism
+Winter 2013 Instructor: Marcelo Gleiser
+Week 1 No Lab Jan 7 M Electric charge; Coulomb's Law
+9 W Energy of system of charges; the electric field 11 F Flux and Gauss's law: Applications
+Week 2 Lab 1: Coulomb's Law 14 M Apps. cont; energy of E field; Line int. of E field; Potential energy 16 W Gradient; Field from potential; Potential of charge distribution 18 F Potential of charge distribution cont.
+Week 3 Lab 2: Potential Plotting 21 M No class: Martin Luther King day 23 W Differential form of Gauss's law; divergence
+X 24 Th Conductors and insulators; Simple conductors 25 F Simple conductors cont.; Capacitors
+Week 4 No Lab 28 M Capacitors cont.; Potentials and charges; energy in capacitors 30 W Energy in capacitors cont.
+Feb 1 F Motion of charges in E and B fields (Read notes)
+Week 5 Lab 3: Electron Gun 4 M Midterm Examination 6 W Electric currents; Steady currents; Ohm's law
+X 7 Th Circuits; Energy dissipation in currents; Electromotive source 8 F Winter Carnival ­ no class
+Week 6 No Lab 11 M RC Circuits; Magnetic fields 13 W Magnetic fields cont.
+X 14 Th Differential form of Ampere's law; curls 15 F Vector potential; field of any current-carrying wire
+Week 7 Lab 4: Magnetic field mapping 18 M Faraday's induction; current loops 20 W More current loops
+X 21 Th Universal Law of Induction 22 F Mutual and self inductance
+Week 8 No Lab
+
+25 M RL Circuits; Energy in B field [Damian] 27 W Maxwell's Equations and EM waves [Damian] Mar 1 F RLC Circuits [Damian]
+Week 9 Lab 5: RLC Circuits 4 M Fields of Moving Charges and Special Relativity (1) 6 W Fields of Moving Charges and Special Relativity (2)
+X 7 Th Blackbody Radiation (1) 8 F Blackbody Radiation (2)
+
+March 11
+
+Final Examination at 3:00 p.m.
+
+Course Information
+
+Textbook:
+
+Purcell, Edward Electricity and Magnetism, 2nd edition Cambridge University Press, 2011. There are 6 copies on reserve at Kresge
+
+Faculty Teaching Assistants
+Grader
+
+Marcelo Gleiser (116 Wilder) W 1:45-3:00 Damian Sowinski - Labs (202 Wilder)
+
+F 1:00-3:00
+
+Lectures MWF, 115 Wilder, 10:00-11:05 am.
+X-Hours Held on Thursdays, 12:00-12:50 am.
+Course info site: www.dartmouth.edu/~blackboard
+Laboratories 5 labs, conducted in 2 sessions (Wilder 216) Mon 2-5, 7-10 pm
+
+Examinations
+
+The midterm (65 minutes) counts for 15% of your grade. The final (180 minutes), covering the entire course with greater emphasis on the latter half, counts for 25%. Weekly homework counts for 35% of your grade. Lab reports for 25%.
+
+Lab Reports
+
+Due 12 noon the MONDAY after lab activity at P16 lab return box (clearly marked down by front doors under students mailboxes) [penalty for late work: 10% of grade/day]
+
+Homework Given in class every Friday and due at 12 noon next FRIDAY at P16 homework box (main entrance hall).
+
+Honor Principle
+
+Adherence to the Honor Principle means that you will write your own exams (closed book) without assistance and write up the labs and term essay (if applicable) by yourself. The essay should be properly documented (see Sources: Their Use and Acknowledgment, 1998, http://www.dartmouth.edu/~sources). Otherwise, we encourage you to work together in the labs and in studying for the exams.
+
+Special Situations
+
+Students with disabilities, including "invisible" disabilities like chronic diseases or learning disabilities, are encouraged to speak with us so that appropriate accommodations can be arranged.
+
+

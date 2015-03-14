@@ -1,0 +1,81 @@
+Image from Brave © Pixar/Disney
+
+CS 22 3D Digital Modeling
+
+Lorie Loeb Spring 2014 ­ 10A
+Syllabus
+
+Instructor:
+
+Lorie Loeb
+
+Office Location: Sudikoff 163
+
+Email:
+
+lorie.loeb@dartmouth.edu
+
+Office Phone:
+
+603.686.8726
+
+Office Hours:
+
+Wednesdays at 12-2 PM or by appointment.
+
+X-hours:
+
+Attendance at all x-hours is mandatory
+
+Maya Boot Camp: If you are new to Maya, you are required to attend an intro to Maya
+
+boot camp session on Tuesday, March 25, 7-9 PM.
+
+Course Description This course teaches the principles and practice of 3D digital modeling, with some instruction on materials, textures and rendering. You will gain a fundamental
+understanding of polygons, subdivision surfaces, NURBS and splines along with
+deformations and editing in order to create models using 3D software. You will develop skills in 3D design and apply these in a series of assignments that will end in
+the creation of a fully rigged biped model complete with skeleton, inverse and forward kinematics and motion controls. In addition to class time, you must spend a significant
+number of hours in the lab completing homework and gaining proficiency with the
+
+tools.
+Class will meet every x-hour: you are required to attend. There will also be a mandatory special Maya Bootcamp session in the first week for students who have not worked with Maya before. (Tuesday, September 17, 7-9 PM)
+Dist: TLA.
+Course requirements:
+You are given weekly lab assignments that are completed during the week and turned in for review. Assignments are evaluated against a set of technical criteria as well as on aesthetic quality. Late assignments will result in an automatic lowering of the grade. Attendance at each class and lab is expected. Missing classes or late arrival will result in a lowered grade.
+How to succeed in this course: Do the work (keep up with the assignments), do it early (don't wait until the night before it's due), do it regularly (better to work some every day than to do one long session in the lab), turn it in on time (late assignments will result in a lowered grade and keep you from having your work critiqued by the class), show up (ask questions, participate during discussions, come ready to work), be here now (don't plan do email or work on other courses during class time), revise your work (I accept revised work up until the end of the term and will revise grades accordingly), have fun (you know how to do it).
+Course Goals:
+· Learn how to make "good" models. · Develop an effective workflow and pipeline · Gain an elementary understanding of NURBS, subdivisions and splines. · Create a biped model that is fully rigged and skinned. · Form a basic understanding of lighting, mental ray rendering and global
+illumination. · Understand texturing. · Create a short animation of your biped model.
+Learning Objectives: By the end of the term you will:
+· Know what polygons, NURBS and subdivision surfaces are and how to use them to build a model.
+· Be comfortable working in Maya software to create a model, texture and rig. · Know what a "good" model is and how to create one (see below for description of
+a good model). · Know how to create a biped using a smooth workflow (NURBS to Polygons to
+Subdivision Surfaces or High Resolution Polygons), create a texture map, build
+
+a skeleton, set up IK and FK on the skeleton, bind the geometry to the skeleton and create controls.
+Teaching Methods: Our class sessions will consist of short lectures, critiques of your work, film screenings, demonstrations, workshop and play. The lectures will be about concepts underlying the work we do in class. You are encouraged to ask questions. I have always found that if one person has a question, others do to; asking your question will benefit the entire class. Critiques are a critical part of the digital arts courses. We use this time to look at each other's work, discuss what works, why it works, what doesn't work, why it doesn't work, how it could be improved. These are a central part of the course and attendance at critiques is mandatory. It is during this process that you will learn the most.
+Film screenings will allow you to see modeling applied to finished animations and help you see what a good model looks like. Demonstrations generally happen during the second half of the class or in x-hours. These will usually be accompanied by a written tutorial. You are encouraged to follow along during these demonstrations as many new bits of information will arise during these times. Workshops are times when you will work on your homework in class. The TA's and I will move around the room, helping you as needed or simply looking over your shoulder.
+The play part of the course will be the quick model competitions and a party in which you will have fun while working as a team to complete models.
+Grading:
+Weekly lab assignments: 50 % Final project 30 % Attendance and participation 20%
+Attendance: Missing more than 2 classes (without a doctor's note) or late arrival to class will automatically result in a lowered grade.
+What is a "good" model?
+A good model is:
+Made with a good, clean, optimized geometry: · rounded, not square · clean edges that flow through the model · quads or triangles · "enough" detail for the intended use · not too much detail so that it is needlessly heavy · surface normals all point in the correct direction · eliminate unnecessary faces
+
+· built smart (build a side and mirror it, use a good workflow and proper labeling, etc.)
+· built with the use in mind · attention to corners: smoothed, beveled or creased
+· Textured well: · uses the proper image type · has "enough" detail to make it look "good" · works with the design · layered when needed · clean and as small as possible · 2D if possible
+· Rigged properly for motion: · know how the model will move · rig for that motion · easy to understand controls · doesn't break the geometry · doesn't break · no extra attributes
+Books
+Optional:
+Learning Autodesk Maya 2014, (Official Autodesk Training Guide, includes DVD):Foundation (Paperback) by Autodesk Maya Press (Author)
+Digital Lighting and Rendering (2nd Edition) (Paperback)
+Digital Texturing and Painting (Paperback)
+The Artist's Complete Guide to Facial Expression (Hardcover)
+Maya Hyper-Realistic Creature Creation, with DVD: A hands-on introduction to key tools and techniques in Autodesk Maya
+Male Anatomy DVD http://www.freedomofteach.com/products/dvds/dvd_human_anatomy
+Anatomy Figure for Human modeling reference (little expensive, but worth it) Male Anatomy Figure http://www.freedomofteach.com/products/figures/figure_male_3
+Advanced Maya: Character Modeling (DVD-ROM) by Kenny Cooper (Author), Jim Lammers (Author)
+
+
