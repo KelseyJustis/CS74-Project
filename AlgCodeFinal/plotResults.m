@@ -18,7 +18,6 @@ function [error, error_trn] = plotResults(X, Y, reps, depth)
             regTree = buildTree(0, i, trainX, trainY, 0, []);
             pred_Yt = predictData(regTree, trainX);
             
-            
             error_trn(i + 1, 1) = error_trn(i + 1, 1) + MSE(pred_Yt, trainY);
 
             pred_Y = predictData(regTree, testX);
