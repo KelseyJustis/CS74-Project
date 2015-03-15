@@ -14,8 +14,10 @@ function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y, usedFeatu
     minSize = 2;
     s_variance = sampleVariance(Y);
     
-    minSS = 0.001;
+    minSS = 0.001; %minimum sum of squres error
     size(usedFeatures, 2);
+    %terminate if our currrent depth is equal to the maximum depth given input
+    %or if the number of features we already split on equals the number of features in our data
     if curDepth == maxDepth || size(usedFeatures, 2) == size(X, 2)
         terminate = true;
     %bound on sumSquaresError
