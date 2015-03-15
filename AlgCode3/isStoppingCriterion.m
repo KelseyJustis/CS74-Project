@@ -1,13 +1,5 @@
 function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y, usedFeatures)
     % return true if termination criteria satisfied
-
-    % if curDepth == maxDepth
-        % return true (term = 1)
-    % elseif sumSquares() < blah
-        % return true (term =1)
-    % elseif curDataSubset.size() < minsize
-        % return true
-    % else return false (term = 0)
     
     true = 1;
     false = 0;

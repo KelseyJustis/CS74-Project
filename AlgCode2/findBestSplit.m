@@ -4,6 +4,7 @@ function [feature, threshold, cat_split] = findBestSplit(X, Y, usedFeatures)
 %bestSplit = [0 0]
 %bestMSE = inf
 
+        %pseudocode
 %for i = 1: Xfeatures (size(X,2))
     %sortedXarray = sort X based on feature(i)
     % for j = 1: #examples (every split location) 

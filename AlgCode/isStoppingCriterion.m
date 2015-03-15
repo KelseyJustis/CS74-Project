@@ -1,6 +1,7 @@
 function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y)
     % return true if termination criteria satisfied
 
+        %pseudocode
     % if curDepth == maxDepth
         % return true (term = 1)
     % elseif sumSquares() < blah
