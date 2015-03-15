@@ -1,4 +1,4 @@
-function [error, error_trn] = plotResults(X, Y, reps, depth)
+function [error, error_trn] = getResults(X, Y, reps, depth)
     error = zeros(depth + 1, 1);
     error_trn = zeros(depth + 1, 1);
     
