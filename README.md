@@ -17,11 +17,12 @@ Authors: Graeson McMahon, Kelsey Justis, Coralie Phanord
 
 		-AlgCodeFinal: Final version of decision tree algorithm
 
-		-Data: Syllabi .txt files, from which we extract our features
-
 		-OldAlgorithmVersions: Version of algorithm from early tests and milestone
 
 		-ParserCode: Code to extract features from syllabi .txt files
 
-		-PDFTextExtractionCode: Reads in our .csv file of medians; given a syllabus .txt file, pairs it with the corect median.
+		-PDFTextExtractionCode: Reads in our .csv file of medians; given a syllabus .txt file, pairs it with the corect median. 
+					Also contains .txt files for every syllabus.
+
+
 
