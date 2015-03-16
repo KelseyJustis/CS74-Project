@@ -17,7 +17,7 @@ for currDept=2:numOfDepts+1
     
     % Creates a matrix to hold information on how departments compare
     deptVocabShared = cell(numOfDepts+1,3);
-    deptVocabShared{1,1} = 'Department Name';
+    deptVocabShared{1,1} = 'Department Shared With';
     deptVocabShared{1,2} = '# Of Words Shared';
     deptVocabShared{1,3} = 'Department Vocab Shared';
     

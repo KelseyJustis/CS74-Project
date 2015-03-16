@@ -1,3 +1,5 @@
+load('mediansData.mat');
+load('courseFeaturesData.mat');
 
 courseGradeDist = cell(1,3);
 courseGradeDist{1,1} = 'Department Name';
