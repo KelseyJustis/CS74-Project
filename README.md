@@ -18,6 +18,9 @@ Authors: Graeson McMahon, Kelsey Justis, Coralie Phanord
 		-AlgCodeFinal: Final version of decision tree algorithm
 
 		-OldAlgorithmVersions: Version of algorithm from early tests and milestone
+		
+		-OutsideVocabDatabases: .txt files used by the parser to extract certain features (for instance, a list
+					of 'testing' words)
 
 		-ParserCode: Code to extract features from syllabi .txt files
 
