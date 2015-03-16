@@ -1,26 +1,0 @@
-Government 18 Introduction to Game Theory
-Instructor: Michael Herron Office: Silsby Hall 201 Phone: 603-646-2693 Email: michael.c.herron@dartmouth.edu Office hours: Monday, 3:00pm-4:00pm, and Wednesday, 3:00pm - 4:00pm Class times: Monday, Wednesday, and Friday, 10:00am-11:05am, in Rockefeller 2 X-hour: Thursday, 12:00pm-12:50pm, in Rockefeller 2
-Course Description
-Game theory is used to study how individuals and organizations interact strategically, and this course introduces game theory with a focus on political science applications. Insights from game theory are essential to understanding many facets of politics, such as international relations, political party competition, voting, interest group behavior, jury decision-making, and so forth. The course will cover normal and extensive form games, Nash equilibria, location models, mixed strategies, and imperfect information. The course will also study how simple games, like prisoner's dilemma, chicken, and stag hunt, can be used to understand behavior. If time permits the course will also cover the basics of Bayesian games.
-Analyses of strategic situations can be subtle, ambiguous, and often counter-intuitive. On the other hand, they are often fascinating and challenging. With this in mind, studying game theory will broaden one's exposure to and improve one's understanding of competitive and strategic situations.
-Required Texts
-Games, Strategies, and Decision Making, by Joseph E. Harrington, Jr.
-Prerequisites
-Mathematics is the language of game theory. Nonetheless, the level of mathematics in Government 18 will not be very high and it should be accessible to almost all undergraduates at Dartmouth. To complete this course students must have knowledge of calculus up to the level of Mathematics 3. There will be reviews as necessary during the quarter on basic differential calculus and function maximization. Government 18 will also draw on elementary probability theory; students who have not seen this material will need to learn it as the course progresses.
-Homework
-Problems sets will be assigned regularly. Students may work in groups of up to four on problem sets and are free to consult outside sources. Only one problem set should be turned in by a group that works together on it. It is highly recommended that students try all assigned problems by themselves before working with others. By signing his or her name to a group assignment, a student asserts that he or she understands what the group accomplished.
-1
-
-Late problem sets--defined as problem sets handed in after the end of the class in which they are due--will not be accepted unless prior permission for a late homework was given or there are extenuating circumstances, i.e., medical conditions. Similarly, only hard copy problem sets will be accepted unless there are extenuating circumstances, i.e., unexpected travel away from campus. Problem sets containing multiple pages must be stapled, and unstapled, multiple-page problem sets will not be accepted.
-Examinations and Grading Final course grades will be determined on the following basis: · Problem Sets 20%. · Midterm 1 (Monday, January 28, in class), 25%. · Midterm 2 (Monday, February 18, in class), 25%. · Final (Monday, March 11, 3:00pm-6:00pm), 30%. Final exam times are determined by the registrar. See http://www.dartmouth.edu/~reg/calendar/exams/12-13.html for details. No make-up exams will be given, and a student who misses an exam will receive a score
-of zero unless he or she received permission to miss it. Final course grades in Government 18 will be curved.
-Students in Government 18 are responsible for understanding the academic integrity rules in place at Dartmouth. Explanations of these rules can be found at http://www. dartmouth.edu/~uja/honor/students.html, and details about sources is available at http: //www.dartmouth.edu/~writing/sources. Ignorance of the Academic Honor Principle will not be considered a mitigating excuse if a violation occurs. Beyond any penalties imposed as a consequence of an Academic Honor Principle investigation, any student who is found to have cheated or plagiarized on a midterm or the final examination will receive a failing grade in Government 18.
-Schedule Changes Government 18 will not meet on January 21, February 8, or March 1. Government 18
-will meet during its X-hour on January 24, February 7, and February 28. Other X-hours will be scheduled as needed.
-2
-
-Course Outline 1. Introduction and motivation (Harrington 1) 2. Representing games in extensive and strategic forms (Harrington 2) 3. Rationality, dominance, and rationalizability (Harrington 3) 4. Nash equilibria in canonical games and in games with two or three players (Harrington 4) 5. Nash equilibria in discrete n-player games (Harrington 5) 6. Nash equilibria in continuous games (Harrington 6) 7. Probability and mixed strategies (Harrington 7) 8. Sequential games with perfect information (Harrington 8) 9. Sequential games with imperfect information (Harrington 9)
-10. Introduction to Bayesian games and private information (Chapter 10)
-3
-
-

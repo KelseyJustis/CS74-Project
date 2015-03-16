@@ -3,7 +3,7 @@
 COURSE MEDIAN PREDICTION VIA SYLLABI ANALYSIS
 
 Authors: Graeson McMahon, Kelsey Justis, Coralie Phanord
-
+   
 	- TO RUN ALGORITHM:
 
 		In AlgCodeFinal, execute 'runHandpicked.m' (specifying number of random partitions (reps) and maximum depth (depth))
@@ -11,7 +11,10 @@ Authors: Graeson McMahon, Kelsey Justis, Coralie Phanord
 		run the version that includes every word found as a feature (this process is VERY long for even modest depths, due to the size
 		of the feature set. 
 
-
+    - TO RUN PARSER:
+    
+        In ParserCode, execute 'Parser.m' and 'getCommonWordsPresent.m'; this will provide the required '.mat'
+        file for the algorithm.
 
 	- Folder breakdown:
 

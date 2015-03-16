@@ -1,19 +1,0 @@
-CS070/CS170, Spring 2013
-Numerical and Computational Tools for Applied Science
-About Syllabus
-Course description
-This course provides a practical and principled coverage of numerical and computational tools of use in many scientific disciplines. The focus is on the analysis and application of numerical methods for linear algebra, optimization, and function approximation. The course also provides an introduction to Matlab, a programming environment for scientific computing. This course is designed for undergraduate and graduate students across the sciences and social sciences.
-Administrative information
-Instructor Gevorg Grigoryan | 113 Sudikoff | office hours: by appointment
-Lectures T/Th 2:00 pm  3:50 pm | xhour (may be used occasionally to make up for cancelled classes) W 4:15  5:05
-Lab Sudikoff 001: Linux machines with Matlab. As an alternative, you can install and use Matlab on your machine by following the instructions provided here.
-Textbooks (these books are suggested as additional references; they are not required) Gilbert Strang, Linear Algebra and Its Applications (4th Edition), Brooks Cole 2005 Michael T. Heath, Scientific Computing: An Introductory Survey, McGrawHill 2002
-Grading and policies
-Grading scheme Course grades will be based on four homework assignments (60%), final project (30%) and class participation (10%). The homeworks will require answering questions and programming in Matlab.
-Final project (30%) The final project provides the opportunity to more deeply explore a topic of interest, individually or in a group, choosing an appropriate mixture of research, implementation, and application. A project proposal and a project update will ensure that we are on the same page; a project presentation will make for a fun class wide exchange; a project report will document what was done and what was learned.
-Late homeworks Each student has 3 free late days to be used over the course of the term as he/she likes. Once these days are used up, any homework turned in late will be penalized 25% per late day. Any portion of a late day is counted as one full day. Assignments are typically due at 11:59 pm of the due date. The code portion of each homework submission must be turned in via Blackboard. The answers to technical questions can either be written on paper and left in the course mailbox near the Sudikoff entrance or be submitted in electronic form via Blackboard.
-Auditing Please contact the instructor if you would like to audit the course.
-Academic integrity
-You may discuss the assignments with other current CS070/170 students, but your homework submission must be entirely your own work. That is, your code and any other solutions you submit must be created, written/typed, and documented by you alone. You may not copy anything directly from another student's work. For example, memorizing or copying onto paper a portion of someone else's solution would violate the honor policy, even if you eventually turn in a different answer. Similarly, emailing a portion of your code to another student, or posting it online for them to see would violate the honor code. I do encourage discussion of assignments between students, subject to these rules. You cannot make use of any code taken from outside references for your homework. You should treat any external code as software written by another CS070/170 student: you are not allowed to copy it or to use it as a template to implement your solution. These rules will be strictly enforced and any violation will be treated seriously.
-
-

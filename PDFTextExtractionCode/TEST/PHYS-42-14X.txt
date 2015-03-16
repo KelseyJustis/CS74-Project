@@ -1,14 +1,0 @@
-Course: Phys 42 (Introductory Quantum Physics) Summer Quarter 2014
-Lecturers: Miles Blencowe and Joachim Ankerhold Office: The Observatory (Behind Wilder) Blitz: blencowe@dartmouth.edu; Joachim.Ankerhold@dartmouth.edu Office Hours: Miles: Thursdays 2:00-4:00pm (if this time doesn't work for you, contact me to set up another time); Joachim: TBA.
-Time & Place: Tuesday, Thursday 10:00-11:50 AM (10A) in Kemeny 105 (Math Dept.). X-hour: Wednesday 3:00-3:50 PM (used only for make up classes in the event of cancelled lectures). Last lecture: Tuesday August 19.
-Exam Schedule: Midterm: July 22 (Tuesday) in class. Final: August 25 (Monday) 11:30 AM; location TBA.
-Listed below are the syllabus topics and relevant textbook chapters; more specific recommended reading will be given as we proceed through the course.
-Syllabus: 1. The Schrodinger Wave Equation [Griffiths Ch. 2]. 2. The Formalism of Quantum Mechanics [Griffiths Ch. 3]. 3. The Quantum Harmonic Oscillator [Griffiths Ch. 2]. 4. Quantum Angular Momentum [Griffiths Ch. 4]. 5. The Hydrogen Atom [Griffiths Ch. 4]. 6. Approximation Methods [Griffiths Ch. 6]. 7. Transitions [Griffiths Ch. 9] 8. Quantum Systems With More Than One Particle [Griffiths Ch. 5]. 9. An Introduction to Quantum Information Science [Griffiths Ch. 12].
-Most materials, including problem sets and solutions, will be posted on Canvas. Please check regularly for updates.
-
-Course Requirements: 1. Problem sets (7-8 in total) [60%]. Posted Thursdays or Fridays on Canvas. Put your written homework in the P42 homework box (located in entrance area of Wilder) by 6 PM of Thursday due date, or hand in to me during that Thursday's lecture. 2. Midterm [15%]. 3. Final [25%].
-Class Attendance: Class attendance/participation is not recorded. However, we strongly encourage you to not miss class if you can help it. The lectures are pretty self-contained and don't always closely follow the text; the exams and problem sets will assume knowledge only of material covered in class lectures.
-Required Text: "Introduction to Quantum Mechanics (2nd Edition)" by David Griffiths; several copies are available in Kresge Physical Sciences Library: four hour loan.
-Honor Principle: You may discuss a homework problem, but written solutions must be your own. However, you are encouraged to attempt at least one question on every problem set completely on your own, so as to aid in preparing for the midterm and final.
-
-
