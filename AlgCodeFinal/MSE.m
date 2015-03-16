@@ -1,4 +1,3 @@
-function err = MSE(pred_Y, correct_Y)
 % This function calculates the Mean Squared Error given two sets of output
 % values, one set corresponding to the correct values, the other set
 % representing the output values predicted by a regression model
@@ -8,7 +7,7 @@ function err = MSE(pred_Y, correct_Y)
 %
 % OUTPUT:
 %  err: Mean Squared Error (scalar value)
-%
+function err = MSE(pred_Y, correct_Y)
 
 [m,~] = size(pred_Y);
 err = 0;

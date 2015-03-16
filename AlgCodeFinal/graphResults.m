@@ -1,4 +1,4 @@
-function graphResults(error, error_trn, Y)
+function graphResults(error, error_trn)
    baseline = zeros(size(error,1), 1);
    baseline(1:end) = error(1);
   

@@ -1,30 +1,24 @@
+% Given current depth, maximum depth, X and Y subsets, and used feature
+% set, stop building tree branch if we have reached a base case.
 function [ terminate ] = isStoppingCriterion(curDepth, maxDepth, X, Y, usedFeatures)
-    % return true if termination criteria satisfied
-
-    % if curDepth == maxDepth
-        % return true (term = 1)
-    % elseif sumSquares() < blah
-        % return true (term =1)
-    % elseif curDataSubset.size() < minsize
-        % return true
-    % else return false (term = 0)
-    
-    true = 1;
-    false = 0;
     minSize = 2;
     s_variance = sampleVariance(Y) / size(Y, 1);
-    
     minSS = 0.001;
-    size(usedFeatures, 2);
+    
+    % Terminate if we have reached the max depth or exhausted feature set:
     if curDepth == maxDepth || size(usedFeatures, 2) == size(X, 2)
-        terminate = true;
-    %bound on sumSquaresError
+        terminate = 1;
+    
+    % Terminate if variance below certain threshold:
     elseif s_variance < minSS || isnan(s_variance)
-        terminate = true;
-    %bound on examples left
+        terminate = 1;
+        
+    % Terminate if subset below minSize:
     elseif size(X, 1) < minSize
-        terminate = true;
+        terminate = 1;
+        
+    % Else continue building tree:    
     else
-        terminate = false;
+        terminate = 0;
     end
 end
